@@ -1,0 +1,3324 @@
+date,home_team,away_team,home_goals,away_goals,match_importance_tier
+2022-04-27,Tunisia,Croatia,2,3,QUALIFIER
+2023-09-26,Qatar,Denmark,1,1,FRIENDLY
+2021-05-27,Costa Rica,Cameroon,0,0,QUALIFIER
+2020-06-13,Mexico,Senegal,3,5,CONFED_CAMP
+2019-01-24,Spain,Argentina,1,1,QUALIFIER
+2026-03-09,USA,Switzerland,1,2,QUALIFIER
+2019-02-17,Cameroon,Colombia,0,0,QUALIFIER
+2025-03-08,England,Costa Rica,0,0,QUALIFIER
+2023-11-06,Spain,Belgium,5,0,FRIENDLY
+2024-02-26,Canada,Portugal,0,0,FRIENDLY
+2022-06-22,Canada,Qatar,0,1,FRIENDLY
+2021-09-26,Japan,Uruguay,4,0,FRIENDLY
+2018-09-15,France,Germany,0,0,QUALIFIER
+2019-08-07,Ghana,Portugal,0,0,CONFED_CAMP
+2021-08-03,Qatar,Brazil,2,0,QUALIFIER
+2021-04-07,South Korea,Switzerland,0,0,FRIENDLY
+2024-01-23,England,Senegal,1,0,QUALIFIER
+2024-09-08,Australia,Uruguay,1,2,QUALIFIER
+2021-04-04,Saudi Arabia,France,0,6,FRIENDLY
+2018-05-16,Spain,Costa Rica,6,1,CONFED_CAMP
+2025-08-12,Mexico,Argentina,0,0,FRIENDLY
+2018-11-25,Denmark,Netherlands,0,1,QUALIFIER
+2020-08-22,England,Tunisia,2,2,QUALIFIER
+2023-01-20,Qatar,Cameroon,0,3,CONFED_CAMP
+2024-11-14,South Korea,Qatar,3,0,QUALIFIER
+2021-10-05,France,Japan,4,0,WC_FINAL
+2021-01-15,South Korea,Germany,1,0,QUALIFIER
+2019-11-30,Switzerland,Colombia,0,3,FRIENDLY
+2019-02-17,Argentina,Germany,0,0,WC_FINAL
+2024-06-08,USA,Morocco,5,0,CONFED_CAMP
+2020-02-12,South Korea,Denmark,3,1,CONFED_CAMP
+2019-04-21,Croatia,Morocco,0,0,CONFED_CAMP
+2020-01-28,South Korea,Costa Rica,0,3,QUALIFIER
+2018-09-08,Morocco,Colombia,0,1,QUALIFIER
+2020-11-30,USA,Germany,2,0,CONFED_CAMP
+2021-05-18,Cameroon,Colombia,4,0,CONFED_CAMP
+2023-08-25,Iran,Croatia,0,0,QUALIFIER
+2025-11-04,Denmark,France,1,0,QUALIFIER
+2026-03-16,Costa Rica,Poland,2,0,QUALIFIER
+2020-04-13,Belgium,Poland,0,0,FRIENDLY
+2021-11-03,Spain,South Korea,2,2,QUALIFIER
+2022-12-17,Saudi Arabia,Canada,2,1,QUALIFIER
+2022-08-06,Ecuador,Cameroon,1,0,QUALIFIER
+2025-05-17,Spain,Argentina,10,0,QUALIFIER
+2018-02-20,Iran,Portugal,1,0,QUALIFIER
+2018-07-07,Netherlands,Mexico,0,1,QUALIFIER
+2023-05-28,Cameroon,Senegal,0,3,QUALIFIER
+2024-08-14,Mexico,Ecuador,0,0,QUALIFIER
+2022-08-25,Portugal,Canada,0,0,QUALIFIER
+2025-11-01,Switzerland,Poland,0,0,QUALIFIER
+2025-02-23,Ghana,Australia,0,1,FRIENDLY
+2025-07-22,Tunisia,Croatia,1,0,QUALIFIER
+2025-11-14,Tunisia,Croatia,0,0,CONFED_CAMP
+2018-09-19,Spain,Poland,1,1,QUALIFIER
+2023-06-19,Canada,Croatia,2,1,QUALIFIER
+2021-07-02,Iran,Belgium,0,0,FRIENDLY
+2022-08-28,France,Portugal,2,1,FRIENDLY
+2019-06-19,Canada,Denmark,0,0,FRIENDLY
+2022-09-07,Uruguay,Canada,0,0,QUALIFIER
+2026-01-17,Canada,Brazil,9,0,CONFED_CAMP
+2024-10-27,France,Ecuador,1,3,QUALIFIER
+2020-01-17,Brazil,Costa Rica,5,1,FRIENDLY
+2022-06-13,Portugal,Morocco,0,1,QUALIFIER
+2023-01-30,South Korea,Spain,1,0,CONFED_CAMP
+2023-11-04,Cameroon,South Korea,0,4,FRIENDLY
+2021-02-14,Morocco,Croatia,0,0,WC_FINAL
+2025-08-21,Spain,Uruguay,0,0,FRIENDLY
+2024-05-13,Croatia,Qatar,0,0,FRIENDLY
+2023-02-22,Colombia,Serbia,5,5,FRIENDLY
+2020-01-01,England,Australia,1,1,QUALIFIER
+2018-02-06,Mexico,Argentina,1,1,QUALIFIER
+2021-10-14,Serbia,Portugal,4,4,QUALIFIER
+2024-12-16,Croatia,Netherlands,1,2,CONFED_CAMP
+2024-07-17,Senegal,Serbia,0,1,QUALIFIER
+2024-02-25,Mexico,Senegal,4,3,CONFED_CAMP
+2026-03-12,Japan,Belgium,0,0,QUALIFIER
+2023-11-13,USA,Ecuador,3,1,QUALIFIER
+2021-09-07,Ecuador,Tunisia,0,1,CONFED_CAMP
+2024-04-16,Costa Rica,Switzerland,0,0,FRIENDLY
+2021-11-08,South Korea,Costa Rica,0,2,CONFED_CAMP
+2023-08-01,Colombia,Croatia,0,0,QUALIFIER
+2026-03-29,Argentina,Poland,2,1,QUALIFIER
+2022-03-19,Portugal,USA,1,1,FRIENDLY
+2020-03-22,Germany,Belgium,1,0,QUALIFIER
+2019-02-06,Denmark,Senegal,0,0,QUALIFIER
+2023-06-25,England,Colombia,0,0,CONFED_CAMP
+2020-06-20,Spain,Poland,0,4,QUALIFIER
+2022-01-08,South Korea,USA,1,1,FRIENDLY
+2025-11-15,Morocco,Ghana,1,0,FRIENDLY
+2020-04-06,South Korea,Qatar,2,4,QUALIFIER
+2020-04-28,Croatia,England,3,2,QUALIFIER
+2019-03-05,France,Iran,0,3,QUALIFIER
+2024-02-17,Argentina,Brazil,0,0,FRIENDLY
+2023-06-22,Argentina,Denmark,0,0,QUALIFIER
+2022-09-30,Qatar,Uruguay,4,2,FRIENDLY
+2023-08-05,France,Germany,0,2,WC_FINAL
+2025-11-30,Uruguay,Croatia,0,1,QUALIFIER
+2020-11-18,Argentina,Australia,4,1,QUALIFIER
+2026-01-20,Costa Rica,USA,5,0,FRIENDLY
+2023-10-17,Croatia,USA,0,0,QUALIFIER
+2018-06-16,Ecuador,Canada,0,6,FRIENDLY
+2023-01-12,Switzerland,Poland,1,1,FRIENDLY
+2025-05-11,Iran,Serbia,0,0,QUALIFIER
+2023-12-11,Croatia,Portugal,1,0,QUALIFIER
+2023-10-23,USA,Colombia,5,0,FRIENDLY
+2020-04-24,Senegal,Tunisia,1,1,FRIENDLY
+2023-05-30,Australia,Germany,2,1,FRIENDLY
+2018-03-25,Canada,Saudi Arabia,1,0,QUALIFIER
+2024-05-24,Spain,Switzerland,1,1,CONFED_CAMP
+2020-12-09,Ecuador,Tunisia,1,0,QUALIFIER
+2022-04-21,Belgium,Poland,0,0,QUALIFIER
+2019-06-06,Japan,Senegal,0,0,FRIENDLY
+2021-09-30,Belgium,Croatia,0,0,QUALIFIER
+2019-08-01,Qatar,Portugal,3,0,QUALIFIER
+2019-09-13,Cameroon,Tunisia,0,3,WC_FINAL
+2023-03-25,Australia,Iran,6,0,WC_FINAL
+2023-04-13,Argentina,Morocco,1,1,WC_FINAL
+2024-12-03,Mexico,Uruguay,1,0,CONFED_CAMP
+2024-02-28,Cameroon,France,4,0,QUALIFIER
+2023-07-02,South Korea,Belgium,3,0,QUALIFIER
+2023-03-29,Switzerland,South Korea,0,5,FRIENDLY
+2026-01-01,Senegal,Mexico,3,2,FRIENDLY
+2022-05-07,Senegal,South Korea,1,3,QUALIFIER
+2020-02-14,Croatia,Denmark,0,0,QUALIFIER
+2020-02-20,Iran,Cameroon,0,1,FRIENDLY
+2018-11-05,Croatia,Qatar,4,6,QUALIFIER
+2018-04-20,England,Germany,4,1,CONFED_CAMP
+2025-01-13,Tunisia,Ecuador,1,0,FRIENDLY
+2019-08-20,Colombia,Portugal,0,1,FRIENDLY
+2022-08-30,USA,Brazil,2,4,QUALIFIER
+2019-10-02,Morocco,Ghana,0,0,QUALIFIER
+2022-09-05,Morocco,Qatar,1,0,FRIENDLY
+2021-08-22,Spain,Portugal,3,0,QUALIFIER
+2019-05-13,Cameroon,Morocco,1,2,QUALIFIER
+2019-12-30,Canada,Germany,4,4,FRIENDLY
+2018-10-16,Argentina,England,0,0,WC_FINAL
+2025-05-23,South Korea,Canada,3,0,QUALIFIER
+2025-09-25,Morocco,Germany,3,3,FRIENDLY
+2020-02-05,Iran,South Korea,2,1,QUALIFIER
+2025-12-07,Spain,Mexico,1,2,WC_FINAL
+2020-05-02,Serbia,Switzerland,0,1,QUALIFIER
+2021-04-13,Senegal,Uruguay,8,1,CONFED_CAMP
+2018-11-27,Brazil,Ecuador,0,1,CONFED_CAMP
+2019-08-25,Mexico,Germany,1,0,QUALIFIER
+2020-09-21,Japan,Saudi Arabia,1,1,QUALIFIER
+2022-09-16,Croatia,Mexico,1,0,QUALIFIER
+2022-06-02,USA,Mexico,2,1,QUALIFIER
+2024-03-05,Tunisia,Argentina,0,0,QUALIFIER
+2021-05-05,Cameroon,Portugal,1,1,QUALIFIER
+2025-02-04,Serbia,Belgium,0,0,QUALIFIER
+2018-02-04,Tunisia,Uruguay,2,1,QUALIFIER
+2022-03-03,Senegal,Costa Rica,12,0,CONFED_CAMP
+2020-01-30,Brazil,Netherlands,4,4,CONFED_CAMP
+2024-10-16,Argentina,Ghana,0,0,FRIENDLY
+2020-01-30,Tunisia,Colombia,1,1,CONFED_CAMP
+2023-02-01,Switzerland,Argentina,0,0,QUALIFIER
+2025-01-30,Portugal,Costa Rica,0,0,FRIENDLY
+2021-04-22,Canada,Ghana,3,1,QUALIFIER
+2018-02-01,England,Ecuador,1,3,CONFED_CAMP
+2025-01-20,Ecuador,Argentina,2,0,QUALIFIER
+2023-04-15,Portugal,Qatar,1,2,FRIENDLY
+2020-08-09,Denmark,Netherlands,0,0,QUALIFIER
+2018-03-30,South Korea,Netherlands,0,3,FRIENDLY
+2018-06-16,Canada,Spain,1,0,QUALIFIER
+2024-07-10,Denmark,Ghana,4,0,CONFED_CAMP
+2020-10-31,Cameroon,Senegal,0,0,FRIENDLY
+2025-07-17,France,Portugal,0,1,WC_FINAL
+2020-12-11,Ecuador,Switzerland,2,0,CONFED_CAMP
+2020-10-17,Poland,USA,7,3,QUALIFIER
+2021-04-01,Senegal,Mexico,1,1,QUALIFIER
+2025-01-12,England,Brazil,8,1,QUALIFIER
+2025-02-12,Denmark,Netherlands,0,0,QUALIFIER
+2022-03-03,Mexico,Poland,1,2,CONFED_CAMP
+2019-05-09,Australia,Denmark,3,3,QUALIFIER
+2019-07-26,Ecuador,Cameroon,0,6,QUALIFIER
+2026-04-29,Tunisia,England,1,0,QUALIFIER
+2025-10-16,Uruguay,Qatar,0,1,QUALIFIER
+2018-09-04,Ghana,Ecuador,1,1,CONFED_CAMP
+2023-07-23,Belgium,England,2,0,WC_FINAL
+2023-04-16,Denmark,Canada,0,0,FRIENDLY
+2018-09-30,Portugal,Denmark,1,2,WC_FINAL
+2018-06-18,South Korea,Canada,7,0,FRIENDLY
+2025-03-07,Senegal,Germany,2,2,CONFED_CAMP
+2024-06-04,Senegal,France,1,0,CONFED_CAMP
+2023-03-03,Switzerland,Australia,0,3,CONFED_CAMP
+2022-09-24,Colombia,Argentina,1,1,QUALIFIER
+2025-12-13,Argentina,Uruguay,0,2,CONFED_CAMP
+2020-02-05,Ghana,Cameroon,0,3,FRIENDLY
+2022-05-12,Colombia,Qatar,4,0,QUALIFIER
+2020-06-20,France,Ghana,0,0,FRIENDLY
+2024-07-30,Belgium,Australia,0,0,WC_FINAL
+2025-02-06,Portugal,Saudi Arabia,1,0,QUALIFIER
+2026-05-02,Saudi Arabia,Germany,2,2,QUALIFIER
+2024-11-13,Portugal,Senegal,5,1,FRIENDLY
+2021-12-17,Tunisia,Iran,2,3,CONFED_CAMP
+2025-10-25,Colombia,Iran,4,1,QUALIFIER
+2025-11-24,Costa Rica,England,0,0,QUALIFIER
+2018-06-22,Croatia,Belgium,3,1,CONFED_CAMP
+2018-01-16,Senegal,Canada,2,1,CONFED_CAMP
+2022-10-19,Germany,Denmark,5,1,QUALIFIER
+2020-06-24,Iran,France,1,0,QUALIFIER
+2019-02-24,Portugal,Uruguay,4,0,QUALIFIER
+2023-02-10,Uruguay,Spain,2,0,WC_FINAL
+2018-07-01,France,Serbia,6,0,CONFED_CAMP
+2023-11-19,Cameroon,France,0,0,FRIENDLY
+2020-10-26,Ecuador,Australia,4,1,QUALIFIER
+2021-11-09,Japan,Croatia,1,0,QUALIFIER
+2024-03-10,USA,Canada,1,2,QUALIFIER
+2026-02-15,Ghana,Belgium,1,4,FRIENDLY
+2022-08-16,Qatar,Iran,0,0,QUALIFIER
+2018-12-17,Portugal,Japan,0,0,CONFED_CAMP
+2019-09-22,Tunisia,England,0,3,QUALIFIER
+2018-11-12,Colombia,Denmark,0,0,WC_FINAL
+2020-01-09,Japan,Qatar,2,5,QUALIFIER
+2021-02-16,Cameroon,Uruguay,1,3,FRIENDLY
+2019-03-16,Senegal,France,0,0,FRIENDLY
+2022-12-15,Iran,Spain,0,0,QUALIFIER
+2018-03-09,South Korea,Brazil,0,0,CONFED_CAMP
+2022-08-26,Japan,England,0,2,QUALIFIER
+2026-04-03,Canada,Colombia,2,0,FRIENDLY
+2019-05-14,Australia,Netherlands,4,0,CONFED_CAMP
+2026-04-08,Cameroon,Germany,0,1,QUALIFIER
+2025-11-21,Senegal,Germany,4,2,FRIENDLY
+2020-09-10,USA,Ecuador,7,1,QUALIFIER
+2020-08-14,Serbia,Costa Rica,0,1,QUALIFIER
+2019-12-03,Mexico,Canada,0,2,QUALIFIER
+2021-09-05,Serbia,Morocco,2,0,FRIENDLY
+2022-06-09,Argentina,Saudi Arabia,2,0,QUALIFIER
+2018-11-10,Mexico,England,0,2,FRIENDLY
+2023-07-28,England,Japan,1,0,FRIENDLY
+2020-08-15,Australia,Cameroon,4,0,QUALIFIER
+2019-06-27,Qatar,Brazil,1,2,QUALIFIER
+2018-04-17,Cameroon,Qatar,9,2,QUALIFIER
+2018-02-21,Germany,Poland,3,2,QUALIFIER
+2023-07-20,Costa Rica,Uruguay,0,2,FRIENDLY
+2018-11-19,Spain,Mexico,3,1,QUALIFIER
+2025-11-21,France,Uruguay,2,0,FRIENDLY
+2022-04-23,Belgium,England,0,0,WC_FINAL
+2026-02-23,Japan,Switzerland,0,0,FRIENDLY
+2025-06-30,Germany,Spain,1,0,QUALIFIER
+2019-10-27,Ecuador,Morocco,0,6,QUALIFIER
+2024-01-19,Belgium,Argentina,1,0,QUALIFIER
+2023-07-05,Belgium,Morocco,1,1,QUALIFIER
+2018-02-20,Germany,Uruguay,0,5,CONFED_CAMP
+2018-09-13,Cameroon,Colombia,3,0,CONFED_CAMP
+2020-06-05,Ghana,Colombia,2,0,CONFED_CAMP
+2021-07-01,Saudi Arabia,Switzerland,0,0,FRIENDLY
+2026-05-19,Tunisia,Australia,5,1,WC_FINAL
+2020-12-16,Iran,Croatia,0,0,QUALIFIER
+2019-05-18,Tunisia,Australia,0,0,CONFED_CAMP
+2023-08-13,Mexico,Argentina,0,3,CONFED_CAMP
+2020-08-30,Saudi Arabia,Japan,1,0,FRIENDLY
+2019-11-23,Poland,Portugal,2,3,QUALIFIER
+2024-09-14,Brazil,Iran,1,0,FRIENDLY
+2024-11-23,Croatia,Spain,0,0,QUALIFIER
+2026-04-11,Australia,Morocco,4,0,QUALIFIER
+2018-05-29,Qatar,Portugal,2,0,QUALIFIER
+2025-07-14,Argentina,Iran,2,1,QUALIFIER
+2021-12-28,Poland,Denmark,2,0,QUALIFIER
+2023-07-10,Denmark,Canada,3,1,QUALIFIER
+2021-03-26,Costa Rica,Croatia,0,1,FRIENDLY
+2024-05-25,Spain,Croatia,1,0,QUALIFIER
+2026-02-02,South Korea,Denmark,0,3,QUALIFIER
+2018-07-29,Morocco,Netherlands,0,1,FRIENDLY
+2018-05-21,Spain,Senegal,0,0,FRIENDLY
+2020-04-28,Switzerland,Australia,0,0,FRIENDLY
+2020-10-23,England,South Korea,1,2,QUALIFIER
+2021-09-11,Japan,Cameroon,1,0,CONFED_CAMP
+2019-09-19,Switzerland,Canada,0,0,QUALIFIER
+2018-07-29,Argentina,Cameroon,0,0,QUALIFIER
+2025-01-06,Senegal,Uruguay,2,3,QUALIFIER
+2022-07-12,Colombia,Poland,7,0,WC_FINAL
+2019-07-31,Croatia,Ghana,0,1,CONFED_CAMP
+2018-02-08,Costa Rica,Spain,0,4,FRIENDLY
+2020-02-08,USA,Colombia,0,0,QUALIFIER
+2019-12-14,Poland,USA,4,1,QUALIFIER
+2019-10-07,South Korea,Australia,1,0,FRIENDLY
+2020-12-24,Ecuador,Senegal,0,3,WC_FINAL
+2026-01-19,Netherlands,Spain,1,3,QUALIFIER
+2024-03-21,Uruguay,Switzerland,0,3,CONFED_CAMP
+2022-11-04,Argentina,Canada,1,2,FRIENDLY
+2019-09-29,Australia,Serbia,1,2,QUALIFIER
+2018-05-29,Tunisia,Germany,1,1,FRIENDLY
+2022-01-23,Poland,France,0,0,QUALIFIER
+2025-01-15,Qatar,Morocco,0,3,FRIENDLY
+2020-10-17,Japan,Netherlands,3,0,CONFED_CAMP
+2022-09-17,USA,Ghana,4,2,QUALIFIER
+2026-01-02,Ghana,Brazil,0,1,FRIENDLY
+2019-11-05,Ghana,USA,1,0,FRIENDLY
+2025-02-12,Denmark,Netherlands,5,0,QUALIFIER
+2021-12-29,Uruguay,Portugal,0,4,QUALIFIER
+2023-07-11,Canada,Spain,4,1,QUALIFIER
+2022-06-18,Australia,Colombia,0,0,FRIENDLY
+2025-01-06,Australia,Croatia,0,0,QUALIFIER
+2021-12-23,Mexico,Netherlands,0,1,QUALIFIER
+2018-04-10,Denmark,Costa Rica,1,0,FRIENDLY
+2019-07-09,Croatia,Portugal,1,1,QUALIFIER
+2021-11-24,Serbia,Canada,0,2,CONFED_CAMP
+2026-01-17,South Korea,Costa Rica,1,0,WC_FINAL
+2018-04-14,Uruguay,Denmark,2,5,FRIENDLY
+2025-02-16,Netherlands,Tunisia,2,0,QUALIFIER
+2024-09-05,Argentina,Denmark,0,1,FRIENDLY
+2023-09-27,Belgium,Poland,2,0,CONFED_CAMP
+2019-07-03,Costa Rica,Croatia,0,0,FRIENDLY
+2023-10-30,Croatia,Australia,5,2,FRIENDLY
+2021-11-12,Portugal,Saudi Arabia,5,0,FRIENDLY
+2020-04-05,Spain,Uruguay,2,0,FRIENDLY
+2020-11-05,Spain,Iran,0,0,FRIENDLY
+2019-09-28,Ghana,Argentina,0,0,WC_FINAL
+2024-07-26,Saudi Arabia,Croatia,0,1,FRIENDLY
+2021-07-18,USA,France,2,0,QUALIFIER
+2023-02-14,Japan,Iran,0,1,QUALIFIER
+2025-12-16,Switzerland,Mexico,0,7,QUALIFIER
+2024-03-27,Belgium,Portugal,0,0,FRIENDLY
+2021-11-07,Canada,Portugal,4,1,CONFED_CAMP
+2024-10-24,Cameroon,Ghana,2,0,QUALIFIER
+2022-03-29,Serbia,South Korea,1,1,CONFED_CAMP
+2018-04-04,Saudi Arabia,Mexico,2,0,WC_FINAL
+2024-10-24,France,Croatia,0,0,QUALIFIER
+2018-09-12,Ecuador,Australia,2,0,FRIENDLY
+2024-09-25,Poland,Cameroon,5,1,FRIENDLY
+2018-11-14,Tunisia,Belgium,0,2,QUALIFIER
+2024-10-10,Spain,Ecuador,0,3,QUALIFIER
+2023-02-02,Tunisia,Saudi Arabia,2,0,WC_FINAL
+2020-12-17,France,Australia,0,1,CONFED_CAMP
+2019-01-30,South Korea,Morocco,1,2,QUALIFIER
+2019-12-27,Denmark,Canada,0,4,QUALIFIER
+2024-03-19,Qatar,Costa Rica,2,1,CONFED_CAMP
+2018-07-31,Denmark,Spain,1,0,WC_FINAL
+2023-10-14,Brazil,Portugal,1,0,QUALIFIER
+2019-02-08,Costa Rica,Croatia,4,0,CONFED_CAMP
+2023-10-17,Senegal,Croatia,0,0,WC_FINAL
+2021-10-15,Poland,Argentina,0,3,CONFED_CAMP
+2019-10-14,Japan,Switzerland,1,3,FRIENDLY
+2023-06-02,Denmark,Croatia,2,1,QUALIFIER
+2025-02-16,Senegal,Switzerland,2,0,CONFED_CAMP
+2020-09-02,Cameroon,Germany,5,2,CONFED_CAMP
+2022-09-20,Iran,Serbia,0,0,FRIENDLY
+2019-07-20,Australia,Canada,1,2,CONFED_CAMP
+2024-07-18,Canada,Australia,3,0,FRIENDLY
+2019-12-06,Argentina,Morocco,1,0,WC_FINAL
+2021-08-17,Canada,Croatia,0,1,WC_FINAL
+2019-04-04,Argentina,Australia,2,3,FRIENDLY
+2022-09-12,Colombia,Switzerland,0,0,FRIENDLY
+2019-07-19,Serbia,England,1,0,QUALIFIER
+2018-10-27,Mexico,Tunisia,1,4,QUALIFIER
+2021-12-07,Brazil,Colombia,0,4,FRIENDLY
+2020-10-03,Costa Rica,Australia,0,1,QUALIFIER
+2022-06-06,Japan,Costa Rica,4,0,QUALIFIER
+2024-07-09,USA,Spain,3,2,FRIENDLY
+2023-11-27,Serbia,Morocco,0,1,QUALIFIER
+2023-04-28,Japan,Netherlands,0,0,WC_FINAL
+2021-08-10,Denmark,Brazil,2,1,QUALIFIER
+2018-07-19,Argentina,Denmark,2,4,WC_FINAL
+2022-09-21,Denmark,Colombia,1,3,FRIENDLY
+2025-12-31,Iran,Poland,1,2,CONFED_CAMP
+2023-04-27,Tunisia,Poland,1,0,QUALIFIER
+2021-03-08,South Korea,Serbia,0,0,QUALIFIER
+2025-01-18,Cameroon,Costa Rica,5,1,QUALIFIER
+2018-08-09,France,Spain,1,1,CONFED_CAMP
+2024-07-18,Uruguay,Senegal,0,0,QUALIFIER
+2018-06-19,Senegal,Colombia,4,1,WC_FINAL
+2022-08-09,Netherlands,Australia,2,0,FRIENDLY
+2021-11-21,Mexico,South Korea,0,0,QUALIFIER
+2019-11-10,Morocco,Colombia,5,0,QUALIFIER
+2023-03-14,USA,Colombia,0,0,QUALIFIER
+2024-03-18,Mexico,Poland,0,5,CONFED_CAMP
+2019-11-05,Germany,Morocco,0,0,QUALIFIER
+2023-07-13,Cameroon,Senegal,1,3,FRIENDLY
+2021-10-04,South Korea,Tunisia,0,0,FRIENDLY
+2020-12-08,Poland,Switzerland,0,1,QUALIFIER
+2021-09-21,Argentina,Australia,0,0,FRIENDLY
+2026-05-05,Ecuador,Japan,0,3,FRIENDLY
+2022-03-31,Cameroon,Australia,2,0,FRIENDLY
+2023-09-27,Ecuador,Tunisia,2,0,FRIENDLY
+2019-02-05,Argentina,Canada,3,0,QUALIFIER
+2025-02-10,Brazil,England,1,1,QUALIFIER
+2024-10-06,South Korea,Netherlands,3,0,QUALIFIER
+2024-11-21,Poland,Australia,1,2,CONFED_CAMP
+2018-05-28,Canada,South Korea,1,0,FRIENDLY
+2026-02-07,Costa Rica,Uruguay,1,2,CONFED_CAMP
+2023-01-28,Serbia,Spain,0,1,QUALIFIER
+2020-07-25,Poland,USA,4,1,FRIENDLY
+2023-09-12,Poland,Morocco,4,1,FRIENDLY
+2019-11-15,Tunisia,England,0,2,QUALIFIER
+2025-09-01,Denmark,Spain,1,0,WC_FINAL
+2019-07-04,Australia,Poland,1,2,FRIENDLY
+2024-05-03,Belgium,Australia,0,2,FRIENDLY
+2018-12-22,Denmark,Switzerland,0,1,QUALIFIER
+2023-02-09,Croatia,Costa Rica,0,4,QUALIFIER
+2021-01-05,Qatar,Denmark,2,1,QUALIFIER
+2020-01-12,Germany,Serbia,1,5,CONFED_CAMP
+2024-10-29,Argentina,Iran,2,5,CONFED_CAMP
+2018-10-08,Costa Rica,Denmark,0,0,QUALIFIER
+2022-08-07,Portugal,Spain,1,3,QUALIFIER
+2019-03-31,Senegal,Argentina,0,5,QUALIFIER
+2019-01-21,Mexico,Belgium,0,0,FRIENDLY
+2019-07-15,France,Canada,1,0,WC_FINAL
+2022-07-15,Qatar,Brazil,1,0,FRIENDLY
+2024-04-10,Cameroon,Switzerland,1,4,FRIENDLY
+2025-09-09,Canada,Japan,4,3,QUALIFIER
+2021-06-29,Netherlands,Germany,4,8,WC_FINAL
+2021-12-24,Switzerland,Portugal,0,2,CONFED_CAMP
+2024-06-07,Colombia,Germany,0,1,FRIENDLY
+2022-04-11,Argentina,Germany,2,0,QUALIFIER
+2020-03-27,Costa Rica,Cameroon,9,0,QUALIFIER
+2024-11-13,Mexico,South Korea,0,2,QUALIFIER
+2023-08-12,Costa Rica,Germany,8,2,QUALIFIER
+2022-03-12,Cameroon,Colombia,1,2,QUALIFIER
+2022-06-30,Senegal,Brazil,0,1,QUALIFIER
+2021-04-08,South Korea,Ghana,0,0,CONFED_CAMP
+2020-09-24,Saudi Arabia,Switzerland,1,6,QUALIFIER
+2019-03-27,Australia,Iran,0,0,QUALIFIER
+2024-05-06,Germany,Denmark,0,0,QUALIFIER
+2023-06-17,Germany,Uruguay,2,1,QUALIFIER
+2018-01-07,Portugal,Costa Rica,0,1,QUALIFIER
+2020-07-20,Colombia,Belgium,3,0,QUALIFIER
+2018-06-15,Tunisia,Portugal,1,2,QUALIFIER
+2026-02-19,Uruguay,Saudi Arabia,0,7,CONFED_CAMP
+2025-11-01,Serbia,Morocco,0,1,QUALIFIER
+2018-06-28,Canada,Australia,3,1,QUALIFIER
+2019-06-16,South Korea,France,0,0,CONFED_CAMP
+2023-03-25,France,Canada,2,0,QUALIFIER
+2024-12-20,Tunisia,USA,0,0,QUALIFIER
+2020-08-17,Germany,Tunisia,1,1,QUALIFIER
+2018-01-02,Colombia,England,1,3,QUALIFIER
+2018-06-18,Netherlands,Morocco,0,3,QUALIFIER
+2025-11-22,Serbia,Switzerland,0,0,QUALIFIER
+2025-03-09,Mexico,Portugal,3,2,QUALIFIER
+2019-02-27,Brazil,Netherlands,0,0,WC_FINAL
+2019-08-05,Mexico,Australia,2,0,QUALIFIER
+2025-05-27,Uruguay,France,4,0,QUALIFIER
+2023-08-12,South Korea,Brazil,0,2,QUALIFIER
+2023-04-29,South Korea,Ghana,0,1,QUALIFIER
+2023-02-07,Switzerland,Mexico,4,0,QUALIFIER
+2022-03-26,Portugal,Switzerland,7,1,FRIENDLY
+2020-08-14,Iran,Japan,0,0,QUALIFIER
+2022-08-08,Morocco,Ghana,2,1,FRIENDLY
+2018-01-25,Denmark,Ghana,0,0,QUALIFIER
+2020-09-14,Spain,Costa Rica,1,2,QUALIFIER
+2020-07-23,Ghana,Senegal,2,6,QUALIFIER
+2023-06-15,Argentina,Portugal,0,0,CONFED_CAMP
+2023-10-22,South Korea,Belgium,2,2,CONFED_CAMP
+2018-05-31,Switzerland,Poland,0,0,FRIENDLY
+2023-04-04,Australia,France,0,1,QUALIFIER
+2020-02-26,Poland,Denmark,3,1,WC_FINAL
+2021-10-20,France,Uruguay,0,0,CONFED_CAMP
+2024-02-02,Colombia,Argentina,0,8,QUALIFIER
+2024-12-05,Qatar,England,2,0,QUALIFIER
+2018-05-15,Japan,Qatar,1,1,FRIENDLY
+2021-07-25,France,Canada,0,1,WC_FINAL
+2019-07-04,Japan,Ghana,1,0,FRIENDLY
+2024-11-03,Germany,Brazil,0,1,FRIENDLY
+2023-10-14,Colombia,Senegal,3,0,FRIENDLY
+2021-10-17,Qatar,France,2,0,CONFED_CAMP
+2024-04-01,Cameroon,Ghana,0,2,QUALIFIER
+2025-06-09,Uruguay,Iran,0,1,CONFED_CAMP
+2020-06-19,South Korea,Argentina,5,0,FRIENDLY
+2022-06-03,Iran,England,2,0,FRIENDLY
+2025-11-24,Croatia,Morocco,0,1,QUALIFIER
+2018-12-25,Tunisia,England,0,0,QUALIFIER
+2025-07-02,Mexico,Qatar,7,0,QUALIFIER
+2024-02-06,USA,Portugal,2,1,QUALIFIER
+2026-03-12,Qatar,Canada,0,0,QUALIFIER
+2024-12-02,Serbia,Ecuador,2,0,CONFED_CAMP
+2018-04-06,Japan,Morocco,1,1,QUALIFIER
+2023-10-01,Serbia,Argentina,2,2,QUALIFIER
+2019-03-28,Ghana,Netherlands,2,0,FRIENDLY
+2020-06-18,Australia,Switzerland,2,0,QUALIFIER
+2024-08-14,Spain,Portugal,0,1,WC_FINAL
+2021-07-16,Qatar,USA,0,2,FRIENDLY
+2023-11-30,Costa Rica,Colombia,1,0,QUALIFIER
+2026-03-06,Morocco,South Korea,5,4,QUALIFIER
+2025-06-14,Mexico,Argentina,0,4,FRIENDLY
+2019-05-03,Colombia,Japan,5,0,WC_FINAL
+2021-01-19,Spain,Australia,0,2,CONFED_CAMP
+2021-04-09,Serbia,France,0,0,FRIENDLY
+2024-01-28,Belgium,Switzerland,0,0,QUALIFIER
+2018-02-27,Poland,Qatar,1,4,FRIENDLY
+2025-02-22,Spain,Switzerland,0,2,CONFED_CAMP
+2019-02-11,Tunisia,USA,1,2,QUALIFIER
+2019-03-03,USA,Mexico,0,0,QUALIFIER
+2023-11-01,Germany,Cameroon,2,0,CONFED_CAMP
+2025-12-07,England,Saudi Arabia,0,1,QUALIFIER
+2020-07-31,Denmark,France,1,1,QUALIFIER
+2026-05-11,Ghana,Cameroon,1,0,CONFED_CAMP
+2026-01-31,Cameroon,France,0,0,QUALIFIER
+2021-07-09,Mexico,Netherlands,1,1,QUALIFIER
+2018-01-02,Portugal,Uruguay,0,0,QUALIFIER
+2025-12-03,Uruguay,Croatia,9,0,CONFED_CAMP
+2018-02-27,Senegal,South Korea,0,1,CONFED_CAMP
+2021-02-01,France,Cameroon,1,0,FRIENDLY
+2018-12-31,Tunisia,South Korea,1,0,CONFED_CAMP
+2023-03-12,Uruguay,Saudi Arabia,0,2,QUALIFIER
+2025-01-17,Colombia,Senegal,0,0,WC_FINAL
+2018-02-03,Netherlands,USA,1,0,FRIENDLY
+2025-06-01,Uruguay,Senegal,3,3,WC_FINAL
+2025-12-11,Japan,Mexico,1,1,QUALIFIER
+2018-08-18,Australia,Tunisia,7,2,QUALIFIER
+2020-07-12,Spain,Uruguay,3,0,FRIENDLY
+2023-12-23,Qatar,Ghana,2,3,FRIENDLY
+2022-10-02,Serbia,Poland,0,0,QUALIFIER
+2020-08-04,Costa Rica,Australia,1,2,WC_FINAL
+2018-11-29,Ecuador,Brazil,1,2,FRIENDLY
+2019-06-12,Ghana,Canada,0,0,FRIENDLY
+2022-01-23,Tunisia,South Korea,4,1,QUALIFIER
+2023-08-10,Senegal,Netherlands,4,0,QUALIFIER
+2023-04-13,Belgium,Poland,2,2,FRIENDLY
+2023-11-18,Cameroon,France,3,0,QUALIFIER
+2020-06-25,Ecuador,Argentina,2,8,CONFED_CAMP
+2020-10-22,Morocco,Saudi Arabia,0,0,QUALIFIER
+2026-02-04,Tunisia,Poland,0,0,QUALIFIER
+2024-04-12,Mexico,Poland,0,1,FRIENDLY
+2023-11-17,Ecuador,Morocco,1,9,FRIENDLY
+2020-03-29,Belgium,Tunisia,0,2,CONFED_CAMP
+2023-09-02,Australia,England,2,3,QUALIFIER
+2023-11-26,Qatar,Brazil,4,0,CONFED_CAMP
+2018-12-19,Canada,Portugal,1,0,WC_FINAL
+2026-05-18,Japan,Denmark,3,2,QUALIFIER
+2021-02-03,Tunisia,Cameroon,0,0,QUALIFIER
+2020-11-23,USA,Poland,0,0,QUALIFIER
+2026-04-23,England,Croatia,1,0,FRIENDLY
+2018-08-08,USA,Ghana,2,2,QUALIFIER
+2025-12-18,Mexico,Senegal,7,0,WC_FINAL
+2019-08-29,Cameroon,Serbia,2,0,FRIENDLY
+2021-05-02,Spain,Mexico,2,1,WC_FINAL
+2026-03-26,France,Denmark,1,0,QUALIFIER
+2021-05-19,Ghana,Mexico,0,2,QUALIFIER
+2021-04-27,Switzerland,Cameroon,6,2,FRIENDLY
+2024-10-06,Australia,Denmark,1,0,QUALIFIER
+2025-10-19,Ecuador,Japan,7,0,CONFED_CAMP
+2020-06-05,Spain,Poland,1,1,QUALIFIER
+2024-09-12,Costa Rica,Switzerland,0,1,QUALIFIER
+2021-05-20,Iran,Belgium,7,0,FRIENDLY
+2020-03-06,Spain,Iran,0,0,QUALIFIER
+2018-03-16,France,Brazil,2,1,FRIENDLY
+2018-01-05,England,Saudi Arabia,0,1,QUALIFIER
+2025-06-01,Serbia,Netherlands,0,0,WC_FINAL
+2025-05-13,Morocco,Poland,2,0,FRIENDLY
+2021-06-25,Japan,Denmark,1,1,FRIENDLY
+2026-04-13,Serbia,Cameroon,0,1,CONFED_CAMP
+2022-11-05,South Korea,Morocco,1,0,FRIENDLY
+2018-02-28,Netherlands,Cameroon,1,5,FRIENDLY
+2022-04-22,France,Uruguay,1,2,CONFED_CAMP
+2020-01-03,Qatar,Argentina,0,1,QUALIFIER
+2023-09-03,Tunisia,Germany,2,0,FRIENDLY
+2018-08-10,Colombia,Croatia,1,0,QUALIFIER
+2025-04-09,Mexico,Portugal,0,0,QUALIFIER
+2021-09-20,France,Belgium,1,0,QUALIFIER
+2019-07-20,Uruguay,Netherlands,7,4,QUALIFIER
+2023-05-26,Switzerland,Netherlands,0,0,FRIENDLY
+2018-11-16,Iran,Poland,2,0,FRIENDLY
+2023-09-30,Spain,Denmark,1,0,QUALIFIER
+2022-09-22,Poland,Tunisia,0,0,FRIENDLY
+2025-09-11,South Korea,Saudi Arabia,0,1,FRIENDLY
+2023-05-30,Senegal,Brazil,0,2,QUALIFIER
+2022-10-10,Spain,Netherlands,2,3,FRIENDLY
+2025-02-15,Cameroon,USA,4,0,WC_FINAL
+2024-10-25,Canada,Mexico,1,0,FRIENDLY
+2022-07-30,Australia,Costa Rica,0,0,FRIENDLY
+2021-07-07,Mexico,Portugal,2,1,FRIENDLY
+2025-03-22,Germany,Belgium,3,0,QUALIFIER
+2018-04-24,Belgium,Denmark,0,0,CONFED_CAMP
+2026-03-14,Ecuador,Tunisia,2,0,QUALIFIER
+2024-02-16,Belgium,Ghana,4,6,FRIENDLY
+2019-08-19,Mexico,England,3,1,QUALIFIER
+2019-11-21,Portugal,Costa Rica,0,0,QUALIFIER
+2020-11-01,England,Denmark,0,0,QUALIFIER
+2025-02-19,Belgium,USA,0,0,FRIENDLY
+2025-03-04,Senegal,Argentina,0,0,FRIENDLY
+2023-09-09,Mexico,South Korea,0,0,FRIENDLY
+2018-01-27,Uruguay,Argentina,0,1,QUALIFIER
+2018-09-14,Portugal,Serbia,1,0,QUALIFIER
+2023-01-22,Switzerland,Qatar,0,0,QUALIFIER
+2023-11-27,Portugal,Uruguay,7,2,QUALIFIER
+2022-07-10,Costa Rica,Colombia,5,0,QUALIFIER
+2020-06-17,Argentina,Denmark,0,2,FRIENDLY
+2023-09-26,Uruguay,Argentina,1,1,FRIENDLY
+2019-08-10,Argentina,Croatia,1,1,QUALIFIER
+2024-05-04,South Korea,USA,2,1,QUALIFIER
+2024-05-04,Ecuador,Cameroon,2,0,FRIENDLY
+2026-02-25,Costa Rica,Denmark,3,0,QUALIFIER
+2021-07-31,Iran,Cameroon,0,7,QUALIFIER
+2023-08-19,Croatia,Australia,1,0,FRIENDLY
+2022-02-08,Switzerland,Canada,0,0,QUALIFIER
+2018-11-12,Costa Rica,South Korea,2,2,QUALIFIER
+2024-12-10,Japan,Morocco,1,1,QUALIFIER
+2019-04-03,Croatia,Cameroon,1,1,WC_FINAL
+2022-02-07,Saudi Arabia,Switzerland,0,2,QUALIFIER
+2023-06-02,Tunisia,Canada,0,0,FRIENDLY
+2020-08-25,Costa Rica,Cameroon,1,1,QUALIFIER
+2026-02-20,Poland,Croatia,1,1,FRIENDLY
+2023-05-22,Poland,Australia,0,3,QUALIFIER
+2025-09-06,Costa Rica,England,0,1,FRIENDLY
+2025-12-06,Iran,Saudi Arabia,4,1,QUALIFIER
+2021-07-15,Uruguay,Colombia,1,1,QUALIFIER
+2025-01-18,Argentina,Colombia,0,1,QUALIFIER
+2022-02-18,Australia,Senegal,0,0,QUALIFIER
+2020-11-10,Japan,Serbia,1,0,FRIENDLY
+2020-09-02,Switzerland,Argentina,0,1,QUALIFIER
+2019-08-13,Spain,Saudi Arabia,2,0,QUALIFIER
+2025-12-20,South Korea,Ghana,0,1,QUALIFIER
+2025-10-04,Saudi Arabia,Cameroon,0,0,QUALIFIER
+2025-12-17,Portugal,Qatar,2,0,FRIENDLY
+2021-04-18,Australia,Netherlands,0,1,QUALIFIER
+2021-12-20,Tunisia,Uruguay,0,1,FRIENDLY
+2018-06-27,France,Poland,0,0,FRIENDLY
+2023-02-21,Portugal,Spain,3,0,QUALIFIER
+2025-09-21,Qatar,Tunisia,2,0,FRIENDLY
+2025-07-22,Australia,Belgium,0,0,FRIENDLY
+2019-04-17,Belgium,Switzerland,0,7,FRIENDLY
+2020-12-26,Ghana,Ecuador,0,1,QUALIFIER
+2022-08-27,Costa Rica,Serbia,0,0,QUALIFIER
+2025-08-02,Portugal,Morocco,0,0,FRIENDLY
+2024-07-14,Switzerland,Brazil,0,0,FRIENDLY
+2020-08-20,Morocco,Croatia,1,2,FRIENDLY
+2026-03-10,Ecuador,Portugal,0,0,FRIENDLY
+2022-05-23,Mexico,France,1,0,QUALIFIER
+2019-10-13,Saudi Arabia,Germany,6,4,CONFED_CAMP
+2020-07-24,Spain,Qatar,5,0,FRIENDLY
+2019-08-19,Netherlands,England,0,0,CONFED_CAMP
+2025-06-12,Tunisia,Saudi Arabia,0,1,CONFED_CAMP
+2024-08-08,Morocco,Cameroon,0,2,QUALIFIER
+2023-05-20,Mexico,Netherlands,2,2,CONFED_CAMP
+2026-01-29,Netherlands,Germany,3,7,WC_FINAL
+2019-08-11,England,Canada,1,1,QUALIFIER
+2019-08-19,Qatar,Croatia,0,0,QUALIFIER
+2020-06-20,Saudi Arabia,Iran,0,0,QUALIFIER
+2022-12-18,Germany,Netherlands,1,4,QUALIFIER
+2020-02-13,Brazil,Cameroon,1,0,QUALIFIER
+2021-12-15,Senegal,England,1,1,QUALIFIER
+2022-05-27,USA,Saudi Arabia,0,2,QUALIFIER
+2024-08-13,Brazil,Mexico,0,5,FRIENDLY
+2023-03-03,Argentina,Colombia,0,1,QUALIFIER
+2026-03-24,France,Saudi Arabia,0,4,FRIENDLY
+2020-12-21,Ghana,Uruguay,0,2,QUALIFIER
+2018-07-29,Cameroon,Australia,0,4,FRIENDLY
+2022-04-22,Mexico,Argentina,2,0,QUALIFIER
+2021-06-04,Ghana,Tunisia,1,1,QUALIFIER
+2020-04-13,Denmark,Portugal,0,1,CONFED_CAMP
+2022-07-06,South Korea,Iran,0,0,FRIENDLY
+2019-11-19,Croatia,France,2,0,QUALIFIER
+2019-01-25,Australia,Tunisia,0,5,CONFED_CAMP
+2024-02-23,England,France,1,0,QUALIFIER
+2019-01-08,France,Brazil,1,3,QUALIFIER
+2024-10-09,France,Colombia,0,1,QUALIFIER
+2025-03-10,Spain,Costa Rica,0,4,QUALIFIER
+2024-10-05,Morocco,Cameroon,2,5,QUALIFIER
+2020-04-23,Croatia,France,6,1,QUALIFIER
+2023-10-23,England,Canada,0,0,CONFED_CAMP
+2023-02-02,Costa Rica,Portugal,3,1,QUALIFIER
+2025-04-12,Senegal,Denmark,2,0,QUALIFIER
+2026-01-30,Ecuador,Portugal,0,2,QUALIFIER
+2023-07-27,Serbia,Portugal,8,1,QUALIFIER
+2019-07-12,Tunisia,Japan,0,1,FRIENDLY
+2023-06-10,Senegal,Argentina,0,2,QUALIFIER
+2025-02-07,Serbia,Argentina,1,0,CONFED_CAMP
+2021-08-09,Uruguay,USA,0,0,QUALIFIER
+2020-02-24,France,Senegal,0,2,QUALIFIER
+2022-10-03,Australia,Denmark,2,1,WC_FINAL
+2022-12-11,USA,Senegal,1,0,QUALIFIER
+2019-09-28,France,Qatar,0,0,QUALIFIER
+2024-07-25,Argentina,Colombia,5,0,QUALIFIER
+2020-05-16,South Korea,Poland,1,0,CONFED_CAMP
+2024-01-06,Colombia,Saudi Arabia,0,2,FRIENDLY
+2021-05-09,Costa Rica,Portugal,2,0,QUALIFIER
+2025-04-05,Brazil,Qatar,3,1,QUALIFIER
+2018-06-25,Morocco,Portugal,3,5,QUALIFIER
+2020-12-01,Spain,Australia,2,1,CONFED_CAMP
+2025-01-05,South Korea,Poland,2,0,FRIENDLY
+2025-04-17,Japan,Canada,0,0,QUALIFIER
+2025-12-05,Argentina,Saudi Arabia,0,3,CONFED_CAMP
+2021-02-18,Brazil,Netherlands,0,0,QUALIFIER
+2024-06-22,Spain,Tunisia,0,0,FRIENDLY
+2025-12-10,USA,Argentina,2,0,FRIENDLY
+2023-01-24,Belgium,Cameroon,0,0,QUALIFIER
+2025-02-23,Tunisia,Australia,0,0,FRIENDLY
+2021-04-29,Japan,England,0,0,FRIENDLY
+2024-08-24,Argentina,Japan,0,0,FRIENDLY
+2020-05-22,Ghana,Uruguay,0,0,FRIENDLY
+2018-02-13,Spain,Tunisia,1,0,QUALIFIER
+2024-02-22,Mexico,Switzerland,0,0,FRIENDLY
+2025-05-10,Australia,France,0,1,QUALIFIER
+2022-12-29,Netherlands,Japan,3,0,FRIENDLY
+2020-12-08,Ecuador,Portugal,0,2,QUALIFIER
+2023-01-17,Morocco,Australia,1,0,FRIENDLY
+2023-01-07,Belgium,Senegal,4,5,QUALIFIER
+2022-10-03,Iran,France,1,0,CONFED_CAMP
+2018-01-31,Netherlands,Brazil,1,2,FRIENDLY
+2025-12-09,Spain,France,2,4,QUALIFIER
+2023-04-13,Spain,Denmark,2,0,CONFED_CAMP
+2023-07-31,Netherlands,Saudi Arabia,0,2,QUALIFIER
+2020-04-30,Switzerland,Spain,3,2,FRIENDLY
+2019-03-24,Morocco,Colombia,2,0,QUALIFIER
+2024-12-22,France,Switzerland,1,1,QUALIFIER
+2019-06-07,South Korea,Japan,2,0,QUALIFIER
+2026-02-01,Costa Rica,Ghana,3,2,CONFED_CAMP
+2021-12-21,Colombia,Tunisia,0,0,QUALIFIER
+2019-03-09,Portugal,Ghana,0,0,CONFED_CAMP
+2018-03-05,Australia,Costa Rica,0,4,QUALIFIER
+2025-02-22,Brazil,Tunisia,2,0,CONFED_CAMP
+2021-04-28,Poland,Ecuador,0,0,QUALIFIER
+2019-05-25,Switzerland,Canada,2,0,FRIENDLY
+2018-01-07,Portugal,Switzerland,1,2,FRIENDLY
+2023-01-27,France,Japan,5,0,QUALIFIER
+2025-07-05,Iran,Spain,2,1,QUALIFIER
+2023-01-17,Denmark,Canada,2,1,CONFED_CAMP
+2019-03-15,Switzerland,England,2,0,QUALIFIER
+2019-04-17,Ecuador,Portugal,3,0,CONFED_CAMP
+2024-11-30,Senegal,Belgium,1,3,QUALIFIER
+2019-04-01,Poland,Ghana,0,0,CONFED_CAMP
+2023-03-21,Spain,Poland,3,4,QUALIFIER
+2024-05-27,Morocco,Australia,1,2,WC_FINAL
+2019-05-18,Brazil,Ecuador,1,1,CONFED_CAMP
+2022-04-12,England,Spain,3,0,FRIENDLY
+2020-07-29,Iran,Serbia,2,1,CONFED_CAMP
+2025-03-05,Canada,Tunisia,1,0,FRIENDLY
+2024-10-03,Germany,Senegal,1,1,QUALIFIER
+2021-07-09,Costa Rica,Iran,0,0,FRIENDLY
+2026-01-19,Spain,Cameroon,2,1,QUALIFIER
+2019-11-02,Saudi Arabia,Germany,0,1,FRIENDLY
+2021-08-18,Morocco,Serbia,1,0,QUALIFIER
+2025-11-19,Senegal,Japan,1,0,WC_FINAL
+2019-02-22,Iran,Saudi Arabia,2,0,CONFED_CAMP
+2022-05-12,Switzerland,Mexico,1,0,WC_FINAL
+2022-08-23,Iran,Ghana,0,1,QUALIFIER
+2020-03-19,England,USA,2,0,QUALIFIER
+2019-06-23,Portugal,Denmark,1,0,QUALIFIER
+2020-05-01,Portugal,Colombia,3,3,WC_FINAL
+2023-05-09,Switzerland,Canada,0,0,CONFED_CAMP
+2021-04-23,Tunisia,Ghana,0,3,FRIENDLY
+2025-11-13,Senegal,USA,0,0,FRIENDLY
+2018-12-19,Cameroon,Australia,1,0,QUALIFIER
+2022-04-10,Germany,Senegal,2,2,QUALIFIER
+2022-06-29,Canada,Colombia,1,0,QUALIFIER
+2025-07-21,Qatar,Argentina,1,1,QUALIFIER
+2022-11-03,Denmark,Ecuador,0,0,QUALIFIER
+2022-02-23,Ecuador,Tunisia,2,1,FRIENDLY
+2024-07-27,Poland,Cameroon,0,0,WC_FINAL
+2022-12-04,Ghana,Ecuador,0,0,CONFED_CAMP
+2020-07-17,Switzerland,Germany,8,0,QUALIFIER
+2025-01-03,Switzerland,Argentina,2,1,CONFED_CAMP
+2023-07-30,USA,Brazil,2,1,CONFED_CAMP
+2024-10-09,Croatia,Germany,0,0,QUALIFIER
+2020-01-04,Canada,Colombia,0,0,QUALIFIER
+2020-01-06,Senegal,Denmark,1,0,QUALIFIER
+2023-12-17,Croatia,Poland,1,1,QUALIFIER
+2019-03-13,South Korea,Costa Rica,2,0,FRIENDLY
+2021-03-04,Ecuador,Denmark,0,1,WC_FINAL
+2020-12-30,Switzerland,Iran,3,1,CONFED_CAMP
+2025-04-19,Senegal,Germany,2,1,FRIENDLY
+2023-02-06,Ecuador,England,0,1,QUALIFIER
+2018-10-06,Colombia,Croatia,0,0,WC_FINAL
+2019-01-10,Serbia,Canada,2,1,QUALIFIER
+2018-08-26,Canada,Croatia,1,2,QUALIFIER
+2019-10-01,Poland,Costa Rica,11,1,QUALIFIER
+2024-07-26,Mexico,Morocco,0,7,FRIENDLY
+2024-04-15,Mexico,Brazil,2,2,CONFED_CAMP
+2018-09-25,South Korea,France,0,3,FRIENDLY
+2023-06-19,Colombia,Portugal,4,0,CONFED_CAMP
+2026-01-18,Ghana,Poland,0,0,QUALIFIER
+2019-07-21,Serbia,Colombia,0,0,QUALIFIER
+2018-11-27,Croatia,Japan,1,1,CONFED_CAMP
+2022-03-29,Serbia,Uruguay,2,0,QUALIFIER
+2024-05-31,Denmark,Ecuador,1,0,QUALIFIER
+2025-10-11,Portugal,Argentina,0,0,QUALIFIER
+2022-02-01,Senegal,Cameroon,0,1,QUALIFIER
+2018-03-27,Canada,Argentina,0,0,QUALIFIER
+2025-08-23,England,Mexico,0,2,CONFED_CAMP
+2023-06-29,Costa Rica,Mexico,1,5,QUALIFIER
+2020-12-04,Mexico,Croatia,1,0,CONFED_CAMP
+2025-05-13,Cameroon,Uruguay,0,0,QUALIFIER
+2025-02-04,Brazil,Qatar,1,0,CONFED_CAMP
+2020-10-26,Uruguay,France,2,0,QUALIFIER
+2024-12-04,Japan,Cameroon,1,0,FRIENDLY
+2019-02-27,Netherlands,Australia,2,2,QUALIFIER
+2018-05-12,Switzerland,Germany,1,0,QUALIFIER
+2022-09-21,Netherlands,Poland,0,0,FRIENDLY
+2018-07-11,Netherlands,Portugal,0,1,FRIENDLY
+2025-04-10,Tunisia,Canada,1,2,FRIENDLY
+2020-12-28,Germany,Saudi Arabia,1,0,QUALIFIER
+2023-11-16,South Korea,Poland,0,1,QUALIFIER
+2024-05-11,USA,Tunisia,2,0,QUALIFIER
+2025-10-12,Croatia,Spain,3,2,WC_FINAL
+2024-10-21,Poland,Switzerland,0,0,CONFED_CAMP
+2022-07-15,Germany,France,1,0,FRIENDLY
+2018-05-10,France,Iran,1,2,FRIENDLY
+2025-05-20,Ghana,Switzerland,0,11,FRIENDLY
+2021-11-20,Serbia,South Korea,6,0,FRIENDLY
+2018-03-10,Tunisia,Serbia,2,2,CONFED_CAMP
+2020-07-23,Australia,Canada,0,0,QUALIFIER
+2020-02-10,Qatar,Tunisia,3,2,FRIENDLY
+2019-10-25,Argentina,Colombia,0,0,QUALIFIER
+2022-12-27,England,Spain,0,1,CONFED_CAMP
+2019-10-11,Canada,Ecuador,0,2,FRIENDLY
+2026-05-26,Saudi Arabia,Brazil,2,0,FRIENDLY
+2020-10-22,Saudi Arabia,Denmark,1,1,QUALIFIER
+2025-03-26,Tunisia,Uruguay,0,2,QUALIFIER
+2022-10-05,Qatar,Iran,0,1,CONFED_CAMP
+2024-10-15,Uruguay,Spain,0,2,QUALIFIER
+2021-03-12,Australia,Morocco,1,0,QUALIFIER
+2025-03-31,France,Colombia,0,5,QUALIFIER
+2025-05-11,Tunisia,Croatia,3,0,FRIENDLY
+2022-08-25,Portugal,Netherlands,1,1,FRIENDLY
+2018-04-15,Morocco,Qatar,0,4,QUALIFIER
+2022-05-17,Cameroon,Costa Rica,2,2,QUALIFIER
+2024-03-26,Costa Rica,Saudi Arabia,0,0,FRIENDLY
+2018-04-13,Cameroon,England,1,0,QUALIFIER
+2018-10-01,Germany,Brazil,3,0,CONFED_CAMP
+2024-10-19,Iran,Mexico,2,1,FRIENDLY
+2023-07-30,Uruguay,Ghana,0,1,FRIENDLY
+2019-09-25,Qatar,Spain,0,3,QUALIFIER
+2025-12-15,Germany,Croatia,5,0,QUALIFIER
+2023-09-23,Spain,Denmark,1,1,FRIENDLY
+2025-04-17,Brazil,Ecuador,1,0,FRIENDLY
+2023-08-27,Mexico,Argentina,3,0,CONFED_CAMP
+2021-10-24,France,Croatia,1,7,WC_FINAL
+2023-04-13,USA,Belgium,8,2,CONFED_CAMP
+2023-03-26,Mexico,Spain,4,0,CONFED_CAMP
+2022-01-01,Mexico,Iran,0,0,FRIENDLY
+2018-06-25,Switzerland,Brazil,3,2,FRIENDLY
+2024-12-31,South Korea,Ecuador,7,1,QUALIFIER
+2024-07-04,Serbia,Saudi Arabia,1,1,FRIENDLY
+2025-05-15,Costa Rica,Denmark,5,1,QUALIFIER
+2020-05-26,Portugal,Tunisia,1,0,FRIENDLY
+2023-06-15,Colombia,Qatar,1,0,FRIENDLY
+2019-08-19,Colombia,England,2,0,FRIENDLY
+2025-01-16,France,Netherlands,2,0,CONFED_CAMP
+2019-07-15,Iran,Uruguay,0,1,QUALIFIER
+2023-01-17,Switzerland,Japan,0,1,CONFED_CAMP
+2019-06-07,Switzerland,Germany,5,2,QUALIFIER
+2019-02-01,Ghana,Uruguay,0,1,CONFED_CAMP
+2025-05-31,Uruguay,Poland,1,1,QUALIFIER
+2021-12-30,South Korea,Australia,1,0,QUALIFIER
+2021-09-04,Ecuador,Switzerland,1,1,FRIENDLY
+2018-01-07,France,Ecuador,0,1,QUALIFIER
+2019-11-27,Poland,Costa Rica,2,1,FRIENDLY
+2018-11-22,Spain,Brazil,2,0,CONFED_CAMP
+2026-05-07,Portugal,Denmark,0,1,QUALIFIER
+2025-06-09,Argentina,Belgium,0,0,FRIENDLY
+2019-09-12,South Korea,Denmark,1,2,QUALIFIER
+2019-01-20,Senegal,Portugal,2,1,QUALIFIER
+2019-02-13,England,Ecuador,4,1,FRIENDLY
+2022-07-09,Saudi Arabia,Ghana,0,3,FRIENDLY
+2021-10-15,Saudi Arabia,Denmark,0,2,QUALIFIER
+2019-12-27,Poland,Portugal,0,0,QUALIFIER
+2023-11-01,Cameroon,Iran,1,1,FRIENDLY
+2025-05-21,Portugal,Switzerland,0,3,QUALIFIER
+2021-05-23,Iran,Belgium,2,3,CONFED_CAMP
+2019-12-20,Qatar,Germany,3,3,FRIENDLY
+2018-09-24,Mexico,Ghana,1,0,QUALIFIER
+2022-01-17,Germany,South Korea,0,0,QUALIFIER
+2020-03-27,Japan,Uruguay,0,2,QUALIFIER
+2021-11-07,Costa Rica,Netherlands,1,3,FRIENDLY
+2018-03-16,Saudi Arabia,Netherlands,4,1,CONFED_CAMP
+2024-02-25,South Korea,Ecuador,6,3,QUALIFIER
+2019-03-26,Belgium,Iran,7,1,QUALIFIER
+2023-12-05,Australia,Tunisia,0,0,QUALIFIER
+2021-10-15,Germany,Switzerland,3,0,FRIENDLY
+2019-08-17,Morocco,Costa Rica,1,0,FRIENDLY
+2018-01-06,Portugal,Morocco,3,0,FRIENDLY
+2019-03-25,Belgium,Uruguay,1,0,FRIENDLY
+2025-06-27,France,USA,0,1,QUALIFIER
+2020-07-30,Saudi Arabia,Serbia,2,0,FRIENDLY
+2025-04-14,Serbia,Tunisia,0,2,QUALIFIER
+2026-01-26,Croatia,Germany,4,2,QUALIFIER
+2023-01-01,Canada,Tunisia,1,1,CONFED_CAMP
+2020-04-03,USA,Mexico,0,1,FRIENDLY
+2021-07-20,Netherlands,Senegal,2,3,FRIENDLY
+2023-01-28,Switzerland,Tunisia,1,0,QUALIFIER
+2020-12-26,Ecuador,Ghana,1,4,FRIENDLY
+2021-09-22,Denmark,Switzerland,0,0,FRIENDLY
+2021-02-22,Canada,England,1,6,FRIENDLY
+2026-01-02,Iran,Ecuador,0,2,QUALIFIER
+2026-04-17,Mexico,Saudi Arabia,0,0,QUALIFIER
+2019-12-01,France,USA,1,0,FRIENDLY
+2021-01-13,Poland,Saudi Arabia,0,0,QUALIFIER
+2019-05-13,Costa Rica,Japan,1,3,QUALIFIER
+2020-01-23,South Korea,Belgium,3,0,QUALIFIER
+2025-11-19,Portugal,Brazil,0,0,FRIENDLY
+2024-08-18,Mexico,Argentina,1,0,QUALIFIER
+2025-03-31,Cameroon,Serbia,4,0,CONFED_CAMP
+2022-03-23,Qatar,Mexico,0,1,QUALIFIER
+2023-11-10,England,Germany,2,0,FRIENDLY
+2024-05-24,Ghana,Senegal,0,0,CONFED_CAMP
+2022-09-10,Brazil,France,2,0,FRIENDLY
+2019-06-18,Saudi Arabia,Netherlands,0,4,QUALIFIER
+2025-08-02,Uruguay,Poland,1,5,QUALIFIER
+2025-12-20,Switzerland,Brazil,0,6,FRIENDLY
+2022-06-12,Canada,Belgium,6,0,CONFED_CAMP
+2022-11-18,Japan,Switzerland,0,1,FRIENDLY
+2024-08-10,South Korea,Switzerland,1,3,CONFED_CAMP
+2024-10-26,Qatar,Ecuador,5,0,QUALIFIER
+2026-01-05,Belgium,Cameroon,0,3,QUALIFIER
+2019-01-03,Netherlands,Iran,4,0,WC_FINAL
+2024-12-16,Poland,Argentina,0,1,FRIENDLY
+2024-05-12,Switzerland,Iran,1,0,FRIENDLY
+2025-10-10,USA,Australia,0,3,FRIENDLY
+2021-01-18,Iran,Senegal,0,1,WC_FINAL
+2018-04-08,Iran,South Korea,0,1,CONFED_CAMP
+2021-05-16,Switzerland,Ecuador,0,0,QUALIFIER
+2023-06-27,Ghana,Canada,1,0,QUALIFIER
+2019-09-28,Tunisia,Morocco,0,0,QUALIFIER
+2020-01-01,Poland,Portugal,1,0,QUALIFIER
+2023-09-28,Ghana,Mexico,1,3,FRIENDLY
+2021-10-22,Mexico,Serbia,0,3,FRIENDLY
+2019-11-22,Portugal,Japan,0,0,CONFED_CAMP
+2023-05-14,France,Morocco,2,3,FRIENDLY
+2022-03-21,Switzerland,Spain,1,0,QUALIFIER
+2020-10-31,Ghana,Croatia,1,1,QUALIFIER
+2022-12-31,Colombia,Germany,0,0,FRIENDLY
+2026-04-07,Costa Rica,Canada,1,0,QUALIFIER
+2024-09-07,Denmark,Switzerland,1,1,QUALIFIER
+2024-04-23,Cameroon,Senegal,4,0,FRIENDLY
+2019-12-27,Netherlands,France,1,7,FRIENDLY
+2019-05-02,Cameroon,Australia,1,3,CONFED_CAMP
+2020-11-13,Poland,Denmark,0,0,WC_FINAL
+2018-11-15,Saudi Arabia,Australia,0,0,QUALIFIER
+2018-11-11,Japan,USA,3,0,QUALIFIER
+2026-04-29,Ghana,Brazil,0,0,FRIENDLY
+2019-10-16,Belgium,Ghana,2,1,FRIENDLY
+2020-05-25,Belgium,Qatar,0,0,CONFED_CAMP
+2025-04-11,Belgium,France,0,1,CONFED_CAMP
+2025-05-21,France,Senegal,0,1,QUALIFIER
+2024-05-15,Portugal,Argentina,1,4,QUALIFIER
+2024-02-12,Canada,Switzerland,0,3,QUALIFIER
+2024-02-17,Germany,Ecuador,0,0,WC_FINAL
+2022-08-18,Cameroon,USA,0,1,QUALIFIER
+2021-02-20,Cameroon,Brazil,0,0,QUALIFIER
+2019-09-03,Cameroon,Croatia,4,4,FRIENDLY
+2025-03-14,Denmark,Canada,0,1,QUALIFIER
+2022-10-30,Iran,Senegal,1,1,FRIENDLY
+2019-12-20,Iran,USA,0,0,QUALIFIER
+2018-02-26,Croatia,Portugal,2,2,CONFED_CAMP
+2022-04-21,Saudi Arabia,Germany,3,0,QUALIFIER
+2019-03-17,Morocco,Croatia,1,4,QUALIFIER
+2021-03-05,Poland,Australia,0,1,WC_FINAL
+2021-07-29,Tunisia,France,1,1,FRIENDLY
+2021-12-30,Japan,Croatia,1,1,QUALIFIER
+2023-10-02,Belgium,France,1,1,QUALIFIER
+2026-03-01,Saudi Arabia,France,0,0,QUALIFIER
+2020-03-30,South Korea,Senegal,2,2,FRIENDLY
+2021-09-13,Ecuador,Argentina,0,2,CONFED_CAMP
+2026-01-30,Tunisia,Netherlands,5,0,CONFED_CAMP
+2022-04-17,South Korea,Qatar,1,0,CONFED_CAMP
+2022-04-06,Germany,Tunisia,2,0,FRIENDLY
+2019-06-12,Ghana,Serbia,0,0,FRIENDLY
+2025-03-20,Germany,England,4,0,QUALIFIER
+2023-06-15,Germany,Portugal,0,0,QUALIFIER
+2019-09-20,Poland,Ecuador,2,2,WC_FINAL
+2019-04-12,Mexico,Saudi Arabia,1,2,QUALIFIER
+2020-11-16,Canada,Serbia,1,0,CONFED_CAMP
+2023-10-11,England,Ghana,0,0,QUALIFIER
+2021-01-11,Tunisia,Belgium,0,1,FRIENDLY
+2024-08-10,Netherlands,France,0,2,QUALIFIER
+2019-03-07,Netherlands,Qatar,3,0,QUALIFIER
+2021-04-18,Belgium,Spain,1,1,QUALIFIER
+2022-01-11,Senegal,France,2,0,FRIENDLY
+2020-08-10,Japan,France,6,0,CONFED_CAMP
+2022-03-31,South Korea,Spain,0,1,QUALIFIER
+2021-11-19,Denmark,Morocco,1,0,FRIENDLY
+2025-07-03,Croatia,Colombia,0,0,QUALIFIER
+2020-11-06,France,Ecuador,1,1,FRIENDLY
+2019-03-05,Colombia,Cameroon,0,0,CONFED_CAMP
+2019-05-15,Senegal,Saudi Arabia,0,1,QUALIFIER
+2021-04-21,Japan,USA,7,1,QUALIFIER
+2020-02-29,Cameroon,Colombia,3,0,QUALIFIER
+2021-09-04,Brazil,Mexico,1,0,QUALIFIER
+2025-01-13,Cameroon,Mexico,1,2,CONFED_CAMP
+2023-03-03,Denmark,Costa Rica,2,0,QUALIFIER
+2024-11-02,Ecuador,Costa Rica,1,2,CONFED_CAMP
+2018-07-06,Tunisia,USA,11,0,QUALIFIER
+2019-12-29,USA,South Korea,0,0,FRIENDLY
+2020-08-05,Senegal,Brazil,1,0,QUALIFIER
+2025-01-11,Senegal,Morocco,2,2,QUALIFIER
+2022-07-14,Tunisia,Serbia,4,2,QUALIFIER
+2020-10-02,Poland,Brazil,0,0,FRIENDLY
+2024-01-02,Argentina,Senegal,1,2,QUALIFIER
+2023-09-24,Japan,Colombia,0,1,FRIENDLY
+2024-09-16,Saudi Arabia,Switzerland,1,0,CONFED_CAMP
+2025-05-20,Morocco,Switzerland,1,0,CONFED_CAMP
+2023-10-04,Uruguay,Japan,0,0,CONFED_CAMP
+2026-05-10,Brazil,Costa Rica,8,0,QUALIFIER
+2025-10-30,Qatar,Senegal,0,3,QUALIFIER
+2024-11-29,Portugal,England,0,0,WC_FINAL
+2022-07-13,Spain,Switzerland,2,0,QUALIFIER
+2024-08-06,Switzerland,Spain,0,1,FRIENDLY
+2026-05-09,USA,Ghana,1,1,FRIENDLY
+2018-06-06,Brazil,Ghana,2,2,FRIENDLY
+2021-02-25,Switzerland,Spain,0,3,QUALIFIER
+2021-11-07,Uruguay,Japan,0,0,FRIENDLY
+2026-03-13,Serbia,Cameroon,0,1,FRIENDLY
+2026-01-20,Australia,France,0,0,WC_FINAL
+2025-01-18,Ecuador,Denmark,0,0,FRIENDLY
+2018-04-01,South Korea,Uruguay,1,5,WC_FINAL
+2019-08-11,Portugal,Mexico,2,1,CONFED_CAMP
+2024-03-28,Senegal,France,3,0,FRIENDLY
+2022-01-20,Japan,Portugal,0,1,FRIENDLY
+2025-06-27,Colombia,Uruguay,1,1,QUALIFIER
+2025-10-22,Senegal,Morocco,2,0,CONFED_CAMP
+2021-01-31,Australia,England,8,2,CONFED_CAMP
+2023-01-30,Canada,Poland,7,1,FRIENDLY
+2019-11-14,Belgium,Portugal,2,0,QUALIFIER
+2018-08-11,Germany,Qatar,0,0,QUALIFIER
+2024-05-06,Serbia,Uruguay,1,1,FRIENDLY
+2025-11-01,Qatar,Belgium,0,2,QUALIFIER
+2026-04-24,England,Germany,0,2,CONFED_CAMP
+2019-03-09,Croatia,Portugal,0,1,QUALIFIER
+2026-02-23,Colombia,Iran,0,0,QUALIFIER
+2022-06-08,Canada,Uruguay,1,3,FRIENDLY
+2020-05-13,Mexico,Ecuador,1,2,QUALIFIER
+2025-07-18,Denmark,Belgium,1,0,QUALIFIER
+2024-05-10,Japan,Denmark,0,4,QUALIFIER
+2025-06-06,Ecuador,South Korea,0,1,FRIENDLY
+2024-06-06,Spain,Netherlands,0,0,QUALIFIER
+2019-02-27,Ecuador,Uruguay,1,0,QUALIFIER
+2026-01-12,Colombia,Switzerland,2,0,FRIENDLY
+2019-03-21,Switzerland,Brazil,2,3,QUALIFIER
+2024-05-27,Canada,Morocco,1,1,WC_FINAL
+2026-05-25,Iran,South Korea,1,0,QUALIFIER
+2018-03-23,Qatar,Japan,0,1,QUALIFIER
+2023-10-10,Ecuador,Spain,2,0,QUALIFIER
+2026-05-07,Denmark,Ghana,0,0,FRIENDLY
+2021-06-10,Switzerland,Canada,0,5,FRIENDLY
+2024-06-18,Senegal,Brazil,0,0,QUALIFIER
+2019-01-09,Argentina,Australia,0,0,QUALIFIER
+2021-11-29,Netherlands,Germany,2,0,FRIENDLY
+2024-03-07,Iran,Spain,5,0,QUALIFIER
+2018-12-07,Saudi Arabia,Belgium,0,0,FRIENDLY
+2022-01-15,Switzerland,Serbia,1,0,CONFED_CAMP
+2025-07-08,Switzerland,Saudi Arabia,1,0,FRIENDLY
+2023-05-05,Croatia,Ecuador,0,0,QUALIFIER
+2021-01-11,Uruguay,USA,1,3,FRIENDLY
+2021-11-30,Morocco,Ghana,2,3,FRIENDLY
+2019-12-13,Cameroon,Senegal,0,0,QUALIFIER
+2023-07-05,Canada,Ghana,4,2,CONFED_CAMP
+2021-11-24,Germany,South Korea,1,0,FRIENDLY
+2018-07-15,Australia,Ghana,3,2,FRIENDLY
+2025-04-02,Croatia,Uruguay,0,1,WC_FINAL
+2018-02-21,Iran,Spain,0,1,QUALIFIER
+2019-12-23,Iran,Brazil,0,1,QUALIFIER
+2026-04-11,Denmark,Belgium,2,0,QUALIFIER
+2019-07-16,Belgium,Canada,0,1,QUALIFIER
+2023-11-19,Senegal,USA,0,0,QUALIFIER
+2024-07-21,Switzerland,Spain,0,4,QUALIFIER
+2018-07-13,Japan,Ghana,0,0,QUALIFIER
+2018-03-15,Australia,Uruguay,0,0,WC_FINAL
+2020-04-11,South Korea,Japan,0,0,WC_FINAL
+2026-03-23,Uruguay,Argentina,3,3,FRIENDLY
+2020-09-14,Qatar,Colombia,0,6,CONFED_CAMP
+2020-12-11,Saudi Arabia,Croatia,3,1,QUALIFIER
+2025-07-29,Senegal,Switzerland,0,2,QUALIFIER
+2020-07-27,Denmark,Canada,2,1,CONFED_CAMP
+2025-08-17,Brazil,Mexico,1,0,FRIENDLY
+2024-09-17,Switzerland,Poland,3,0,WC_FINAL
+2023-12-27,Poland,Argentina,1,0,CONFED_CAMP
+2019-09-11,Saudi Arabia,Tunisia,0,3,QUALIFIER
+2022-02-21,Senegal,Cameroon,5,0,FRIENDLY
+2018-03-07,Japan,Canada,0,2,QUALIFIER
+2022-02-13,Switzerland,Portugal,0,0,FRIENDLY
+2025-08-01,Serbia,USA,1,2,QUALIFIER
+2022-01-18,Spain,Argentina,3,1,QUALIFIER
+2023-11-18,Saudi Arabia,Mexico,1,0,FRIENDLY
+2023-09-02,South Korea,Uruguay,1,0,QUALIFIER
+2024-04-11,Brazil,Poland,0,0,QUALIFIER
+2023-04-01,Spain,Ghana,0,3,CONFED_CAMP
+2022-09-11,Serbia,Brazil,0,0,QUALIFIER
+2020-11-28,Saudi Arabia,Switzerland,0,0,QUALIFIER
+2018-11-28,Serbia,Netherlands,2,1,FRIENDLY
+2021-12-12,Argentina,Tunisia,2,11,FRIENDLY
+2020-03-29,Poland,Iran,2,1,FRIENDLY
+2022-10-15,Japan,Canada,5,0,QUALIFIER
+2018-05-07,Ghana,Tunisia,0,1,FRIENDLY
+2024-05-13,Brazil,Belgium,2,1,FRIENDLY
+2021-03-31,France,Colombia,0,0,WC_FINAL
+2025-12-20,Germany,Denmark,1,0,QUALIFIER
+2023-06-10,Qatar,Colombia,2,0,FRIENDLY
+2022-07-18,Belgium,Ecuador,0,0,CONFED_CAMP
+2021-08-05,South Korea,Ghana,0,0,CONFED_CAMP
+2022-05-17,Germany,Mexico,0,0,QUALIFIER
+2023-02-18,Uruguay,Costa Rica,1,0,FRIENDLY
+2023-09-12,Germany,Ecuador,0,1,QUALIFIER
+2018-04-28,Qatar,Mexico,0,0,QUALIFIER
+2022-03-12,Canada,Senegal,2,1,QUALIFIER
+2026-03-21,Germany,Canada,2,0,QUALIFIER
+2024-10-30,Australia,Mexico,0,13,FRIENDLY
+2026-02-07,France,Mexico,2,1,FRIENDLY
+2022-05-18,Costa Rica,Serbia,2,0,FRIENDLY
+2025-07-22,Costa Rica,Mexico,0,0,WC_FINAL
+2024-09-20,Denmark,Colombia,1,2,QUALIFIER
+2019-08-07,Senegal,Qatar,0,1,QUALIFIER
+2025-12-16,Japan,Iran,2,0,FRIENDLY
+2020-04-07,Saudi Arabia,Qatar,0,0,FRIENDLY
+2023-02-11,Croatia,Tunisia,2,0,QUALIFIER
+2021-04-12,Colombia,Brazil,1,0,QUALIFIER
+2019-10-30,Argentina,England,0,0,QUALIFIER
+2019-11-03,Cameroon,England,0,0,FRIENDLY
+2024-08-25,Poland,Belgium,1,4,CONFED_CAMP
+2020-10-30,Senegal,Saudi Arabia,1,3,CONFED_CAMP
+2024-06-04,Serbia,Brazil,4,0,QUALIFIER
+2021-10-01,Spain,Brazil,0,2,FRIENDLY
+2024-04-02,Belgium,Morocco,0,1,QUALIFIER
+2022-10-04,Costa Rica,Uruguay,1,0,FRIENDLY
+2024-08-02,Germany,South Korea,0,0,QUALIFIER
+2025-06-27,Portugal,Spain,0,0,FRIENDLY
+2024-02-13,Cameroon,Argentina,0,0,WC_FINAL
+2019-06-01,Australia,Serbia,3,0,FRIENDLY
+2022-03-07,Switzerland,Denmark,0,0,QUALIFIER
+2025-12-31,South Korea,Brazil,0,0,QUALIFIER
+2020-03-01,England,Uruguay,8,2,QUALIFIER
+2022-07-07,Argentina,Croatia,0,1,FRIENDLY
+2018-12-07,Croatia,Cameroon,5,2,QUALIFIER
+2022-08-14,South Korea,Tunisia,0,0,QUALIFIER
+2019-01-06,Brazil,Mexico,2,2,QUALIFIER
+2025-05-16,Poland,England,0,5,FRIENDLY
+2022-04-25,Colombia,France,0,3,FRIENDLY
+2018-02-16,Netherlands,Tunisia,1,0,FRIENDLY
+2020-05-31,Brazil,Serbia,3,0,FRIENDLY
+2025-02-12,Switzerland,Spain,2,2,QUALIFIER
+2023-08-06,England,Belgium,4,1,QUALIFIER
+2025-05-31,Brazil,Spain,0,0,QUALIFIER
+2019-02-20,Croatia,Brazil,2,2,QUALIFIER
+2019-04-15,Senegal,Brazil,1,1,QUALIFIER
+2021-05-26,USA,Brazil,1,0,QUALIFIER
+2019-09-04,Uruguay,Germany,2,1,CONFED_CAMP
+2019-07-19,Croatia,Belgium,3,1,QUALIFIER
+2024-02-19,Japan,Colombia,1,0,FRIENDLY
+2020-06-09,Brazil,Switzerland,4,0,CONFED_CAMP
+2021-04-24,Brazil,Ghana,6,0,QUALIFIER
+2025-04-13,Costa Rica,Spain,3,1,FRIENDLY
+2020-02-20,Ghana,Poland,1,3,QUALIFIER
+2024-05-23,Denmark,Cameroon,0,2,QUALIFIER
+2022-05-19,Poland,Mexico,3,3,FRIENDLY
+2024-01-28,Qatar,South Korea,7,0,FRIENDLY
+2024-10-28,Cameroon,Netherlands,2,2,WC_FINAL
+2023-01-02,England,Denmark,4,2,QUALIFIER
+2024-06-30,Uruguay,Morocco,5,5,QUALIFIER
+2018-05-24,Colombia,Morocco,1,1,QUALIFIER
+2025-01-04,Morocco,Belgium,1,3,CONFED_CAMP
+2024-12-27,Ecuador,Ghana,2,1,QUALIFIER
+2018-04-18,Australia,Brazil,2,1,QUALIFIER
+2026-04-05,Croatia,Switzerland,2,1,WC_FINAL
+2021-11-30,South Korea,Canada,0,2,FRIENDLY
+2023-11-24,Brazil,Croatia,5,1,QUALIFIER
+2024-07-07,Tunisia,Netherlands,0,0,CONFED_CAMP
+2020-01-11,South Korea,Argentina,0,2,QUALIFIER
+2020-08-05,Costa Rica,Spain,0,3,QUALIFIER
+2018-07-29,Qatar,USA,2,0,FRIENDLY
+2019-06-17,Denmark,Iran,0,0,CONFED_CAMP
+2020-07-24,South Korea,Argentina,0,5,QUALIFIER
+2025-07-17,Qatar,Tunisia,1,5,QUALIFIER
+2020-02-26,Croatia,Australia,3,0,CONFED_CAMP
+2023-07-14,Mexico,Belgium,0,2,FRIENDLY
+2022-05-02,Costa Rica,Iran,0,3,QUALIFIER
+2022-09-20,Switzerland,Germany,5,0,FRIENDLY
+2021-05-09,Japan,Switzerland,0,1,FRIENDLY
+2026-02-09,Ecuador,Japan,0,1,FRIENDLY
+2022-11-15,Netherlands,Senegal,4,0,FRIENDLY
+2021-08-13,Uruguay,England,2,0,FRIENDLY
+2021-05-27,Ecuador,France,1,1,CONFED_CAMP
+2022-08-01,Poland,Uruguay,5,1,QUALIFIER
+2023-03-19,Japan,Netherlands,0,2,QUALIFIER
+2022-02-02,Denmark,USA,0,1,QUALIFIER
+2023-05-06,Ghana,Brazil,0,3,FRIENDLY
+2025-03-01,South Korea,Netherlands,1,3,QUALIFIER
+2022-05-18,Denmark,France,1,0,WC_FINAL
+2019-10-29,Belgium,Tunisia,0,0,QUALIFIER
+2022-10-15,Australia,Croatia,1,0,QUALIFIER
+2023-04-24,Canada,Portugal,0,2,WC_FINAL
+2024-11-29,Japan,Poland,0,0,FRIENDLY
+2026-02-17,Switzerland,Colombia,0,0,CONFED_CAMP
+2021-04-10,Qatar,Japan,6,2,QUALIFIER
+2021-01-08,Argentina,France,0,2,QUALIFIER
+2018-02-24,Morocco,Ghana,0,0,QUALIFIER
+2026-03-03,Morocco,Australia,1,1,QUALIFIER
+2024-11-27,Poland,Croatia,0,0,CONFED_CAMP
+2018-02-07,Denmark,Cameroon,0,2,CONFED_CAMP
+2021-07-07,Morocco,Iran,0,0,FRIENDLY
+2020-08-08,Spain,Australia,1,0,CONFED_CAMP
+2023-01-19,Qatar,Poland,0,2,FRIENDLY
+2025-01-28,South Korea,Brazil,4,2,QUALIFIER
+2025-01-19,Denmark,Uruguay,2,6,QUALIFIER
+2026-04-09,Belgium,Uruguay,0,1,FRIENDLY
+2021-02-16,Portugal,Saudi Arabia,0,1,CONFED_CAMP
+2018-04-04,Costa Rica,Cameroon,2,1,QUALIFIER
+2019-12-11,Croatia,Saudi Arabia,0,2,FRIENDLY
+2022-10-29,France,Ecuador,0,0,QUALIFIER
+2023-12-19,Belgium,Germany,0,2,WC_FINAL
+2025-07-01,Serbia,Spain,2,0,QUALIFIER
+2026-02-17,Senegal,Netherlands,1,1,QUALIFIER
+2022-03-14,Mexico,USA,1,0,QUALIFIER
+2024-01-08,South Korea,Brazil,5,0,FRIENDLY
+2019-11-05,Switzerland,Tunisia,0,0,QUALIFIER
+2020-10-25,Cameroon,Spain,0,0,QUALIFIER
+2026-04-18,Canada,USA,0,0,FRIENDLY
+2022-09-19,South Korea,Tunisia,1,2,QUALIFIER
+2018-10-31,Brazil,Iran,0,3,FRIENDLY
+2019-08-24,Australia,Saudi Arabia,2,0,QUALIFIER
+2024-04-18,Croatia,Cameroon,0,2,QUALIFIER
+2021-03-03,Argentina,Portugal,0,0,FRIENDLY
+2024-05-09,Ghana,Uruguay,0,0,FRIENDLY
+2024-09-04,France,Croatia,0,3,FRIENDLY
+2022-12-26,Tunisia,Mexico,2,0,QUALIFIER
+2018-05-20,France,Senegal,4,0,QUALIFIER
+2020-12-22,Belgium,Serbia,1,0,QUALIFIER
+2021-03-11,Australia,Mexico,0,0,WC_FINAL
+2025-01-02,Ecuador,England,2,0,QUALIFIER
+2018-01-14,Croatia,Colombia,0,1,QUALIFIER
+2025-10-02,Canada,Poland,1,2,QUALIFIER
+2022-02-12,Tunisia,Germany,2,0,FRIENDLY
+2021-01-05,Denmark,Cameroon,3,0,QUALIFIER
+2026-02-12,Portugal,Uruguay,0,3,QUALIFIER
+2018-06-21,Denmark,Australia,0,0,QUALIFIER
+2020-03-10,Japan,Croatia,6,1,FRIENDLY
+2020-10-08,England,Netherlands,5,1,CONFED_CAMP
+2020-01-25,Ghana,Germany,0,1,WC_FINAL
+2020-08-07,Denmark,Colombia,1,0,QUALIFIER
+2018-04-24,Argentina,Senegal,0,5,FRIENDLY
+2021-06-17,Croatia,England,0,1,QUALIFIER
+2022-04-15,South Korea,Cameroon,1,1,CONFED_CAMP
+2023-02-19,Serbia,Germany,4,0,QUALIFIER
+2018-07-01,Brazil,Cameroon,0,0,QUALIFIER
+2020-02-21,Ecuador,Senegal,0,0,FRIENDLY
+2018-01-13,USA,Colombia,2,0,FRIENDLY
+2023-07-22,England,Qatar,1,0,FRIENDLY
+2025-08-05,Denmark,Costa Rica,0,0,FRIENDLY
+2019-09-25,Canada,Iran,2,0,CONFED_CAMP
+2022-08-18,Uruguay,Saudi Arabia,6,1,CONFED_CAMP
+2024-11-13,Switzerland,Iran,0,0,QUALIFIER
+2025-12-31,Qatar,Tunisia,1,1,CONFED_CAMP
+2020-10-22,Senegal,Colombia,1,1,FRIENDLY
+2024-08-13,Canada,Qatar,0,0,CONFED_CAMP
+2021-04-07,Iran,Serbia,0,3,FRIENDLY
+2024-12-11,USA,Ecuador,5,3,QUALIFIER
+2022-09-11,Iran,Cameroon,1,0,QUALIFIER
+2019-08-16,Costa Rica,Serbia,2,1,CONFED_CAMP
+2025-04-07,England,Mexico,0,0,FRIENDLY
+2023-11-23,Senegal,Portugal,0,0,CONFED_CAMP
+2018-01-18,Iran,Costa Rica,3,1,QUALIFIER
+2018-01-22,Colombia,Cameroon,2,6,QUALIFIER
+2018-07-15,Croatia,Japan,2,0,QUALIFIER
+2025-04-24,Portugal,Croatia,0,1,FRIENDLY
+2023-04-09,England,South Korea,0,1,QUALIFIER
+2018-03-16,Saudi Arabia,Costa Rica,1,1,QUALIFIER
+2018-10-02,Morocco,Spain,2,3,FRIENDLY
+2022-11-28,Poland,England,1,0,QUALIFIER
+2020-06-15,Morocco,Belgium,3,0,FRIENDLY
+2023-06-25,Switzerland,Argentina,3,0,QUALIFIER
+2018-09-10,Belgium,Germany,0,2,FRIENDLY
+2022-07-03,Spain,Canada,0,0,QUALIFIER
+2019-02-16,Argentina,Portugal,0,0,QUALIFIER
+2021-07-28,France,England,1,0,QUALIFIER
+2021-05-09,Japan,Poland,0,5,CONFED_CAMP
+2018-10-03,Brazil,Senegal,1,1,QUALIFIER
+2022-10-01,Spain,Argentina,4,0,CONFED_CAMP
+2022-06-20,South Korea,Saudi Arabia,0,0,FRIENDLY
+2022-08-01,Morocco,Netherlands,0,3,FRIENDLY
+2026-05-17,Uruguay,Japan,2,1,FRIENDLY
+2018-08-15,Croatia,Morocco,2,0,QUALIFIER
+2021-09-03,South Korea,Portugal,0,3,QUALIFIER
+2023-03-27,Belgium,Brazil,0,2,QUALIFIER
+2020-12-20,Netherlands,South Korea,2,4,FRIENDLY
+2024-02-08,South Korea,Serbia,1,2,QUALIFIER
+2020-12-30,Serbia,Belgium,0,1,CONFED_CAMP
+2021-04-08,Serbia,Netherlands,0,0,FRIENDLY
+2018-01-30,Mexico,Qatar,2,0,QUALIFIER
+2020-04-17,USA,Colombia,2,2,QUALIFIER
+2025-06-01,USA,Poland,0,0,CONFED_CAMP
+2024-12-08,Germany,Portugal,1,0,QUALIFIER
+2025-11-30,Australia,Belgium,1,2,QUALIFIER
+2020-05-31,Iran,France,0,6,FRIENDLY
+2023-09-01,Brazil,Ghana,0,1,FRIENDLY
+2020-03-16,Cameroon,Uruguay,2,0,QUALIFIER
+2025-10-26,Morocco,Colombia,0,2,FRIENDLY
+2025-04-04,Brazil,Uruguay,3,0,QUALIFIER
+2022-03-12,Japan,Mexico,2,1,FRIENDLY
+2022-03-10,Australia,Senegal,2,2,FRIENDLY
+2025-10-14,France,England,0,2,CONFED_CAMP
+2022-03-23,England,Saudi Arabia,1,2,CONFED_CAMP
+2021-10-12,Australia,USA,3,0,FRIENDLY
+2019-03-01,Croatia,Serbia,1,0,CONFED_CAMP
+2022-01-05,Iran,Tunisia,1,0,QUALIFIER
+2021-03-30,Uruguay,Colombia,0,2,FRIENDLY
+2023-01-24,Mexico,Iran,2,0,CONFED_CAMP
+2024-01-23,Cameroon,Uruguay,0,3,CONFED_CAMP
+2025-11-21,Argentina,Cameroon,0,0,QUALIFIER
+2020-04-13,South Korea,Senegal,1,1,QUALIFIER
+2018-07-18,Brazil,Ghana,0,0,FRIENDLY
+2024-03-05,Germany,Morocco,2,1,QUALIFIER
+2018-09-26,Japan,USA,0,1,QUALIFIER
+2025-04-06,France,Cameroon,0,2,QUALIFIER
+2021-05-01,Netherlands,Canada,3,0,QUALIFIER
+2018-09-01,Cameroon,Poland,2,2,QUALIFIER
+2026-03-23,Colombia,Argentina,2,0,QUALIFIER
+2023-05-03,Uruguay,Canada,0,2,QUALIFIER
+2018-12-04,Iran,Qatar,4,0,FRIENDLY
+2020-10-10,Belgium,Brazil,0,0,FRIENDLY
+2019-02-12,Tunisia,Mexico,1,0,FRIENDLY
+2024-06-13,Ecuador,Australia,0,3,WC_FINAL
+2023-12-17,Croatia,England,0,1,FRIENDLY
+2024-09-03,Saudi Arabia,Iran,0,2,FRIENDLY
+2023-01-28,France,Canada,1,0,QUALIFIER
+2018-07-05,Costa Rica,Qatar,5,1,QUALIFIER
+2025-05-03,Iran,Switzerland,2,2,QUALIFIER
+2024-02-07,Brazil,Poland,3,5,QUALIFIER
+2025-04-25,Croatia,Ghana,0,1,QUALIFIER
+2023-05-19,Netherlands,Colombia,0,1,QUALIFIER
+2018-07-11,Croatia,Uruguay,2,1,QUALIFIER
+2020-08-22,Morocco,France,3,2,FRIENDLY
+2021-10-03,France,Argentina,1,3,FRIENDLY
+2023-12-26,Saudi Arabia,Colombia,5,0,FRIENDLY
+2024-12-23,Brazil,Spain,0,0,QUALIFIER
+2018-09-15,Serbia,Denmark,4,4,CONFED_CAMP
+2025-08-01,Tunisia,Qatar,4,1,FRIENDLY
+2020-12-18,Colombia,Cameroon,0,0,FRIENDLY
+2022-02-12,Denmark,Cameroon,1,1,FRIENDLY
+2022-08-13,Spain,Canada,1,1,QUALIFIER
+2023-02-18,Serbia,England,2,0,CONFED_CAMP
+2018-02-21,Australia,Tunisia,2,2,QUALIFIER
+2022-10-08,Japan,Tunisia,2,0,QUALIFIER
+2018-03-11,England,Ecuador,1,1,CONFED_CAMP
+2021-05-21,Portugal,England,1,1,CONFED_CAMP
+2024-06-17,Colombia,Uruguay,1,0,QUALIFIER
+2019-10-03,Japan,Qatar,0,0,WC_FINAL
+2019-06-23,Qatar,USA,3,0,WC_FINAL
+2022-12-21,Netherlands,France,2,1,QUALIFIER
+2024-02-03,Mexico,Switzerland,0,1,QUALIFIER
+2020-01-28,Uruguay,Denmark,1,2,FRIENDLY
+2021-04-26,Cameroon,Ghana,0,0,QUALIFIER
+2022-08-26,Saudi Arabia,Iran,1,1,QUALIFIER
+2022-09-15,Colombia,Qatar,3,1,CONFED_CAMP
+2023-07-06,Switzerland,Belgium,0,0,QUALIFIER
+2022-02-03,Ghana,USA,2,3,FRIENDLY
+2026-05-24,Senegal,Colombia,4,0,FRIENDLY
+2025-05-06,Iran,South Korea,0,2,QUALIFIER
+2023-01-05,Tunisia,Croatia,0,4,QUALIFIER
+2021-12-10,Canada,Cameroon,1,2,FRIENDLY
+2018-04-05,Costa Rica,Colombia,0,0,QUALIFIER
+2026-01-18,Belgium,Ecuador,0,2,QUALIFIER
+2024-01-07,France,England,3,4,QUALIFIER
+2023-09-02,Denmark,South Korea,1,0,QUALIFIER
+2020-12-10,Uruguay,Switzerland,1,0,CONFED_CAMP
+2025-09-08,Argentina,Morocco,0,1,QUALIFIER
+2024-10-16,Tunisia,Spain,2,2,QUALIFIER
+2024-11-17,Germany,Senegal,0,3,CONFED_CAMP
+2020-04-03,Qatar,Japan,0,5,FRIENDLY
+2021-01-14,Cameroon,France,2,0,FRIENDLY
+2026-01-14,Uruguay,Argentina,4,0,CONFED_CAMP
+2022-04-24,France,England,7,0,FRIENDLY
+2024-10-08,England,Australia,0,0,FRIENDLY
+2023-06-15,Ecuador,Portugal,3,2,FRIENDLY
+2019-01-27,Ecuador,England,1,0,WC_FINAL
+2021-12-01,Portugal,Ghana,0,3,QUALIFIER
+2023-07-10,Australia,Netherlands,2,1,QUALIFIER
+2024-04-10,Serbia,Brazil,1,3,FRIENDLY
+2021-08-22,Denmark,Serbia,0,1,CONFED_CAMP
+2019-08-20,Costa Rica,Australia,1,1,QUALIFIER
+2020-12-28,Argentina,Mexico,0,3,FRIENDLY
+2018-11-08,Argentina,Portugal,0,0,QUALIFIER
+2025-10-04,Germany,Cameroon,0,1,FRIENDLY
+2024-04-09,Cameroon,Brazil,1,3,QUALIFIER
+2023-08-23,Costa Rica,Morocco,0,0,FRIENDLY
+2024-02-03,Tunisia,Morocco,0,0,QUALIFIER
+2022-10-08,Japan,Brazil,0,2,FRIENDLY
+2021-10-12,Tunisia,Ecuador,1,1,QUALIFIER
+2023-07-14,Iran,Saudi Arabia,0,2,QUALIFIER
+2025-06-25,Senegal,Costa Rica,5,4,FRIENDLY
+2022-01-31,Brazil,Canada,0,0,QUALIFIER
+2021-11-23,Iran,Argentina,1,0,QUALIFIER
+2018-07-29,USA,Ghana,0,2,CONFED_CAMP
+2023-07-16,Ecuador,Argentina,0,0,CONFED_CAMP
+2018-10-16,Japan,Poland,0,2,QUALIFIER
+2019-05-11,Cameroon,Switzerland,3,1,QUALIFIER
+2020-07-17,South Korea,Tunisia,2,2,FRIENDLY
+2023-06-12,Portugal,Iran,1,1,FRIENDLY
+2018-05-05,Switzerland,Costa Rica,4,1,CONFED_CAMP
+2025-07-14,Ecuador,Brazil,1,0,QUALIFIER
+2022-03-02,Croatia,Saudi Arabia,0,0,FRIENDLY
+2025-06-08,Saudi Arabia,Switzerland,0,0,FRIENDLY
+2020-07-06,Australia,Switzerland,3,3,QUALIFIER
+2025-12-07,Canada,Serbia,1,0,FRIENDLY
+2024-05-12,Ghana,England,0,1,QUALIFIER
+2024-05-07,Uruguay,Colombia,1,0,QUALIFIER
+2020-02-20,Poland,Costa Rica,0,3,CONFED_CAMP
+2020-02-26,Croatia,Qatar,0,0,FRIENDLY
+2019-10-16,Brazil,Poland,1,1,QUALIFIER
+2025-08-20,South Korea,Colombia,3,3,CONFED_CAMP
+2018-03-29,Poland,Australia,0,0,CONFED_CAMP
+2022-09-21,Switzerland,Germany,1,2,QUALIFIER
+2018-09-02,South Korea,France,0,1,QUALIFIER
+2019-03-03,Portugal,Canada,4,0,FRIENDLY
+2020-01-08,Spain,Iran,0,4,QUALIFIER
+2019-08-22,Ecuador,Senegal,2,1,FRIENDLY
+2024-05-01,Germany,Uruguay,0,1,QUALIFIER
+2019-06-20,Qatar,Poland,1,1,QUALIFIER
+2025-06-25,France,Japan,0,1,CONFED_CAMP
+2024-12-16,Denmark,Costa Rica,1,2,QUALIFIER
+2024-08-10,Saudi Arabia,Morocco,0,3,QUALIFIER
+2018-07-14,Colombia,Croatia,2,1,CONFED_CAMP
+2021-06-05,USA,France,1,2,WC_FINAL
+2023-01-17,Australia,Colombia,0,5,QUALIFIER
+2020-04-28,Netherlands,USA,1,0,FRIENDLY
+2023-07-07,Colombia,Switzerland,2,0,QUALIFIER
+2018-03-13,Croatia,South Korea,0,7,QUALIFIER
+2023-04-12,Ghana,France,0,2,QUALIFIER
+2023-01-08,Canada,Spain,1,0,QUALIFIER
+2020-07-24,Uruguay,Netherlands,5,0,FRIENDLY
+2022-05-21,Serbia,England,0,0,QUALIFIER
+2020-02-13,Uruguay,Morocco,0,1,QUALIFIER
+2019-03-08,Belgium,Portugal,0,0,QUALIFIER
+2021-12-22,Brazil,Denmark,5,0,QUALIFIER
+2020-03-28,Saudi Arabia,Ghana,0,0,QUALIFIER
+2020-06-15,Portugal,Saudi Arabia,0,1,QUALIFIER
+2021-10-29,Saudi Arabia,USA,0,0,FRIENDLY
+2026-01-02,Colombia,Ecuador,0,0,FRIENDLY
+2019-06-30,Brazil,Japan,0,1,FRIENDLY
+2025-03-03,England,Ecuador,0,1,QUALIFIER
+2018-07-17,Brazil,Argentina,3,1,QUALIFIER
+2023-08-07,Spain,Mexico,0,0,CONFED_CAMP
+2020-04-02,Japan,Germany,0,5,CONFED_CAMP
+2020-03-19,Qatar,Brazil,0,1,FRIENDLY
+2022-10-04,Saudi Arabia,Canada,0,0,QUALIFIER
+2024-05-28,Mexico,Australia,0,1,FRIENDLY
+2026-01-23,France,England,0,0,FRIENDLY
+2020-07-16,Qatar,Belgium,0,10,FRIENDLY
+2024-10-12,Iran,Croatia,10,1,QUALIFIER
+2020-04-04,Uruguay,Poland,1,0,WC_FINAL
+2023-07-03,USA,Denmark,0,0,FRIENDLY
+2021-06-12,Saudi Arabia,Germany,2,0,QUALIFIER
+2023-05-02,South Korea,England,0,0,QUALIFIER
+2024-08-13,Ecuador,Senegal,0,1,WC_FINAL
+2024-11-15,Cameroon,Netherlands,1,4,QUALIFIER
+2018-03-04,Morocco,Iran,1,1,FRIENDLY
+2018-07-12,Argentina,Portugal,0,0,CONFED_CAMP
+2020-11-17,Ecuador,USA,2,0,FRIENDLY
+2018-11-25,Germany,Croatia,0,0,FRIENDLY
+2025-01-19,Uruguay,Switzerland,0,1,QUALIFIER
+2024-10-27,Iran,Morocco,7,0,QUALIFIER
+2025-07-22,Qatar,Denmark,9,2,QUALIFIER
+2024-11-10,Morocco,Japan,2,1,QUALIFIER
+2021-08-09,Poland,Tunisia,3,2,CONFED_CAMP
+2018-08-04,Morocco,Netherlands,1,1,FRIENDLY
+2024-10-14,England,Ecuador,1,1,CONFED_CAMP
+2018-02-19,Denmark,Spain,1,2,QUALIFIER
+2018-06-13,Saudi Arabia,Ghana,7,1,FRIENDLY
+2019-09-03,Germany,Switzerland,0,1,QUALIFIER
+2022-05-22,USA,Costa Rica,0,0,QUALIFIER
+2020-12-16,Croatia,Serbia,4,0,QUALIFIER
+2024-05-04,Spain,Germany,5,0,FRIENDLY
+2021-09-23,Senegal,Netherlands,0,5,FRIENDLY
+2023-06-11,South Korea,USA,0,0,QUALIFIER
+2025-04-14,Saudi Arabia,England,4,0,QUALIFIER
+2022-03-02,Ghana,Tunisia,3,1,QUALIFIER
+2024-01-29,Ghana,Switzerland,0,1,CONFED_CAMP
+2020-06-07,Costa Rica,Ecuador,1,2,FRIENDLY
+2019-03-08,Morocco,Croatia,0,0,FRIENDLY
+2025-08-14,Germany,Colombia,1,0,QUALIFIER
+2021-08-06,Brazil,Portugal,1,4,QUALIFIER
+2026-01-30,Qatar,Iran,0,0,FRIENDLY
+2018-09-02,Ecuador,Costa Rica,1,0,QUALIFIER
+2023-04-26,Mexico,Germany,0,0,FRIENDLY
+2018-07-22,Ghana,Japan,1,4,FRIENDLY
+2024-08-24,Germany,Croatia,0,1,QUALIFIER
+2022-05-01,Switzerland,Tunisia,1,0,QUALIFIER
+2024-08-19,Australia,Iran,0,2,CONFED_CAMP
+2019-10-10,Germany,Croatia,0,0,QUALIFIER
+2025-05-18,Iran,South Korea,0,0,FRIENDLY
+2021-09-10,Spain,Mexico,0,0,FRIENDLY
+2021-05-03,Croatia,France,2,0,QUALIFIER
+2020-12-06,Japan,Portugal,0,2,QUALIFIER
+2023-12-18,Qatar,Uruguay,3,0,FRIENDLY
+2021-06-06,Brazil,Canada,3,0,QUALIFIER
+2022-01-26,Saudi Arabia,Serbia,3,1,FRIENDLY
+2020-08-05,Ecuador,France,2,0,FRIENDLY
+2023-10-07,Belgium,Australia,1,0,QUALIFIER
+2022-05-06,Netherlands,Portugal,3,0,QUALIFIER
+2018-01-02,Mexico,Germany,1,0,FRIENDLY
+2018-01-04,Mexico,Senegal,2,0,FRIENDLY
+2019-12-08,Poland,Qatar,0,1,FRIENDLY
+2025-05-11,Qatar,Ecuador,0,3,FRIENDLY
+2020-09-04,Cameroon,South Korea,2,3,FRIENDLY
+2020-06-22,Argentina,Netherlands,1,4,QUALIFIER
+2021-06-07,Ghana,Senegal,0,2,CONFED_CAMP
+2020-04-25,Mexico,Iran,0,2,QUALIFIER
+2019-11-01,Germany,Colombia,2,0,QUALIFIER
+2020-06-11,Cameroon,Ecuador,2,1,QUALIFIER
+2019-06-27,Colombia,Australia,0,0,QUALIFIER
+2026-03-03,England,Belgium,1,5,QUALIFIER
+2023-11-09,Belgium,Costa Rica,2,0,QUALIFIER
+2018-07-12,Tunisia,Saudi Arabia,0,2,WC_FINAL
+2024-09-11,Spain,Saudi Arabia,0,1,CONFED_CAMP
+2018-05-11,Netherlands,Switzerland,0,0,FRIENDLY
+2025-12-11,Ecuador,Denmark,2,0,CONFED_CAMP
+2022-07-25,Switzerland,England,1,3,QUALIFIER
+2020-10-15,Poland,Ghana,3,1,FRIENDLY
+2022-04-25,Uruguay,Ghana,5,0,QUALIFIER
+2026-04-07,Argentina,Brazil,0,2,FRIENDLY
+2021-03-02,Ghana,South Korea,0,3,CONFED_CAMP
+2021-05-28,Japan,Switzerland,0,0,FRIENDLY
+2022-08-08,Switzerland,USA,0,3,FRIENDLY
+2023-07-12,Canada,South Korea,1,0,CONFED_CAMP
+2025-06-15,Spain,Netherlands,0,1,FRIENDLY
+2020-09-07,Poland,Cameroon,0,4,QUALIFIER
+2023-08-16,Germany,Japan,4,1,QUALIFIER
+2023-10-09,France,Qatar,0,0,FRIENDLY
+2019-12-15,Denmark,Costa Rica,1,5,QUALIFIER
+2023-01-07,Australia,Ecuador,1,0,FRIENDLY
+2019-05-11,Iran,Tunisia,0,4,QUALIFIER
+2026-03-19,Netherlands,Uruguay,0,1,CONFED_CAMP
+2019-09-09,Germany,Qatar,0,1,QUALIFIER
+2018-08-29,Iran,Saudi Arabia,0,1,QUALIFIER
+2023-05-24,Mexico,Morocco,5,3,QUALIFIER
+2020-03-17,Croatia,Switzerland,0,2,QUALIFIER
+2023-05-25,Ecuador,Switzerland,1,0,QUALIFIER
+2021-08-16,Portugal,Ecuador,6,0,QUALIFIER
+2018-10-30,Qatar,Uruguay,6,0,QUALIFIER
+2022-11-02,Brazil,South Korea,1,8,QUALIFIER
+2019-09-21,Serbia,Japan,5,0,WC_FINAL
+2024-04-11,Brazil,Ecuador,1,0,QUALIFIER
+2021-04-06,Uruguay,Costa Rica,0,1,CONFED_CAMP
+2020-08-23,Netherlands,Switzerland,2,2,QUALIFIER
+2021-08-30,Belgium,Portugal,0,3,CONFED_CAMP
+2018-06-10,Uruguay,Mexico,4,1,FRIENDLY
+2021-05-22,Spain,Germany,0,1,QUALIFIER
+2021-08-13,England,Mexico,1,0,QUALIFIER
+2022-03-25,Argentina,Portugal,0,0,QUALIFIER
+2026-02-16,Australia,Uruguay,4,0,QUALIFIER
+2021-04-15,Colombia,Switzerland,3,4,FRIENDLY
+2025-04-06,France,Morocco,1,0,FRIENDLY
+2025-04-03,Colombia,Argentina,1,3,QUALIFIER
+2019-06-25,Germany,Mexico,1,2,QUALIFIER
+2024-07-24,Croatia,Ghana,0,0,FRIENDLY
+2022-12-13,Argentina,Australia,7,2,CONFED_CAMP
+2024-10-23,Japan,Iran,0,1,QUALIFIER
+2024-02-19,Uruguay,Germany,1,0,WC_FINAL
+2018-03-27,Netherlands,Denmark,0,2,QUALIFIER
+2020-06-16,Germany,Tunisia,7,0,FRIENDLY
+2023-08-23,Saudi Arabia,Argentina,1,1,QUALIFIER
+2026-04-21,Japan,Brazil,0,1,FRIENDLY
+2018-01-17,Japan,South Korea,0,0,FRIENDLY
+2025-04-12,Croatia,France,2,2,QUALIFIER
+2020-06-08,Switzerland,Tunisia,0,0,QUALIFIER
+2022-07-31,Portugal,Serbia,0,3,QUALIFIER
+2021-07-13,Australia,South Korea,2,1,QUALIFIER
+2018-08-02,USA,Belgium,2,2,QUALIFIER
+2025-12-21,Croatia,Poland,8,0,CONFED_CAMP
+2021-12-15,Senegal,Poland,0,2,QUALIFIER
+2022-10-11,France,Japan,1,0,CONFED_CAMP
+2022-08-28,Poland,Qatar,0,4,QUALIFIER
+2023-10-16,Iran,Saudi Arabia,3,0,FRIENDLY
+2026-01-06,Brazil,Morocco,1,2,QUALIFIER
+2020-04-27,Switzerland,Belgium,0,0,CONFED_CAMP
+2023-11-10,Spain,Mexico,4,0,QUALIFIER
+2022-10-10,South Korea,Denmark,5,0,QUALIFIER
+2026-03-21,Senegal,Ecuador,1,0,QUALIFIER
+2021-07-24,Qatar,Ecuador,4,1,FRIENDLY
+2018-03-12,Qatar,Mexico,3,1,CONFED_CAMP
+2018-05-14,England,Spain,7,0,QUALIFIER
+2025-01-16,Germany,France,0,0,QUALIFIER
+2022-11-10,Senegal,Iran,4,1,FRIENDLY
+2023-05-13,Tunisia,England,0,4,QUALIFIER
+2018-01-19,England,Serbia,0,1,FRIENDLY
+2021-06-13,England,Croatia,0,0,QUALIFIER
+2022-08-02,Switzerland,England,0,0,CONFED_CAMP
+2018-12-25,Mexico,Belgium,0,0,QUALIFIER
+2018-07-26,Mexico,USA,0,0,QUALIFIER
+2019-04-01,Belgium,South Korea,7,3,CONFED_CAMP
+2024-11-20,Ecuador,Morocco,5,2,QUALIFIER
+2020-02-20,Canada,Germany,0,0,CONFED_CAMP
+2024-06-03,Ghana,Spain,2,0,FRIENDLY
+2024-09-04,Saudi Arabia,Denmark,1,2,FRIENDLY
+2019-03-08,Poland,South Korea,1,0,QUALIFIER
+2023-04-25,Argentina,Canada,0,2,QUALIFIER
+2021-05-01,England,South Korea,1,1,QUALIFIER
+2023-01-17,Qatar,Germany,0,1,QUALIFIER
+2025-08-11,Colombia,Iran,2,2,QUALIFIER
+2022-12-25,Germany,Tunisia,2,2,CONFED_CAMP
+2022-05-25,France,South Korea,0,0,FRIENDLY
+2025-01-28,Japan,Morocco,1,2,QUALIFIER
+2018-10-08,Morocco,Tunisia,2,0,QUALIFIER
+2026-01-22,England,Switzerland,0,0,QUALIFIER
+2018-07-07,Qatar,Colombia,1,0,FRIENDLY
+2021-01-24,Australia,Netherlands,0,4,QUALIFIER
+2019-09-25,Mexico,Morocco,1,1,CONFED_CAMP
+2018-06-22,Uruguay,Serbia,1,0,QUALIFIER
+2022-11-21,France,Denmark,0,3,CONFED_CAMP
+2025-08-11,Australia,Iran,0,0,FRIENDLY
+2024-09-24,Denmark,Spain,0,0,FRIENDLY
+2024-09-29,South Korea,Saudi Arabia,4,0,QUALIFIER
+2025-02-18,Denmark,Spain,2,0,CONFED_CAMP
+2024-06-13,Portugal,Ecuador,0,0,QUALIFIER
+2022-11-15,Canada,Qatar,3,2,QUALIFIER
+2021-03-09,France,Canada,0,2,FRIENDLY
+2025-07-29,Ecuador,Brazil,0,0,QUALIFIER
+2022-01-23,Australia,Serbia,0,3,FRIENDLY
+2026-02-25,Australia,England,0,0,QUALIFIER
+2018-02-02,Belgium,Brazil,1,4,QUALIFIER
+2025-11-09,Tunisia,South Korea,0,0,QUALIFIER
+2025-01-15,Germany,Switzerland,5,2,QUALIFIER
+2025-12-12,Cameroon,Serbia,1,1,CONFED_CAMP
+2021-10-22,Portugal,Spain,1,0,QUALIFIER
+2026-03-26,Netherlands,Senegal,0,0,FRIENDLY
+2022-08-18,Denmark,Germany,4,2,QUALIFIER
+2020-07-30,Netherlands,Ghana,0,1,QUALIFIER
+2019-06-14,Senegal,Mexico,0,1,FRIENDLY
+2018-07-13,Canada,Japan,0,0,QUALIFIER
+2025-05-22,South Korea,Ghana,0,1,QUALIFIER
+2021-01-25,Argentina,Qatar,1,1,QUALIFIER
+2021-09-27,Portugal,Brazil,0,0,QUALIFIER
+2023-04-02,Ecuador,Tunisia,0,0,FRIENDLY
+2022-01-28,Saudi Arabia,Portugal,0,0,FRIENDLY
+2019-05-31,Denmark,Netherlands,0,2,CONFED_CAMP
+2024-02-04,Senegal,Poland,2,0,FRIENDLY
+2023-04-22,Tunisia,Japan,2,0,QUALIFIER
+2021-01-14,Switzerland,Saudi Arabia,1,1,QUALIFIER
+2019-02-07,Senegal,Australia,2,1,QUALIFIER
+2023-03-20,Brazil,USA,1,1,FRIENDLY
+2024-04-07,Japan,Poland,2,0,QUALIFIER
+2024-07-11,Serbia,Netherlands,0,2,WC_FINAL
+2018-02-01,Serbia,Ghana,6,1,QUALIFIER
+2024-05-05,Ecuador,Switzerland,0,0,CONFED_CAMP
+2018-03-02,Senegal,Poland,1,2,WC_FINAL
+2022-12-22,South Korea,Colombia,0,1,QUALIFIER
+2025-03-11,Costa Rica,Portugal,1,2,WC_FINAL
+2025-07-17,Colombia,Germany,2,1,QUALIFIER
+2024-08-20,Costa Rica,Ghana,1,0,CONFED_CAMP
+2021-12-18,Tunisia,Ecuador,4,5,QUALIFIER
+2023-01-22,Uruguay,Ecuador,0,3,CONFED_CAMP
+2019-03-12,USA,Japan,1,0,QUALIFIER
+2022-12-13,USA,Iran,0,2,FRIENDLY
+2018-04-03,Saudi Arabia,Argentina,1,4,FRIENDLY
+2025-05-14,Tunisia,Switzerland,1,2,CONFED_CAMP
+2025-09-20,Switzerland,Poland,0,0,QUALIFIER
+2022-05-25,Poland,Brazil,0,2,QUALIFIER
+2023-02-10,Brazil,Argentina,1,5,QUALIFIER
+2018-06-03,South Korea,Ecuador,0,2,QUALIFIER
+2021-01-28,Saudi Arabia,England,0,0,QUALIFIER
+2025-12-29,Morocco,Netherlands,1,1,QUALIFIER
+2022-06-27,South Korea,Ecuador,1,1,QUALIFIER
+2024-03-11,Australia,Senegal,5,0,QUALIFIER
+2023-01-14,Germany,Senegal,0,2,QUALIFIER
+2020-09-03,Morocco,South Korea,2,3,WC_FINAL
+2022-10-02,Argentina,Ecuador,1,2,FRIENDLY
+2019-02-26,Brazil,Ecuador,0,2,QUALIFIER
+2021-06-12,Mexico,Colombia,1,4,QUALIFIER
+2022-01-21,Spain,Tunisia,1,2,QUALIFIER
+2023-10-18,Ecuador,Costa Rica,0,0,QUALIFIER
+2025-11-21,Saudi Arabia,Iran,0,4,QUALIFIER
+2019-02-04,Saudi Arabia,Mexico,0,0,QUALIFIER
+2021-02-26,Netherlands,Brazil,0,0,QUALIFIER
+2018-01-18,France,USA,2,1,QUALIFIER
+2021-07-26,Croatia,Netherlands,2,0,QUALIFIER
+2023-06-15,Colombia,South Korea,0,0,CONFED_CAMP
+2025-09-04,France,Germany,3,0,QUALIFIER
+2020-01-07,Croatia,Belgium,0,0,WC_FINAL
+2019-01-24,Belgium,Qatar,0,0,CONFED_CAMP
+2020-03-15,Cameroon,Colombia,3,0,CONFED_CAMP
+2020-09-12,Poland,Iran,0,1,QUALIFIER
+2018-08-08,Colombia,Qatar,1,0,FRIENDLY
+2022-07-26,USA,Saudi Arabia,1,0,QUALIFIER
+2019-11-25,Uruguay,Poland,0,0,QUALIFIER
+2022-01-17,Colombia,Tunisia,2,1,QUALIFIER
+2022-07-18,Tunisia,Germany,0,0,FRIENDLY
+2018-12-18,Canada,Costa Rica,1,6,QUALIFIER
+2021-08-22,Switzerland,Uruguay,0,0,FRIENDLY
+2025-02-09,Senegal,USA,3,0,CONFED_CAMP
+2018-10-03,Senegal,Saudi Arabia,0,0,FRIENDLY
+2026-05-06,Japan,Portugal,0,1,CONFED_CAMP
+2024-05-28,France,Croatia,1,0,QUALIFIER
+2020-11-15,Portugal,Croatia,0,1,WC_FINAL
+2019-06-16,Germany,Portugal,0,1,QUALIFIER
+2025-12-04,Cameroon,USA,1,0,QUALIFIER
+2020-07-26,Costa Rica,Portugal,1,3,FRIENDLY
+2023-11-11,Germany,Iran,2,2,FRIENDLY
+2023-02-19,Serbia,Japan,2,1,CONFED_CAMP
+2021-06-05,Qatar,Belgium,1,0,FRIENDLY
+2020-06-09,Colombia,Iran,2,1,QUALIFIER
+2022-05-01,Croatia,Canada,0,1,QUALIFIER
+2023-12-31,Serbia,Morocco,2,0,FRIENDLY
+2019-01-01,Brazil,Germany,1,0,FRIENDLY
+2019-11-06,Australia,Serbia,6,4,QUALIFIER
+2022-08-03,France,Argentina,3,0,FRIENDLY
+2023-04-12,Tunisia,Ecuador,1,1,QUALIFIER
+2026-04-02,Netherlands,Ecuador,0,0,FRIENDLY
+2022-06-15,Serbia,Japan,5,1,FRIENDLY
+2020-09-24,France,Tunisia,0,0,QUALIFIER
+2019-07-15,Denmark,Senegal,0,2,FRIENDLY
+2020-04-24,Poland,Croatia,4,0,QUALIFIER
+2021-10-26,Croatia,Senegal,0,0,CONFED_CAMP
+2023-06-19,Mexico,Croatia,1,0,FRIENDLY
+2024-04-19,England,Serbia,0,4,QUALIFIER
+2022-10-02,Germany,Mexico,1,0,FRIENDLY
+2025-07-26,Costa Rica,Argentina,0,1,FRIENDLY
+2024-09-16,Croatia,Denmark,2,0,CONFED_CAMP
+2020-04-09,Australia,England,0,0,QUALIFIER
+2022-07-10,South Korea,Spain,2,0,QUALIFIER
+2021-07-13,Costa Rica,Belgium,0,0,QUALIFIER
+2025-11-17,Mexico,Cameroon,1,0,QUALIFIER
+2025-05-23,Belgium,Portugal,0,1,CONFED_CAMP
+2025-07-03,Canada,Portugal,1,4,FRIENDLY
+2021-01-17,England,South Korea,2,1,QUALIFIER
+2021-09-30,Costa Rica,Denmark,1,0,QUALIFIER
+2020-08-03,Denmark,USA,1,0,QUALIFIER
+2018-03-12,Ghana,France,4,2,WC_FINAL
+2020-07-17,Ecuador,Poland,1,3,CONFED_CAMP
+2024-09-15,Denmark,Saudi Arabia,2,0,WC_FINAL
+2018-09-11,USA,Brazil,2,0,QUALIFIER
+2019-01-25,USA,England,0,0,QUALIFIER
+2021-01-28,Belgium,Costa Rica,0,0,QUALIFIER
+2026-04-29,Uruguay,Brazil,2,0,QUALIFIER
+2021-10-27,Spain,Morocco,0,0,QUALIFIER
+2025-05-27,Croatia,Denmark,1,3,QUALIFIER
+2023-04-18,Cameroon,Saudi Arabia,0,0,QUALIFIER
+2026-04-12,Saudi Arabia,Poland,5,0,FRIENDLY
+2025-09-16,Ghana,Iran,1,0,CONFED_CAMP
+2021-01-12,Saudi Arabia,South Korea,1,0,QUALIFIER
+2019-07-26,Portugal,Netherlands,3,7,QUALIFIER
+2021-11-14,Canada,Argentina,0,2,CONFED_CAMP
+2025-11-16,Japan,Croatia,0,1,FRIENDLY
+2020-11-20,Saudi Arabia,Croatia,0,6,QUALIFIER
+2022-01-08,Brazil,Australia,1,1,QUALIFIER
+2022-07-03,Switzerland,Australia,8,1,QUALIFIER
+2021-07-23,France,Ecuador,0,3,QUALIFIER
+2023-06-27,France,Belgium,0,0,WC_FINAL
+2021-12-31,Poland,Costa Rica,0,0,FRIENDLY
+2021-05-29,Australia,Japan,2,0,FRIENDLY
+2018-04-11,Argentina,Netherlands,2,0,CONFED_CAMP
+2022-07-21,Ecuador,Spain,2,1,WC_FINAL
+2021-11-22,Brazil,Serbia,2,1,QUALIFIER
+2023-10-26,Uruguay,Germany,7,0,FRIENDLY
+2023-09-09,Japan,Spain,0,0,WC_FINAL
+2019-11-12,Uruguay,England,0,1,QUALIFIER
+2021-11-09,Japan,Denmark,2,0,QUALIFIER
+2024-01-26,Australia,Uruguay,0,2,QUALIFIER
+2022-11-20,Denmark,Senegal,1,1,FRIENDLY
+2025-04-04,Brazil,Netherlands,0,0,FRIENDLY
+2021-10-31,Iran,Argentina,5,1,FRIENDLY
+2024-01-17,Qatar,Portugal,1,0,QUALIFIER
+2019-10-31,South Korea,Netherlands,0,1,QUALIFIER
+2018-03-07,Switzerland,Canada,6,3,CONFED_CAMP
+2023-05-25,Brazil,Japan,0,2,QUALIFIER
+2020-08-03,Spain,Belgium,2,3,WC_FINAL
+2021-11-15,Netherlands,Uruguay,6,1,FRIENDLY
+2023-09-11,Canada,Australia,0,2,QUALIFIER
+2025-09-14,Costa Rica,Senegal,0,0,FRIENDLY
+2022-04-29,Morocco,England,0,0,QUALIFIER
+2025-05-21,USA,Portugal,1,7,QUALIFIER
+2018-10-22,Switzerland,Mexico,3,1,QUALIFIER
+2019-04-07,England,Brazil,0,2,CONFED_CAMP
+2020-03-02,France,Serbia,2,1,FRIENDLY
+2023-11-23,Japan,Netherlands,2,0,FRIENDLY
+2026-01-05,France,Netherlands,1,0,FRIENDLY
+2018-11-20,England,Costa Rica,5,2,QUALIFIER
+2024-08-15,Cameroon,Canada,2,1,QUALIFIER
+2021-06-06,Saudi Arabia,England,1,0,WC_FINAL
+2025-04-11,Iran,Cameroon,1,0,QUALIFIER
+2020-07-16,Denmark,Mexico,0,2,QUALIFIER
+2023-09-13,Poland,Qatar,1,0,CONFED_CAMP
+2023-08-06,Serbia,Costa Rica,5,4,FRIENDLY
+2022-09-05,Spain,Saudi Arabia,0,0,FRIENDLY
+2018-01-15,Qatar,Spain,2,0,FRIENDLY
+2018-10-20,Croatia,Cameroon,2,0,FRIENDLY
+2023-06-02,Colombia,Qatar,2,0,FRIENDLY
+2020-04-05,Belgium,Serbia,1,0,QUALIFIER
+2020-11-30,Cameroon,Switzerland,1,1,FRIENDLY
+2021-09-08,Argentina,South Korea,1,0,FRIENDLY
+2019-01-10,Netherlands,Cameroon,1,1,QUALIFIER
+2019-03-03,Uruguay,Argentina,1,0,FRIENDLY
+2023-09-02,Senegal,Spain,4,0,QUALIFIER
+2019-10-27,Belgium,South Korea,0,0,CONFED_CAMP
+2019-01-15,Uruguay,Germany,1,0,QUALIFIER
+2022-12-20,Poland,Colombia,0,3,QUALIFIER
+2024-03-17,Iran,Saudi Arabia,2,1,QUALIFIER
+2019-06-20,Costa Rica,Serbia,1,1,FRIENDLY
+2024-11-02,Croatia,England,1,1,CONFED_CAMP
+2025-11-27,Uruguay,Australia,1,0,QUALIFIER
+2024-12-26,Denmark,Croatia,1,1,QUALIFIER
+2021-07-25,Argentina,Poland,0,1,QUALIFIER
+2025-11-15,Poland,Iran,3,0,FRIENDLY
+2019-02-14,Cameroon,Germany,0,0,QUALIFIER
+2024-11-02,Denmark,Uruguay,1,0,CONFED_CAMP
+2023-11-04,Ghana,Brazil,1,0,QUALIFIER
+2022-03-17,Senegal,Switzerland,0,0,QUALIFIER
+2025-05-20,Uruguay,Australia,0,0,QUALIFIER
+2019-05-31,Qatar,Costa Rica,0,0,QUALIFIER
+2020-05-27,Saudi Arabia,South Korea,0,0,FRIENDLY
+2025-11-23,Cameroon,Mexico,0,0,FRIENDLY
+2024-06-13,Saudi Arabia,Ghana,5,1,QUALIFIER
+2024-03-30,Tunisia,Costa Rica,1,4,QUALIFIER
+2020-01-07,Croatia,Netherlands,3,3,QUALIFIER
+2019-01-22,Morocco,Qatar,3,2,QUALIFIER
+2018-06-11,Spain,Costa Rica,0,1,WC_FINAL
+2024-02-17,Costa Rica,Switzerland,0,0,QUALIFIER
+2023-05-04,Colombia,Netherlands,4,0,QUALIFIER
+2018-10-22,Portugal,Germany,5,2,CONFED_CAMP
+2021-01-26,Uruguay,Saudi Arabia,5,5,QUALIFIER
+2020-07-23,Japan,Portugal,0,0,WC_FINAL
+2022-02-08,Canada,Saudi Arabia,0,0,QUALIFIER
+2023-04-29,Belgium,Argentina,2,0,QUALIFIER
+2025-09-24,Serbia,South Korea,1,0,QUALIFIER
+2022-04-18,Tunisia,Qatar,1,2,QUALIFIER
+2026-01-31,Poland,Japan,1,9,FRIENDLY
+2021-07-27,Poland,Tunisia,1,2,FRIENDLY
+2021-09-28,Uruguay,Tunisia,0,0,CONFED_CAMP
+2018-11-23,Ecuador,Australia,0,0,CONFED_CAMP
+2025-10-16,Ghana,Germany,2,2,QUALIFIER
+2025-05-28,Canada,Senegal,1,2,QUALIFIER
+2018-01-03,Belgium,Japan,0,2,QUALIFIER
+2022-01-22,Cameroon,Portugal,0,1,QUALIFIER
+2024-07-10,Netherlands,Morocco,1,0,FRIENDLY
+2018-08-31,USA,Switzerland,0,0,FRIENDLY
+2024-08-14,Netherlands,Argentina,0,0,QUALIFIER
+2025-01-07,Japan,Canada,1,0,QUALIFIER
+2021-10-24,Colombia,Denmark,0,1,QUALIFIER
+2023-03-11,South Korea,Canada,3,1,QUALIFIER
+2025-08-12,South Korea,Cameroon,2,3,CONFED_CAMP
+2021-10-02,Denmark,Australia,3,3,CONFED_CAMP
+2025-01-01,Canada,Saudi Arabia,0,0,QUALIFIER
+2025-03-15,Denmark,Cameroon,1,0,FRIENDLY
+2018-08-24,Poland,Cameroon,0,0,CONFED_CAMP
+2023-02-16,Senegal,Costa Rica,0,0,QUALIFIER
+2021-07-04,Ecuador,Brazil,0,1,QUALIFIER
+2019-12-11,Qatar,Croatia,0,2,FRIENDLY
+2022-11-04,Netherlands,Serbia,1,3,CONFED_CAMP
+2022-03-08,Japan,South Korea,0,0,QUALIFIER
+2022-04-19,Ecuador,Poland,1,2,WC_FINAL
+2024-11-23,Serbia,Iran,0,0,CONFED_CAMP
+2022-07-24,Senegal,France,4,2,FRIENDLY
+2025-05-29,Netherlands,Cameroon,0,1,QUALIFIER
+2021-07-04,Australia,Tunisia,0,3,FRIENDLY
+2019-04-08,Australia,England,0,1,WC_FINAL
+2020-05-04,Qatar,Switzerland,0,0,QUALIFIER
+2024-03-30,Japan,Qatar,0,3,FRIENDLY
+2026-04-27,Costa Rica,Japan,1,0,FRIENDLY
+2019-07-02,Argentina,Netherlands,0,1,FRIENDLY
+2021-07-22,Mexico,Croatia,0,0,FRIENDLY
+2025-08-29,Australia,Poland,3,1,QUALIFIER
+2018-06-15,Spain,Iran,1,0,QUALIFIER
+2021-06-06,Australia,Colombia,5,3,QUALIFIER
+2022-09-15,Costa Rica,Ecuador,0,3,QUALIFIER
+2022-09-01,Senegal,Ghana,2,1,FRIENDLY
+2024-06-03,Costa Rica,Australia,1,2,QUALIFIER
+2026-02-25,Cameroon,Mexico,0,6,QUALIFIER
+2024-06-18,Iran,Argentina,1,2,QUALIFIER
+2020-04-19,Ecuador,Portugal,1,0,QUALIFIER
+2020-10-26,South Korea,Poland,0,3,QUALIFIER
+2023-10-02,Costa Rica,Croatia,0,1,FRIENDLY
+2024-09-22,Saudi Arabia,Tunisia,0,1,QUALIFIER
+2021-01-03,Canada,Cameroon,0,2,WC_FINAL
+2025-03-04,Uruguay,Switzerland,0,2,CONFED_CAMP
+2020-02-26,Portugal,Australia,3,0,WC_FINAL
+2022-05-07,Senegal,Japan,2,0,CONFED_CAMP
+2024-04-03,Brazil,Cameroon,2,2,FRIENDLY
+2020-05-07,France,Tunisia,1,0,FRIENDLY
+2019-10-26,Colombia,Morocco,1,3,QUALIFIER
+2018-12-16,Canada,Ghana,2,0,QUALIFIER
+2022-02-09,Croatia,Tunisia,0,0,FRIENDLY
+2018-05-14,Croatia,France,1,0,QUALIFIER
+2019-08-17,Portugal,France,4,2,FRIENDLY
+2025-03-16,Denmark,Tunisia,0,0,QUALIFIER
+2019-03-19,Brazil,Japan,0,3,QUALIFIER
+2025-01-09,Saudi Arabia,Japan,0,2,FRIENDLY
+2023-11-21,Portugal,Colombia,2,0,QUALIFIER
+2020-08-06,Switzerland,Netherlands,1,7,QUALIFIER
+2022-12-24,Brazil,Canada,1,5,QUALIFIER
+2022-08-02,Portugal,Cameroon,3,5,FRIENDLY
+2024-02-11,Belgium,Serbia,2,0,CONFED_CAMP
+2019-02-09,Japan,Cameroon,2,0,QUALIFIER
+2018-05-23,Switzerland,Japan,0,3,QUALIFIER
+2021-07-22,Portugal,Belgium,0,0,CONFED_CAMP
+2021-08-08,Qatar,Australia,0,0,QUALIFIER
+2022-07-13,Qatar,Switzerland,0,1,QUALIFIER
+2018-07-10,Mexico,Ghana,0,1,CONFED_CAMP
+2021-10-30,Mexico,Tunisia,0,0,QUALIFIER
+2022-12-25,Tunisia,Saudi Arabia,0,0,QUALIFIER
+2023-03-21,Japan,Cameroon,0,0,QUALIFIER
+2018-02-23,Germany,USA,2,1,QUALIFIER
+2019-01-03,Saudi Arabia,Tunisia,2,0,FRIENDLY
+2020-09-11,Ecuador,Brazil,0,0,WC_FINAL
+2025-02-19,Belgium,Morocco,0,1,FRIENDLY
+2025-10-09,Belgium,Costa Rica,1,0,CONFED_CAMP
+2022-11-13,Argentina,Croatia,3,0,QUALIFIER
+2024-04-12,Morocco,England,1,1,FRIENDLY
+2019-09-24,Canada,France,0,2,QUALIFIER
+2025-02-25,Costa Rica,Canada,0,0,FRIENDLY
+2023-11-12,Denmark,Netherlands,1,0,FRIENDLY
+2022-12-05,Saudi Arabia,Qatar,1,0,FRIENDLY
+2018-10-31,France,Iran,0,5,WC_FINAL
+2022-05-02,South Korea,Denmark,0,1,CONFED_CAMP
+2024-11-01,Colombia,Ecuador,4,2,CONFED_CAMP
+2022-08-18,Netherlands,South Korea,1,0,FRIENDLY
+2022-08-30,Portugal,Cameroon,1,0,FRIENDLY
+2018-02-07,Costa Rica,Senegal,3,0,FRIENDLY
+2024-05-18,Ghana,Qatar,0,0,QUALIFIER
+2023-05-07,Japan,Morocco,3,3,FRIENDLY
+2020-07-30,Japan,Ecuador,0,0,FRIENDLY
+2020-11-04,Colombia,Netherlands,1,0,QUALIFIER
+2018-04-11,Japan,Mexico,1,1,QUALIFIER
+2020-04-17,Qatar,Belgium,6,1,QUALIFIER
+2024-03-07,Costa Rica,Croatia,0,3,WC_FINAL
+2026-02-07,Brazil,Germany,0,2,QUALIFIER
+2024-01-18,Japan,Argentina,2,0,QUALIFIER
+2025-05-25,Ecuador,Argentina,4,0,QUALIFIER
+2020-05-26,Spain,Iran,0,5,QUALIFIER
+2019-08-27,Spain,Germany,3,0,QUALIFIER
+2022-09-04,England,Japan,0,0,FRIENDLY
+2018-06-13,Mexico,Netherlands,0,1,QUALIFIER
+2020-06-30,Spain,Germany,5,0,FRIENDLY
+2026-05-09,Morocco,USA,0,1,QUALIFIER
+2024-01-18,England,Morocco,3,1,QUALIFIER
+2022-09-16,Ghana,Serbia,0,0,QUALIFIER
+2026-02-18,Spain,Netherlands,0,0,QUALIFIER
+2025-07-22,Switzerland,Senegal,2,0,WC_FINAL
+2018-01-14,Serbia,South Korea,3,1,QUALIFIER
+2021-12-21,Qatar,Costa Rica,1,5,FRIENDLY
+2024-03-25,Argentina,Poland,0,2,WC_FINAL
+2024-08-16,Japan,Brazil,0,0,FRIENDLY
+2019-07-28,France,Ecuador,1,0,QUALIFIER
+2024-09-11,Spain,Germany,1,0,QUALIFIER
+2023-10-29,Argentina,Germany,0,1,QUALIFIER
+2021-10-02,France,Costa Rica,4,1,CONFED_CAMP
+2023-08-02,Spain,France,2,0,FRIENDLY
+2022-08-04,Croatia,Colombia,1,2,CONFED_CAMP
+2018-10-17,Iran,England,0,2,QUALIFIER
+2021-09-01,Morocco,Argentina,0,0,QUALIFIER
+2026-03-24,Iran,Tunisia,1,0,FRIENDLY
+2018-05-27,Mexico,Argentina,0,0,FRIENDLY
+2023-07-03,USA,Croatia,0,0,CONFED_CAMP
+2018-04-27,Canada,Uruguay,0,0,QUALIFIER
+2022-01-22,Croatia,England,2,2,QUALIFIER
+2018-10-17,France,Ecuador,3,1,QUALIFIER
+2020-06-28,Qatar,Saudi Arabia,0,0,FRIENDLY
+2021-11-09,Belgium,Ghana,2,0,QUALIFIER
+2024-01-10,Australia,Croatia,1,0,WC_FINAL
+2023-10-14,Morocco,Saudi Arabia,4,2,QUALIFIER
+2020-09-15,Qatar,Japan,2,1,CONFED_CAMP
+2022-12-18,Canada,Mexico,0,4,FRIENDLY
+2018-06-29,Poland,Ghana,2,0,FRIENDLY
+2023-04-21,Brazil,Uruguay,0,0,QUALIFIER
+2022-10-27,Ghana,Japan,4,1,QUALIFIER
+2020-12-31,Australia,Costa Rica,0,4,QUALIFIER
+2020-01-09,Senegal,Spain,0,0,WC_FINAL
+2020-07-09,Germany,Iran,2,0,WC_FINAL
+2022-06-13,Uruguay,USA,0,1,QUALIFIER
+2026-01-04,Serbia,Ghana,0,1,QUALIFIER
+2018-07-23,Netherlands,France,4,3,CONFED_CAMP
+2024-09-27,Spain,Portugal,1,0,FRIENDLY
+2019-03-09,Tunisia,Australia,0,3,QUALIFIER
+2018-09-17,Cameroon,Spain,0,2,FRIENDLY
+2022-10-26,Ghana,Tunisia,1,1,QUALIFIER
+2022-09-08,Spain,Brazil,0,0,FRIENDLY
+2024-01-20,Tunisia,Morocco,0,0,QUALIFIER
+2022-06-27,Ecuador,Croatia,0,0,QUALIFIER
+2021-08-18,Canada,Morocco,0,2,WC_FINAL
+2022-02-09,France,USA,0,0,QUALIFIER
+2018-06-22,England,Saudi Arabia,0,0,QUALIFIER
+2024-02-02,Netherlands,Tunisia,1,0,FRIENDLY
+2025-10-12,Qatar,Argentina,2,2,FRIENDLY
+2024-09-30,Canada,Cameroon,0,2,FRIENDLY
+2024-07-28,Costa Rica,Switzerland,0,0,WC_FINAL
+2020-12-26,England,Saudi Arabia,4,0,FRIENDLY
+2024-10-21,Costa Rica,Qatar,1,0,QUALIFIER
+2022-02-14,Costa Rica,Serbia,0,1,FRIENDLY
+2022-10-31,Senegal,Colombia,3,0,FRIENDLY
+2021-03-08,Qatar,Brazil,1,1,FRIENDLY
+2018-07-12,Canada,Netherlands,2,1,QUALIFIER
+2025-04-15,Denmark,France,1,4,FRIENDLY
+2026-01-21,Belgium,Australia,1,3,QUALIFIER
+2023-11-23,Morocco,Uruguay,0,1,QUALIFIER
+2020-10-06,Serbia,Switzerland,4,0,QUALIFIER
+2024-12-11,Belgium,Croatia,0,0,QUALIFIER
+2022-08-04,Qatar,Netherlands,2,1,QUALIFIER
+2018-12-24,Morocco,Spain,0,3,CONFED_CAMP
+2019-03-09,Japan,Uruguay,3,0,QUALIFIER
+2023-07-04,Tunisia,South Korea,0,1,FRIENDLY
+2018-07-12,Portugal,Argentina,1,0,FRIENDLY
+2019-05-25,Brazil,Australia,0,0,QUALIFIER
+2019-12-16,Uruguay,Qatar,0,1,FRIENDLY
+2023-12-21,France,Ecuador,4,1,QUALIFIER
+2024-08-12,Japan,Poland,1,3,QUALIFIER
+2024-08-14,Senegal,Netherlands,0,0,CONFED_CAMP
+2022-05-17,Cameroon,Portugal,0,1,FRIENDLY
+2020-12-18,Serbia,England,0,4,QUALIFIER
+2022-11-02,Cameroon,Portugal,0,1,WC_FINAL
+2023-05-14,Morocco,Japan,1,1,CONFED_CAMP
+2025-04-22,Senegal,South Korea,0,0,QUALIFIER
+2022-11-10,Belgium,Spain,2,3,FRIENDLY
+2019-03-13,Australia,England,3,0,QUALIFIER
+2022-03-12,England,Argentina,3,1,FRIENDLY
+2018-10-13,Australia,South Korea,1,2,QUALIFIER
+2023-10-27,South Korea,Ghana,0,0,QUALIFIER
+2026-03-13,Uruguay,Poland,0,9,QUALIFIER
+2025-10-25,Ecuador,Colombia,1,0,QUALIFIER
+2018-07-08,France,USA,0,2,FRIENDLY
+2023-07-25,Saudi Arabia,Germany,0,4,QUALIFIER
+2025-09-25,Iran,Canada,1,3,QUALIFIER
+2020-12-09,England,Australia,1,0,CONFED_CAMP
+2018-12-30,Brazil,South Korea,0,2,FRIENDLY
+2026-05-08,England,Ecuador,2,1,WC_FINAL
+2022-01-25,Germany,Morocco,1,4,QUALIFIER
+2018-06-05,Mexico,Brazil,5,2,CONFED_CAMP
+2018-11-07,Ghana,Serbia,2,0,QUALIFIER
+2024-12-22,Poland,Netherlands,0,0,FRIENDLY
+2018-11-30,Tunisia,Uruguay,3,0,FRIENDLY
+2025-04-21,Uruguay,South Korea,2,3,FRIENDLY
+2020-09-09,France,Denmark,2,0,QUALIFIER
+2019-08-03,USA,Japan,0,2,QUALIFIER
+2025-12-24,Colombia,Senegal,5,1,QUALIFIER
+2025-01-13,Belgium,Denmark,0,11,QUALIFIER
+2018-04-17,Denmark,Brazil,3,1,WC_FINAL
+2024-04-27,Morocco,Senegal,4,0,WC_FINAL
+2022-04-20,Argentina,Qatar,1,3,CONFED_CAMP
+2019-01-08,Belgium,Tunisia,3,0,QUALIFIER
+2020-08-25,Canada,USA,2,1,CONFED_CAMP
+2026-04-03,England,Ghana,0,0,FRIENDLY
+2024-01-16,Switzerland,Cameroon,0,2,FRIENDLY
+2026-01-08,Canada,Colombia,0,0,QUALIFIER
+2024-08-28,Costa Rica,Tunisia,0,2,FRIENDLY
+2019-09-16,Canada,England,2,0,FRIENDLY
+2022-07-06,Denmark,Mexico,0,0,FRIENDLY
+2023-07-01,Netherlands,Croatia,2,0,QUALIFIER
+2021-08-22,France,Morocco,3,0,QUALIFIER
+2019-12-30,South Korea,Japan,0,0,FRIENDLY
+2022-06-06,Uruguay,Saudi Arabia,0,3,CONFED_CAMP
+2024-08-02,Japan,Australia,0,1,CONFED_CAMP
+2024-08-18,Japan,Ecuador,1,0,WC_FINAL
+2020-01-21,Ecuador,Serbia,1,1,QUALIFIER
+2023-09-16,Switzerland,Tunisia,0,1,FRIENDLY
+2022-12-15,Saudi Arabia,Cameroon,0,3,CONFED_CAMP
+2022-02-05,Serbia,France,1,0,FRIENDLY
+2018-06-09,Uruguay,Brazil,1,3,QUALIFIER
+2020-10-26,Morocco,Portugal,3,2,FRIENDLY
+2021-02-04,Mexico,Ghana,0,0,FRIENDLY
+2021-04-22,USA,Mexico,1,2,FRIENDLY
+2019-05-06,USA,Japan,6,0,QUALIFIER
+2019-06-17,Switzerland,Brazil,1,0,CONFED_CAMP
+2019-07-30,Saudi Arabia,Cameroon,1,0,CONFED_CAMP
+2023-12-03,Costa Rica,Netherlands,3,0,QUALIFIER
+2024-01-13,Canada,Senegal,2,0,QUALIFIER
+2020-03-11,Australia,Qatar,0,2,QUALIFIER
+2018-02-22,Argentina,Spain,0,1,QUALIFIER
+2021-05-13,Mexico,Japan,0,4,QUALIFIER
+2024-04-16,Portugal,Brazil,0,3,QUALIFIER
+2024-11-20,Portugal,Germany,1,0,QUALIFIER
+2021-04-19,Poland,Croatia,1,0,QUALIFIER
+2018-04-20,Portugal,Ecuador,1,0,QUALIFIER
+2021-07-26,Colombia,Tunisia,1,4,CONFED_CAMP
+2025-06-17,South Korea,Tunisia,1,1,QUALIFIER
+2021-05-19,Costa Rica,Brazil,0,0,FRIENDLY
+2025-10-13,Colombia,South Korea,2,0,FRIENDLY
+2019-03-06,Ecuador,Ghana,1,1,QUALIFIER
+2022-05-20,Mexico,Tunisia,1,0,CONFED_CAMP
+2019-10-24,Portugal,Germany,0,3,FRIENDLY
+2022-02-10,Ecuador,Senegal,5,0,FRIENDLY
+2023-07-07,Croatia,Switzerland,1,0,QUALIFIER
+2022-10-28,Qatar,Morocco,0,0,QUALIFIER
+2022-10-11,Morocco,France,2,1,FRIENDLY
+2018-11-19,Japan,Senegal,1,0,QUALIFIER
+2025-04-24,Germany,Morocco,4,0,FRIENDLY
+2018-12-11,Germany,Portugal,0,0,QUALIFIER
+2019-02-05,Australia,South Korea,0,0,QUALIFIER
+2018-03-01,Netherlands,Poland,2,1,QUALIFIER
+2020-08-24,England,Senegal,6,0,QUALIFIER
+2019-09-10,Argentina,Qatar,1,2,QUALIFIER
+2020-01-26,Argentina,Uruguay,2,0,QUALIFIER
+2018-03-05,Argentina,Spain,0,0,FRIENDLY
+2018-11-09,Ghana,Japan,0,0,QUALIFIER
+2026-05-12,Japan,Ghana,3,1,QUALIFIER
+2018-08-23,Serbia,Brazil,0,1,QUALIFIER
+2024-05-14,USA,Qatar,5,1,QUALIFIER
+2018-12-21,Saudi Arabia,USA,0,3,WC_FINAL
+2019-05-22,Switzerland,Uruguay,2,2,CONFED_CAMP
+2019-10-09,Switzerland,Ecuador,4,2,QUALIFIER
+2019-04-07,Mexico,Switzerland,2,1,QUALIFIER
+2020-02-01,Argentina,Croatia,3,1,QUALIFIER
+2020-03-30,Japan,Senegal,5,4,QUALIFIER
+2023-10-28,Spain,South Korea,1,0,QUALIFIER
+2025-03-05,Canada,England,0,0,CONFED_CAMP
+2024-05-28,Tunisia,Morocco,2,0,CONFED_CAMP
+2022-07-21,Ghana,Iran,0,3,FRIENDLY
+2026-02-26,Ghana,Costa Rica,2,2,CONFED_CAMP
+2018-09-23,Colombia,France,1,0,FRIENDLY
+2025-04-07,Portugal,Cameroon,1,0,FRIENDLY
+2022-04-25,Denmark,Tunisia,0,2,CONFED_CAMP
+2023-07-13,Croatia,Uruguay,0,0,QUALIFIER
+2021-06-06,Senegal,Canada,2,0,FRIENDLY
+2018-08-19,Poland,Netherlands,0,1,QUALIFIER
+2024-10-04,Spain,Denmark,2,0,FRIENDLY
+2020-03-13,Switzerland,Costa Rica,1,0,FRIENDLY
+2021-08-17,Saudi Arabia,Morocco,2,11,FRIENDLY
+2021-01-13,Argentina,Netherlands,0,0,QUALIFIER
+2026-03-03,Denmark,South Korea,0,0,QUALIFIER
+2023-02-26,Ghana,Tunisia,0,0,QUALIFIER
+2018-12-29,Canada,England,0,0,QUALIFIER
+2020-07-31,Mexico,Saudi Arabia,0,0,FRIENDLY
+2019-12-05,France,Colombia,0,2,FRIENDLY
+2026-02-18,Croatia,Saudi Arabia,2,0,WC_FINAL
+2018-05-13,Mexico,Netherlands,0,5,QUALIFIER
+2024-09-13,Tunisia,France,1,1,CONFED_CAMP
+2018-04-02,Ecuador,England,0,0,QUALIFIER
+2025-06-30,Morocco,Uruguay,3,1,FRIENDLY
+2023-12-04,USA,Uruguay,1,4,QUALIFIER
+2024-01-19,USA,Ghana,2,1,QUALIFIER
+2024-03-17,Ghana,Iran,1,0,QUALIFIER
+2024-07-03,Brazil,Belgium,2,0,QUALIFIER
+2018-06-07,Belgium,Colombia,1,2,QUALIFIER
+2022-08-04,Costa Rica,England,0,0,WC_FINAL
+2018-01-19,Colombia,England,0,0,FRIENDLY
+2023-07-19,Portugal,Brazil,1,0,QUALIFIER
+2024-12-09,Tunisia,Mexico,4,0,FRIENDLY
+2020-02-20,Morocco,Saudi Arabia,1,0,FRIENDLY
+2024-02-28,Germany,Serbia,2,0,QUALIFIER
+2025-07-02,Argentina,Denmark,1,1,FRIENDLY
+2023-02-12,Denmark,Brazil,3,0,QUALIFIER
+2021-05-16,Belgium,Netherlands,0,0,QUALIFIER
+2022-04-08,Saudi Arabia,Uruguay,0,3,FRIENDLY
+2023-09-19,Belgium,Serbia,4,0,QUALIFIER
+2022-08-20,Morocco,Japan,1,0,CONFED_CAMP
+2025-05-31,Poland,Qatar,0,2,FRIENDLY
+2024-01-28,Brazil,Costa Rica,1,0,QUALIFIER
+2023-04-06,Morocco,Poland,0,5,FRIENDLY
+2020-01-01,Ghana,England,5,1,QUALIFIER
+2019-06-28,Colombia,Ecuador,1,0,FRIENDLY
+2018-09-10,Iran,Poland,1,1,FRIENDLY
+2023-06-12,USA,Mexico,1,0,QUALIFIER
+2019-03-20,Germany,Tunisia,2,4,FRIENDLY
+2021-05-12,Ecuador,South Korea,1,0,CONFED_CAMP
+2022-11-29,Colombia,Australia,0,0,CONFED_CAMP
+2021-12-07,USA,Morocco,4,1,QUALIFIER
+2025-10-09,Germany,Uruguay,0,0,CONFED_CAMP
+2019-08-19,Germany,Tunisia,1,0,CONFED_CAMP
+2021-03-01,Canada,USA,1,3,FRIENDLY
+2022-10-10,USA,Australia,0,0,QUALIFIER
+2024-02-20,Croatia,USA,4,0,FRIENDLY
+2019-04-16,France,USA,1,0,QUALIFIER
+2026-01-25,Croatia,Denmark,0,1,QUALIFIER
+2025-11-20,Australia,Canada,2,0,QUALIFIER
+2021-05-24,Serbia,Costa Rica,6,2,FRIENDLY
+2020-10-24,Canada,Senegal,5,3,QUALIFIER
+2019-12-25,Ecuador,Germany,1,2,QUALIFIER
+2019-01-27,France,Germany,1,0,QUALIFIER
+2022-08-31,South Korea,Canada,3,1,QUALIFIER
+2019-12-01,Brazil,Saudi Arabia,0,1,QUALIFIER
+2024-02-26,France,Ghana,1,0,FRIENDLY
+2023-05-11,France,Germany,2,4,CONFED_CAMP
+2019-07-04,Belgium,Colombia,0,0,QUALIFIER
+2021-04-09,Netherlands,Costa Rica,0,0,QUALIFIER
+2020-11-07,Switzerland,Australia,0,8,QUALIFIER
+2026-02-09,USA,Brazil,2,0,FRIENDLY
+2023-04-21,USA,Mexico,2,0,QUALIFIER
+2018-10-10,Tunisia,Netherlands,0,3,FRIENDLY
+2020-01-07,Ecuador,Belgium,0,1,QUALIFIER
+2023-11-02,Argentina,Costa Rica,0,3,CONFED_CAMP
+2022-11-15,Croatia,England,2,0,QUALIFIER
+2021-02-05,USA,Ghana,0,0,FRIENDLY
+2025-10-16,Netherlands,Portugal,0,0,QUALIFIER
+2019-11-10,Saudi Arabia,Colombia,0,0,QUALIFIER
+2021-10-01,Canada,USA,2,0,CONFED_CAMP
+2025-07-01,Serbia,Cameroon,2,0,FRIENDLY
+2018-04-14,Serbia,USA,1,1,FRIENDLY
+2024-07-25,Cameroon,Switzerland,1,0,CONFED_CAMP
+2019-03-18,Ghana,Mexico,4,1,FRIENDLY
+2023-01-03,Australia,Costa Rica,0,1,QUALIFIER
+2026-03-25,Qatar,England,1,3,QUALIFIER
+2018-04-10,Qatar,Tunisia,1,0,CONFED_CAMP
+2021-04-19,Uruguay,England,0,0,CONFED_CAMP
+2019-06-05,Tunisia,Croatia,2,1,QUALIFIER
+2026-03-25,Qatar,Switzerland,0,0,FRIENDLY
+2021-09-16,Costa Rica,Brazil,0,1,WC_FINAL
+2018-05-04,Serbia,Netherlands,0,0,QUALIFIER
+2024-06-26,Germany,Australia,0,0,QUALIFIER
+2025-11-18,USA,Brazil,4,0,QUALIFIER
+2024-08-02,Morocco,Denmark,0,1,FRIENDLY
+2025-12-18,Serbia,Denmark,1,6,CONFED_CAMP
+2022-03-24,South Korea,Colombia,2,1,QUALIFIER
+2021-10-02,Brazil,Saudi Arabia,1,0,QUALIFIER
+2020-09-04,France,Brazil,0,3,QUALIFIER
+2019-11-05,Canada,Saudi Arabia,5,2,QUALIFIER
+2026-04-27,Belgium,Ecuador,0,0,QUALIFIER
+2018-12-07,Uruguay,Costa Rica,8,0,QUALIFIER
+2024-06-01,Uruguay,Morocco,0,2,WC_FINAL
+2021-08-16,South Korea,Brazil,1,2,FRIENDLY
+2023-05-22,Australia,Cameroon,8,0,QUALIFIER
+2024-06-09,Croatia,Japan,5,0,QUALIFIER
+2020-03-11,Canada,Qatar,0,0,FRIENDLY
+2018-01-22,Morocco,Canada,3,0,CONFED_CAMP
+2025-03-26,Serbia,Iran,2,0,QUALIFIER
+2024-03-21,Brazil,Denmark,0,0,CONFED_CAMP
+2024-03-02,Iran,Saudi Arabia,0,2,FRIENDLY
+2022-02-20,Iran,Poland,0,1,CONFED_CAMP
+2023-03-07,Morocco,Iran,2,0,QUALIFIER
+2024-12-25,Portugal,Belgium,0,0,FRIENDLY
+2024-07-18,Portugal,South Korea,0,0,QUALIFIER
+2025-06-11,Ghana,Poland,1,1,FRIENDLY
+2018-05-22,South Korea,Croatia,0,1,QUALIFIER
+2021-11-04,South Korea,Serbia,5,2,QUALIFIER
+2024-11-22,Brazil,Belgium,0,0,CONFED_CAMP
+2019-12-27,Iran,Canada,1,1,QUALIFIER
+2024-01-24,Mexico,Morocco,0,1,FRIENDLY
+2019-07-28,Denmark,South Korea,2,2,CONFED_CAMP
+2023-12-31,Germany,Japan,0,2,QUALIFIER
+2019-04-16,Portugal,Croatia,1,0,FRIENDLY
+2024-11-15,Uruguay,France,1,1,QUALIFIER
+2021-07-16,Mexico,Uruguay,0,0,QUALIFIER
+2018-07-23,Qatar,Brazil,2,5,QUALIFIER
+2025-06-04,Uruguay,Costa Rica,2,0,CONFED_CAMP
+2020-01-03,Qatar,Cameroon,0,2,CONFED_CAMP
+2018-07-01,Poland,Netherlands,7,2,QUALIFIER
+2021-10-22,Japan,Netherlands,2,1,QUALIFIER
+2021-03-24,Uruguay,Morocco,1,3,FRIENDLY
+2023-05-06,Senegal,Argentina,1,4,QUALIFIER
+2020-03-10,Morocco,Qatar,0,0,FRIENDLY
+2026-01-25,Costa Rica,Canada,2,0,CONFED_CAMP
+2026-02-26,Japan,Australia,5,0,CONFED_CAMP
+2022-04-28,Brazil,Saudi Arabia,1,1,FRIENDLY
+2019-02-13,Senegal,Poland,1,0,QUALIFIER
+2019-07-05,Iran,Tunisia,6,2,QUALIFIER
+2020-08-06,Portugal,Colombia,0,0,QUALIFIER
+2023-08-03,Tunisia,Cameroon,5,0,QUALIFIER
+2022-06-19,Japan,Croatia,2,3,CONFED_CAMP
+2021-08-05,Belgium,Uruguay,1,0,QUALIFIER
+2023-07-01,USA,Mexico,0,0,FRIENDLY
+2024-11-05,Brazil,Denmark,1,0,QUALIFIER
+2021-04-28,Germany,Ecuador,4,2,CONFED_CAMP
+2022-05-02,Tunisia,Netherlands,1,3,CONFED_CAMP
+2025-10-19,Canada,Germany,0,0,QUALIFIER
+2024-03-22,Morocco,USA,6,0,FRIENDLY
+2023-09-23,Netherlands,Argentina,0,0,QUALIFIER
+2020-09-01,Senegal,USA,0,2,CONFED_CAMP
+2020-06-28,Iran,USA,0,1,WC_FINAL
+2019-06-17,Cameroon,Colombia,0,0,FRIENDLY
+2025-04-10,Switzerland,Iran,0,0,CONFED_CAMP
+2025-03-22,Canada,France,0,0,FRIENDLY
+2022-11-18,England,USA,1,2,FRIENDLY
+2023-11-12,South Korea,Ecuador,0,0,FRIENDLY
+2025-08-11,Australia,France,0,0,QUALIFIER
+2019-02-23,Tunisia,Belgium,1,1,CONFED_CAMP
+2021-08-01,Switzerland,Ecuador,3,0,QUALIFIER
+2019-06-10,Morocco,Japan,0,0,QUALIFIER
+2025-03-31,Portugal,Senegal,0,1,FRIENDLY
+2020-07-25,Saudi Arabia,Colombia,0,2,FRIENDLY
+2025-02-16,Tunisia,Switzerland,0,0,QUALIFIER
+2023-04-22,USA,Australia,0,2,QUALIFIER
+2026-04-22,Belgium,Brazil,0,1,FRIENDLY
+2023-04-23,Tunisia,Spain,1,0,QUALIFIER
+2022-08-24,Ecuador,Poland,2,1,CONFED_CAMP
+2023-02-08,Morocco,Senegal,0,3,FRIENDLY
+2025-02-28,Mexico,Australia,0,0,CONFED_CAMP
+2025-10-31,South Korea,Australia,7,3,CONFED_CAMP
+2019-11-02,Qatar,Serbia,0,0,FRIENDLY
+2025-01-01,Brazil,Morocco,0,0,FRIENDLY
+2022-04-29,Morocco,Tunisia,0,1,FRIENDLY
+2020-11-06,Uruguay,Portugal,0,1,QUALIFIER
+2026-04-05,USA,Cameroon,0,1,WC_FINAL
+2020-10-16,Denmark,Portugal,6,0,QUALIFIER
+2018-09-28,USA,Ecuador,3,0,WC_FINAL
+2018-04-24,Denmark,Tunisia,0,3,FRIENDLY
+2021-11-18,England,Qatar,0,1,FRIENDLY
+2019-12-16,Croatia,USA,0,0,CONFED_CAMP
+2019-07-15,Netherlands,Ghana,0,1,QUALIFIER
+2022-06-02,Costa Rica,South Korea,1,0,QUALIFIER
+2021-01-03,Tunisia,USA,0,2,QUALIFIER
+2024-04-14,Australia,Serbia,0,4,QUALIFIER
+2019-02-06,Argentina,Senegal,5,1,FRIENDLY
+2022-12-15,France,England,3,0,QUALIFIER
+2025-01-03,France,Netherlands,0,2,QUALIFIER
+2024-02-18,Japan,Spain,0,1,QUALIFIER
+2024-12-20,Mexico,Qatar,0,0,QUALIFIER
+2025-03-24,Switzerland,USA,1,0,QUALIFIER
+2023-05-24,Denmark,Saudi Arabia,0,1,QUALIFIER
+2018-05-20,Ghana,Germany,0,1,QUALIFIER
+2024-12-31,Germany,Denmark,1,0,WC_FINAL
+2025-03-23,Japan,Costa Rica,4,2,FRIENDLY
+2020-06-04,Australia,Cameroon,5,0,QUALIFIER
+2018-12-05,Croatia,Qatar,0,0,FRIENDLY
+2019-05-01,France,Iran,0,0,CONFED_CAMP
+2025-06-19,South Korea,Belgium,1,3,FRIENDLY
+2021-09-18,Croatia,Netherlands,3,0,CONFED_CAMP
+2025-04-13,USA,Uruguay,0,1,FRIENDLY
+2023-11-17,Iran,Senegal,1,0,CONFED_CAMP
+2023-04-21,Cameroon,England,0,3,FRIENDLY
+2018-03-23,Brazil,Australia,3,1,QUALIFIER
+2020-02-18,Switzerland,Colombia,0,0,FRIENDLY
+2021-10-31,Netherlands,Denmark,0,1,FRIENDLY
+2026-03-19,Portugal,Colombia,5,0,FRIENDLY
+2026-02-27,Spain,France,1,1,CONFED_CAMP
+2019-06-09,Argentina,Serbia,0,0,FRIENDLY
+2023-06-16,Cameroon,Iran,0,1,FRIENDLY
+2021-05-11,Belgium,Ghana,2,0,QUALIFIER
+2024-09-13,Japan,Cameroon,1,0,WC_FINAL
+2019-06-29,England,USA,3,0,QUALIFIER
+2019-12-04,France,Portugal,5,2,QUALIFIER
+2021-08-25,Spain,Cameroon,0,3,FRIENDLY
+2020-01-18,Australia,Canada,0,1,QUALIFIER
+2026-05-04,Argentina,Brazil,4,0,WC_FINAL
+2018-03-29,Germany,Iran,0,8,FRIENDLY
+2021-11-03,Cameroon,Colombia,0,0,QUALIFIER
+2021-11-14,Uruguay,Germany,0,0,CONFED_CAMP
+2021-06-22,Mexico,Canada,0,0,QUALIFIER
+2021-10-24,Senegal,Iran,0,2,CONFED_CAMP
+2019-10-21,South Korea,Portugal,0,0,CONFED_CAMP
+2022-07-24,Denmark,Croatia,0,0,QUALIFIER
+2024-07-15,Ecuador,Australia,0,0,CONFED_CAMP
+2020-04-14,Cameroon,Denmark,2,0,QUALIFIER
+2025-03-15,Mexico,Senegal,2,1,QUALIFIER
+2024-11-18,Tunisia,Colombia,2,1,QUALIFIER
+2021-10-16,Morocco,Tunisia,4,0,WC_FINAL
+2024-08-19,Iran,Tunisia,0,2,FRIENDLY
+2020-08-19,Mexico,South Korea,1,1,FRIENDLY
+2022-06-20,Mexico,Spain,0,0,QUALIFIER
+2025-11-19,Costa Rica,France,1,1,QUALIFIER
+2020-05-02,Germany,Serbia,0,0,QUALIFIER
+2020-08-21,Croatia,Ecuador,2,1,QUALIFIER
+2023-07-08,Senegal,Denmark,0,0,FRIENDLY
+2021-12-25,South Korea,Canada,0,0,FRIENDLY
+2021-11-12,Brazil,Portugal,1,1,QUALIFIER
+2026-02-20,Colombia,Qatar,3,2,WC_FINAL
+2022-08-05,Canada,Serbia,5,0,CONFED_CAMP
+2025-10-27,Senegal,France,1,0,QUALIFIER
+2022-06-20,Qatar,Canada,6,1,QUALIFIER
+2019-05-26,Costa Rica,Uruguay,1,9,QUALIFIER
+2024-12-04,France,Germany,5,1,FRIENDLY
+2018-09-15,France,Switzerland,1,0,QUALIFIER
+2018-02-02,Germany,Costa Rica,1,0,QUALIFIER
+2022-11-27,Switzerland,Mexico,1,0,QUALIFIER
+2019-07-30,USA,Spain,3,1,QUALIFIER
+2026-03-31,Cameroon,Uruguay,0,0,QUALIFIER
+2022-08-14,Portugal,Tunisia,0,1,QUALIFIER
+2019-10-29,Mexico,Japan,0,0,CONFED_CAMP
+2020-08-10,Senegal,Spain,2,1,WC_FINAL
+2019-02-16,Tunisia,Senegal,4,0,QUALIFIER
+2021-08-22,Brazil,USA,0,2,QUALIFIER
+2018-11-07,Poland,Morocco,7,0,QUALIFIER
+2024-11-26,Germany,Saudi Arabia,0,0,FRIENDLY
+2022-09-26,Senegal,Australia,2,4,FRIENDLY
+2023-06-18,Portugal,Mexico,0,0,QUALIFIER
+2019-04-20,Ghana,Senegal,0,1,QUALIFIER
+2025-02-03,Uruguay,Japan,3,9,FRIENDLY
+2019-11-29,Costa Rica,Canada,0,0,FRIENDLY
+2019-02-22,Poland,Germany,5,0,QUALIFIER
+2023-07-26,Costa Rica,Serbia,0,2,QUALIFIER
+2025-01-23,Iran,Uruguay,1,0,QUALIFIER
+2020-06-28,Croatia,Switzerland,1,0,CONFED_CAMP
+2019-10-29,Ghana,Uruguay,1,0,CONFED_CAMP
+2024-01-01,Colombia,Iran,2,1,FRIENDLY
+2025-06-24,Portugal,Mexico,0,0,QUALIFIER
+2018-10-09,Colombia,Netherlands,0,0,QUALIFIER
+2024-02-08,Switzerland,Tunisia,1,1,WC_FINAL
+2023-09-25,Senegal,Netherlands,1,0,FRIENDLY
+2026-01-24,Canada,Mexico,0,0,FRIENDLY
+2020-11-01,Argentina,Senegal,0,0,QUALIFIER
+2024-09-27,Qatar,Ecuador,2,0,WC_FINAL
+2019-05-14,Mexico,Saudi Arabia,0,5,CONFED_CAMP
+2020-10-15,Tunisia,Croatia,1,1,CONFED_CAMP
+2025-12-23,France,USA,0,5,QUALIFIER
+2021-03-26,England,Denmark,5,0,FRIENDLY
+2019-08-01,Portugal,South Korea,0,1,FRIENDLY
+2022-11-04,Japan,Ecuador,0,0,QUALIFIER
+2019-02-06,Iran,Qatar,3,5,QUALIFIER
+2022-08-10,Belgium,Croatia,1,3,CONFED_CAMP
+2019-05-11,Croatia,Argentina,0,2,QUALIFIER
+2020-03-04,Morocco,England,1,0,QUALIFIER
+2019-02-22,Argentina,Cameroon,8,0,CONFED_CAMP
+2018-05-02,Canada,Portugal,1,0,QUALIFIER
+2021-01-24,Colombia,Costa Rica,4,1,QUALIFIER
+2022-03-10,Brazil,England,1,0,QUALIFIER
+2025-02-18,Saudi Arabia,Mexico,2,1,FRIENDLY
+2024-06-01,Senegal,Argentina,1,6,CONFED_CAMP
+2026-04-08,Belgium,France,2,1,FRIENDLY
+2025-12-18,Saudi Arabia,Australia,0,0,QUALIFIER
+2020-12-10,Ecuador,Germany,1,1,WC_FINAL
+2019-07-01,France,Australia,0,1,WC_FINAL
+2023-02-18,Portugal,Colombia,2,1,CONFED_CAMP
+2025-12-03,Croatia,Serbia,0,4,QUALIFIER
+2020-09-18,South Korea,Brazil,0,0,QUALIFIER
+2019-06-19,Argentina,Colombia,1,1,QUALIFIER
+2021-01-17,Belgium,Switzerland,0,6,QUALIFIER
+2021-09-30,France,Cameroon,2,0,QUALIFIER
+2022-08-09,Costa Rica,England,0,1,QUALIFIER
+2025-05-03,Serbia,Denmark,0,2,QUALIFIER
+2019-08-21,Denmark,Germany,0,0,QUALIFIER
+2021-06-17,Canada,Belgium,3,0,QUALIFIER
+2024-03-09,Iran,Brazil,1,2,FRIENDLY
+2018-07-09,Senegal,England,1,3,CONFED_CAMP
+2020-07-09,Portugal,Netherlands,2,1,FRIENDLY
+2024-01-07,Morocco,USA,7,0,FRIENDLY
+2019-07-21,Ecuador,Denmark,0,0,FRIENDLY
+2019-02-16,Colombia,Germany,0,3,QUALIFIER
+2018-07-09,Saudi Arabia,Ecuador,0,0,QUALIFIER
+2025-02-06,Saudi Arabia,Spain,3,0,QUALIFIER
+2024-02-20,Serbia,Ghana,1,3,FRIENDLY
+2019-04-11,Belgium,Switzerland,5,0,CONFED_CAMP
+2023-08-16,Serbia,Qatar,4,2,QUALIFIER
+2020-11-09,Netherlands,Australia,0,0,CONFED_CAMP
+2024-04-30,Canada,Qatar,1,1,CONFED_CAMP
+2022-05-30,Netherlands,Ecuador,0,1,QUALIFIER
+2021-02-16,Mexico,Australia,0,0,QUALIFIER
+2026-04-10,USA,Belgium,1,0,QUALIFIER
+2022-03-14,Costa Rica,Senegal,2,0,QUALIFIER
+2023-01-19,Poland,Argentina,1,1,CONFED_CAMP
+2021-11-29,Switzerland,Morocco,0,0,QUALIFIER
+2020-02-20,USA,Saudi Arabia,1,1,QUALIFIER
+2022-09-09,Argentina,Qatar,0,3,WC_FINAL
+2022-06-27,Poland,England,0,0,FRIENDLY
+2023-11-22,USA,Denmark,0,0,CONFED_CAMP
+2024-07-03,Morocco,Poland,0,1,QUALIFIER
+2021-06-04,Senegal,Costa Rica,1,0,CONFED_CAMP
+2024-07-16,Morocco,France,1,2,QUALIFIER
+2018-08-17,Saudi Arabia,Ghana,1,0,QUALIFIER
+2026-01-17,Uruguay,Cameroon,1,1,QUALIFIER
+2025-08-17,Netherlands,Serbia,0,0,QUALIFIER
+2024-04-02,England,Colombia,1,0,WC_FINAL
+2022-02-05,Tunisia,Brazil,0,9,QUALIFIER
+2025-04-09,France,Mexico,1,1,QUALIFIER
+2024-02-19,Ghana,Ecuador,0,5,FRIENDLY
+2021-12-19,Saudi Arabia,Croatia,0,0,FRIENDLY
+2025-12-08,Senegal,Switzerland,0,3,CONFED_CAMP
+2023-02-09,Mexico,Colombia,1,0,FRIENDLY
+2019-01-05,France,USA,2,0,FRIENDLY
+2019-12-08,USA,Netherlands,0,0,QUALIFIER
+2026-03-10,England,Portugal,5,6,QUALIFIER
+2019-05-26,Canada,Poland,0,0,CONFED_CAMP
+2019-06-08,Argentina,Saudi Arabia,2,0,QUALIFIER
+2020-06-06,Croatia,Saudi Arabia,2,0,QUALIFIER
+2021-08-30,Tunisia,Saudi Arabia,2,0,FRIENDLY
+2026-01-02,Uruguay,Senegal,0,0,FRIENDLY
+2022-05-21,Iran,South Korea,4,1,FRIENDLY
+2020-11-23,Poland,Serbia,1,0,FRIENDLY
+2021-06-07,Japan,Croatia,0,2,QUALIFIER
+2026-03-25,Canada,Ecuador,5,0,CONFED_CAMP
+2025-04-05,Portugal,Japan,2,1,QUALIFIER
+2020-01-17,Spain,Portugal,2,3,QUALIFIER
+2024-07-14,Portugal,Brazil,0,1,CONFED_CAMP
+2025-04-03,USA,England,4,0,QUALIFIER
+2020-10-14,Serbia,Brazil,0,1,CONFED_CAMP
+2023-10-13,Switzerland,Colombia,0,0,QUALIFIER
+2020-07-28,Iran,Croatia,0,2,CONFED_CAMP
+2026-04-17,USA,Morocco,4,0,QUALIFIER
+2024-09-21,Cameroon,South Korea,0,0,QUALIFIER
+2019-04-16,USA,Argentina,1,0,QUALIFIER
+2020-07-02,Croatia,Qatar,2,3,FRIENDLY
+2020-03-31,France,Iran,0,0,QUALIFIER
+2019-08-19,England,Japan,3,3,CONFED_CAMP
+2019-12-07,England,Portugal,0,0,QUALIFIER
+2023-03-31,South Korea,Ecuador,11,0,QUALIFIER
+2019-08-26,Saudi Arabia,Poland,1,4,FRIENDLY
+2020-11-29,Senegal,Ecuador,6,1,FRIENDLY
+2019-08-29,Saudi Arabia,Morocco,0,2,CONFED_CAMP
+2019-12-02,Qatar,Mexico,0,0,CONFED_CAMP
+2022-02-27,Colombia,France,2,7,CONFED_CAMP
+2020-02-26,Poland,Qatar,0,0,CONFED_CAMP
+2024-06-05,Iran,Senegal,7,0,WC_FINAL
+2022-06-07,Cameroon,Morocco,1,0,QUALIFIER
+2020-06-29,France,Portugal,0,1,FRIENDLY
+2019-09-26,Australia,Ghana,1,3,CONFED_CAMP
+2024-09-13,Australia,Ecuador,3,0,QUALIFIER
+2020-12-06,Qatar,Colombia,1,0,FRIENDLY
+2026-03-25,Saudi Arabia,Germany,1,0,QUALIFIER
+2018-08-17,Brazil,Uruguay,0,0,FRIENDLY
+2019-05-17,Colombia,USA,0,0,FRIENDLY
+2019-09-28,Denmark,Saudi Arabia,2,1,FRIENDLY
+2018-08-03,Germany,Saudi Arabia,0,1,CONFED_CAMP
+2022-08-06,Saudi Arabia,Poland,1,0,QUALIFIER
+2021-12-24,Colombia,Germany,0,2,QUALIFIER
+2023-12-10,Colombia,Portugal,1,1,QUALIFIER
+2019-12-25,France,Uruguay,0,1,QUALIFIER
+2025-07-15,Tunisia,England,2,1,FRIENDLY
+2021-08-26,Costa Rica,Saudi Arabia,0,0,QUALIFIER
+2023-09-10,Morocco,Portugal,1,0,QUALIFIER
+2024-03-31,Colombia,Belgium,1,0,QUALIFIER
+2026-01-27,Uruguay,Croatia,2,1,FRIENDLY
+2023-05-09,Denmark,Germany,5,0,QUALIFIER
+2024-11-05,Serbia,Argentina,0,0,QUALIFIER
+2021-05-23,Serbia,USA,0,6,QUALIFIER
+2026-03-21,USA,Serbia,1,0,QUALIFIER
+2020-07-31,Australia,Croatia,1,1,FRIENDLY
+2025-12-25,England,Argentina,0,0,QUALIFIER
+2020-05-24,South Korea,Qatar,0,2,FRIENDLY
+2020-09-04,France,Denmark,0,1,CONFED_CAMP
+2022-03-28,Belgium,Morocco,0,0,FRIENDLY
+2019-01-28,Costa Rica,Saudi Arabia,0,0,QUALIFIER
+2025-10-16,Iran,Morocco,3,0,FRIENDLY
+2020-11-23,Costa Rica,Netherlands,0,0,QUALIFIER
+2020-05-15,Cameroon,Tunisia,2,2,QUALIFIER
+2018-10-21,Portugal,Colombia,0,0,QUALIFIER
+2023-11-04,Germany,Belgium,1,0,CONFED_CAMP
+2022-05-06,Costa Rica,Ecuador,2,3,FRIENDLY
+2024-11-10,Ecuador,Saudi Arabia,0,0,FRIENDLY
+2025-05-28,Croatia,Argentina,0,1,FRIENDLY
+2019-10-17,Senegal,Croatia,2,0,QUALIFIER
+2022-05-31,Colombia,Poland,0,3,WC_FINAL
+2022-11-04,USA,Switzerland,0,2,FRIENDLY
+2023-12-18,Costa Rica,Switzerland,1,1,QUALIFIER
+2019-10-25,Argentina,Canada,0,1,FRIENDLY
+2020-01-11,Japan,Canada,1,1,QUALIFIER
+2021-07-21,France,Qatar,1,2,FRIENDLY
+2024-06-08,Senegal,France,1,3,CONFED_CAMP
+2020-12-23,England,Mexico,1,0,FRIENDLY
+2024-02-16,Canada,Spain,0,2,CONFED_CAMP
+2022-11-04,Uruguay,France,0,0,FRIENDLY
+2018-03-28,Spain,Netherlands,2,3,CONFED_CAMP
+2025-12-15,Denmark,Canada,1,1,QUALIFIER
+2022-05-20,Portugal,Poland,3,2,QUALIFIER
+2019-09-27,Uruguay,Australia,6,0,QUALIFIER
+2022-07-08,Colombia,Uruguay,0,0,QUALIFIER
+2025-05-07,Senegal,Serbia,0,1,CONFED_CAMP
+2018-09-21,Denmark,Ghana,1,2,QUALIFIER
+2021-10-21,South Korea,Argentina,1,0,QUALIFIER
+2022-01-22,Germany,Denmark,0,1,QUALIFIER
+2020-09-12,Qatar,Croatia,1,3,QUALIFIER
+2018-08-24,Switzerland,Belgium,0,5,FRIENDLY
+2025-08-02,Brazil,Netherlands,1,1,FRIENDLY
+2018-01-11,Canada,Senegal,2,0,QUALIFIER
+2023-02-09,England,Belgium,6,0,QUALIFIER
+2024-02-25,Australia,Brazil,3,0,CONFED_CAMP
+2025-06-19,Portugal,Germany,0,0,CONFED_CAMP
+2022-04-15,England,Morocco,2,3,FRIENDLY
+2024-12-31,Netherlands,USA,0,0,QUALIFIER
+2021-03-03,Netherlands,Poland,2,5,FRIENDLY
+2018-11-14,Australia,Japan,1,1,CONFED_CAMP
+2022-04-19,Ghana,Morocco,2,1,WC_FINAL
+2022-04-09,Spain,England,3,0,FRIENDLY
+2024-05-30,Brazil,Spain,1,4,CONFED_CAMP
+2022-11-10,Uruguay,England,0,0,QUALIFIER
+2021-09-11,Croatia,Colombia,0,1,FRIENDLY
+2018-01-22,Colombia,Canada,1,0,CONFED_CAMP
+2020-07-31,Senegal,England,0,1,FRIENDLY
+2021-06-18,South Korea,Germany,3,1,QUALIFIER
+2020-10-02,Ecuador,Serbia,0,0,QUALIFIER
+2022-06-05,Serbia,Canada,4,2,FRIENDLY
+2018-10-18,Netherlands,Senegal,3,0,QUALIFIER
+2023-11-12,Poland,Ghana,0,1,QUALIFIER
+2021-05-16,Spain,Morocco,7,0,QUALIFIER
+2026-01-22,Serbia,Saudi Arabia,4,1,QUALIFIER
+2023-03-06,Cameroon,Ghana,0,0,QUALIFIER
+2022-11-10,Saudi Arabia,Qatar,0,1,FRIENDLY
+2021-11-24,Senegal,Saudi Arabia,1,0,CONFED_CAMP
+2024-04-23,Costa Rica,Saudi Arabia,1,6,FRIENDLY
+2018-03-11,Canada,Costa Rica,3,0,CONFED_CAMP
+2023-12-21,Japan,Ghana,0,2,QUALIFIER
+2024-10-10,Denmark,Mexico,0,0,QUALIFIER
+2018-09-24,Morocco,Serbia,1,0,QUALIFIER
+2023-09-03,Switzerland,Poland,0,0,QUALIFIER
+2020-10-15,Portugal,Ghana,4,1,WC_FINAL
+2019-02-03,Serbia,Croatia,2,1,QUALIFIER
+2026-03-02,Brazil,Poland,3,0,QUALIFIER
+2019-01-08,Tunisia,Colombia,1,0,CONFED_CAMP
+2022-04-07,Saudi Arabia,Denmark,0,3,CONFED_CAMP
+2021-08-23,Tunisia,Argentina,2,0,QUALIFIER
+2022-04-20,Denmark,France,3,0,CONFED_CAMP
+2020-02-10,Uruguay,Canada,6,0,QUALIFIER
+2022-03-26,Tunisia,Denmark,1,2,FRIENDLY
+2023-06-20,Colombia,Mexico,1,0,QUALIFIER
+2021-08-28,Netherlands,Poland,0,0,QUALIFIER
+2024-02-29,Germany,Saudi Arabia,2,1,CONFED_CAMP
+2020-01-12,Costa Rica,Saudi Arabia,4,3,QUALIFIER
+2021-06-07,Australia,Argentina,1,0,CONFED_CAMP
+2018-07-19,Poland,France,3,1,CONFED_CAMP
+2021-04-21,Cameroon,Iran,2,0,CONFED_CAMP
+2018-11-27,Ghana,England,2,1,QUALIFIER
+2022-03-18,Mexico,Australia,0,0,CONFED_CAMP
+2020-07-20,Qatar,Colombia,3,6,QUALIFIER
+2020-10-22,Poland,Tunisia,0,0,FRIENDLY
+2023-05-25,Saudi Arabia,South Korea,1,1,FRIENDLY
+2023-09-10,Spain,Ghana,1,0,QUALIFIER
+2024-12-12,Ecuador,Mexico,0,0,QUALIFIER
+2022-07-06,Australia,Morocco,0,0,QUALIFIER
+2023-10-18,Croatia,Spain,0,2,QUALIFIER
+2026-01-19,Iran,Portugal,0,1,QUALIFIER
+2024-05-16,Serbia,Croatia,0,0,FRIENDLY
+2023-11-14,Poland,Germany,1,3,QUALIFIER
+2022-10-28,Uruguay,Spain,1,1,WC_FINAL
+2024-11-13,Ecuador,USA,2,0,FRIENDLY
+2020-09-30,Uruguay,Saudi Arabia,3,0,QUALIFIER
+2018-10-27,Spain,Ecuador,4,0,QUALIFIER
+2026-05-07,Portugal,Uruguay,0,0,WC_FINAL
+2023-12-25,Senegal,Iran,1,3,QUALIFIER
+2023-01-18,Costa Rica,Belgium,0,2,WC_FINAL
+2022-08-09,Saudi Arabia,South Korea,0,0,WC_FINAL
+2022-06-10,Tunisia,Canada,1,1,QUALIFIER
+2026-03-25,Australia,Argentina,0,2,FRIENDLY
+2018-09-06,England,Australia,0,0,QUALIFIER
+2020-01-14,Colombia,Costa Rica,1,3,WC_FINAL
+2023-03-12,Qatar,Portugal,11,0,QUALIFIER
+2023-11-01,Cameroon,Poland,0,0,FRIENDLY
+2021-09-21,Iran,Serbia,2,3,CONFED_CAMP
+2022-06-23,Tunisia,Argentina,3,2,CONFED_CAMP
+2022-07-24,Uruguay,Belgium,4,0,FRIENDLY
+2025-05-31,Costa Rica,Ghana,0,0,CONFED_CAMP
+2019-02-25,Argentina,Denmark,0,2,FRIENDLY
+2021-12-09,Germany,Canada,5,1,QUALIFIER
+2019-03-01,Serbia,Cameroon,1,0,WC_FINAL
+2024-01-29,Colombia,Netherlands,1,2,QUALIFIER
+2022-11-08,Brazil,Poland,0,1,FRIENDLY
+2024-10-27,Cameroon,Tunisia,0,0,CONFED_CAMP
+2019-04-20,USA,Ecuador,3,2,FRIENDLY
+2025-09-07,Poland,Australia,0,0,CONFED_CAMP
+2020-07-27,Senegal,Saudi Arabia,11,2,CONFED_CAMP
+2025-09-19,Ecuador,Croatia,5,4,FRIENDLY
+2022-10-19,South Korea,Germany,1,3,CONFED_CAMP
+2018-12-05,Argentina,Japan,3,0,FRIENDLY
+2021-09-28,Ghana,Senegal,0,2,QUALIFIER
+2023-01-30,Morocco,Canada,0,6,CONFED_CAMP
+2020-12-25,Senegal,Colombia,2,2,QUALIFIER
+2025-07-23,Serbia,Japan,0,0,QUALIFIER
+2022-07-04,Senegal,Colombia,2,1,QUALIFIER
+2021-10-09,Belgium,Ghana,1,0,QUALIFIER
+2020-01-21,Uruguay,Japan,0,1,FRIENDLY
+2021-09-04,Denmark,Cameroon,0,0,FRIENDLY
+2020-11-01,Spain,Costa Rica,0,0,QUALIFIER
+2025-06-13,Costa Rica,Switzerland,1,4,QUALIFIER
+2019-03-09,Morocco,Ecuador,1,4,FRIENDLY
+2020-07-29,England,Argentina,2,0,FRIENDLY
+2019-01-26,Qatar,Switzerland,1,1,QUALIFIER
+2022-02-13,Cameroon,Serbia,1,0,QUALIFIER
+2021-05-28,Serbia,Croatia,4,0,QUALIFIER
+2018-06-13,Uruguay,England,2,1,QUALIFIER
+2023-09-26,Mexico,Tunisia,0,0,QUALIFIER
+2019-09-18,Denmark,Ecuador,1,0,CONFED_CAMP
+2020-02-15,Argentina,France,4,0,QUALIFIER
+2026-03-07,Canada,Brazil,1,1,QUALIFIER
+2022-08-01,Senegal,Japan,0,1,CONFED_CAMP
+2025-04-03,Croatia,Serbia,1,0,QUALIFIER
+2026-04-11,Spain,USA,0,0,WC_FINAL
+2019-04-03,Croatia,Belgium,1,0,QUALIFIER
+2019-06-05,Germany,Denmark,0,1,CONFED_CAMP
+2021-01-10,Argentina,Tunisia,3,0,FRIENDLY
+2023-09-03,England,Poland,0,1,QUALIFIER
+2019-08-04,Switzerland,Colombia,0,2,QUALIFIER
+2025-09-27,Iran,Uruguay,2,0,QUALIFIER
+2021-09-26,Canada,France,0,1,QUALIFIER
+2019-12-05,Mexico,Denmark,0,4,WC_FINAL
+2024-05-07,Denmark,Spain,0,1,QUALIFIER
+2025-08-19,Belgium,Tunisia,0,1,QUALIFIER
+2018-08-22,Australia,England,3,0,QUALIFIER
+2026-02-09,Morocco,Qatar,0,1,QUALIFIER
+2025-03-27,Portugal,USA,0,2,FRIENDLY
+2021-12-29,USA,Croatia,0,0,CONFED_CAMP
+2020-01-26,Ecuador,Argentina,2,1,QUALIFIER
+2020-04-25,Germany,Uruguay,5,4,QUALIFIER
+2022-01-23,USA,Spain,5,3,FRIENDLY
+2024-05-20,Qatar,South Korea,3,0,CONFED_CAMP
+2022-05-25,Japan,Ecuador,3,0,QUALIFIER
+2021-02-17,Costa Rica,Colombia,3,2,QUALIFIER
+2023-07-24,Ghana,Australia,0,2,FRIENDLY
+2019-08-17,Serbia,Netherlands,1,0,FRIENDLY
+2019-02-19,Germany,Morocco,0,0,QUALIFIER
+2024-12-13,Ecuador,Saudi Arabia,0,0,CONFED_CAMP
+2021-02-27,Croatia,Portugal,0,0,FRIENDLY
+2026-03-09,Iran,Belgium,0,4,WC_FINAL
+2024-01-26,Canada,Germany,2,0,FRIENDLY
+2024-08-03,Morocco,Cameroon,0,1,QUALIFIER
+2019-12-02,Canada,South Korea,3,1,QUALIFIER
+2019-04-29,Mexico,Switzerland,2,1,QUALIFIER
+2018-06-19,Morocco,Ecuador,1,3,QUALIFIER
+2018-08-24,Croatia,Colombia,2,4,FRIENDLY
+2022-01-14,Tunisia,Saudi Arabia,1,1,CONFED_CAMP
+2023-10-23,England,Qatar,1,0,FRIENDLY
+2024-01-19,South Korea,Brazil,1,0,FRIENDLY
+2022-11-28,Argentina,Morocco,0,0,QUALIFIER
+2019-09-20,France,Spain,0,1,FRIENDLY
+2020-06-23,Costa Rica,Uruguay,0,1,QUALIFIER
+2018-10-21,Australia,Canada,4,0,QUALIFIER
+2023-07-04,Germany,Belgium,0,1,WC_FINAL
+2022-06-10,Portugal,Qatar,0,0,QUALIFIER
+2025-07-25,Iran,Serbia,1,1,QUALIFIER
+2018-06-19,Morocco,England,0,2,QUALIFIER
+2021-07-04,Germany,Iran,1,0,QUALIFIER
+2019-10-05,Argentina,Switzerland,1,3,QUALIFIER
+2022-03-25,Cameroon,Colombia,1,3,FRIENDLY
+2025-02-13,Serbia,Switzerland,0,1,WC_FINAL
+2018-06-10,Australia,Poland,0,0,QUALIFIER
+2025-09-29,Senegal,England,1,5,FRIENDLY
+2024-11-15,Canada,Costa Rica,0,1,QUALIFIER
+2020-12-19,Denmark,Spain,2,1,QUALIFIER
+2022-10-17,Cameroon,Portugal,4,0,FRIENDLY
+2018-07-09,Spain,Portugal,1,1,QUALIFIER
+2022-09-29,Iran,Cameroon,1,0,FRIENDLY
+2024-02-12,Senegal,Colombia,0,0,QUALIFIER
+2018-10-02,Costa Rica,Portugal,3,1,FRIENDLY
+2021-06-30,Qatar,Poland,1,2,CONFED_CAMP
+2021-07-15,Senegal,Switzerland,0,0,FRIENDLY
+2024-12-28,Ecuador,France,0,1,QUALIFIER
+2022-06-29,Argentina,Germany,0,0,FRIENDLY
+2026-01-30,Canada,USA,0,3,QUALIFIER
+2018-11-30,Portugal,Saudi Arabia,1,1,QUALIFIER
+2020-12-08,Croatia,Mexico,1,3,QUALIFIER
+2018-12-08,Ecuador,Spain,1,0,QUALIFIER
+2024-08-06,Costa Rica,France,1,1,CONFED_CAMP
+2024-04-26,South Korea,Australia,0,5,CONFED_CAMP
+2019-08-26,France,Tunisia,2,0,QUALIFIER
+2024-05-20,Brazil,Iran,0,0,QUALIFIER
+2024-11-02,England,USA,0,1,FRIENDLY
+2022-06-10,Tunisia,Portugal,2,0,QUALIFIER
+2025-11-09,USA,Denmark,4,1,WC_FINAL
+2019-10-29,Mexico,Portugal,0,3,FRIENDLY
+2018-04-05,Australia,Qatar,3,0,FRIENDLY
+2024-03-16,Uruguay,Argentina,0,0,FRIENDLY
+2019-01-18,Australia,Costa Rica,0,5,QUALIFIER
+2021-09-11,Australia,South Korea,0,0,FRIENDLY
+2024-05-13,Ecuador,Serbia,0,0,WC_FINAL
+2019-05-24,Morocco,Spain,0,1,QUALIFIER
+2021-08-06,South Korea,Japan,3,1,CONFED_CAMP
+2023-03-28,Costa Rica,Qatar,0,0,QUALIFIER
+2018-01-17,Japan,Senegal,1,0,QUALIFIER
+2020-07-09,Switzerland,Denmark,0,0,CONFED_CAMP
+2019-11-24,Tunisia,USA,6,3,QUALIFIER
+2018-04-25,Mexico,Canada,0,1,CONFED_CAMP
+2019-04-25,Iran,Uruguay,1,0,QUALIFIER
+2018-03-30,Germany,Tunisia,1,0,FRIENDLY
+2021-04-04,Spain,Iran,2,0,FRIENDLY
+2023-10-28,Japan,Colombia,1,0,QUALIFIER
+2025-07-07,Spain,Australia,1,0,QUALIFIER
+2024-11-29,Switzerland,France,4,1,FRIENDLY
+2026-02-06,Germany,Iran,3,0,CONFED_CAMP
+2020-07-13,Japan,Tunisia,3,1,FRIENDLY
+2020-05-22,Tunisia,USA,0,1,FRIENDLY
+2022-08-26,Denmark,Costa Rica,2,2,CONFED_CAMP
+2024-05-25,Colombia,Argentina,0,1,QUALIFIER
+2019-12-24,Portugal,Brazil,4,3,WC_FINAL
+2021-01-02,France,Belgium,1,0,QUALIFIER
+2024-08-26,Netherlands,Morocco,0,3,QUALIFIER
+2020-01-17,Ecuador,Colombia,0,0,QUALIFIER
+2020-12-11,Canada,Senegal,0,3,QUALIFIER
+2023-03-05,Poland,Iran,0,2,QUALIFIER
+2022-04-15,Qatar,South Korea,0,0,QUALIFIER
+2018-05-21,Costa Rica,Ecuador,1,3,FRIENDLY
+2024-10-10,Morocco,Saudi Arabia,0,0,CONFED_CAMP
+2023-02-26,France,Mexico,1,0,QUALIFIER
+2024-11-04,Tunisia,Belgium,2,3,CONFED_CAMP
+2023-07-24,Croatia,Qatar,1,5,QUALIFIER
+2023-12-12,Ecuador,Morocco,1,2,QUALIFIER
+2020-10-12,Serbia,Saudi Arabia,2,3,FRIENDLY
+2022-05-11,Saudi Arabia,Ghana,0,0,FRIENDLY
+2021-10-31,Serbia,Uruguay,0,0,CONFED_CAMP
+2025-01-02,USA,Canada,1,0,FRIENDLY
+2022-05-30,Morocco,Ghana,1,1,QUALIFIER
+2025-12-08,Colombia,Australia,0,2,QUALIFIER
+2020-09-21,Uruguay,Iran,3,0,WC_FINAL
+2023-03-12,Ecuador,Brazil,3,1,WC_FINAL
+2024-01-02,Denmark,Uruguay,0,0,FRIENDLY
+2018-03-24,Denmark,South Korea,1,0,QUALIFIER
+2023-11-13,Denmark,Cameroon,5,1,WC_FINAL
+2024-10-25,Ghana,Switzerland,0,3,FRIENDLY
+2023-09-11,Canada,Netherlands,0,0,QUALIFIER
+2026-01-14,Qatar,Morocco,0,2,FRIENDLY
+2024-01-24,Germany,Serbia,0,2,QUALIFIER
+2018-08-06,Canada,Belgium,0,1,FRIENDLY
+2022-04-01,Tunisia,Denmark,3,2,QUALIFIER
+2026-04-12,England,Ecuador,5,0,WC_FINAL
+2019-10-03,Iran,Cameroon,0,0,QUALIFIER
+2025-06-25,England,Denmark,3,0,QUALIFIER
+2020-05-05,Belgium,Ghana,1,3,QUALIFIER
+2019-02-18,Switzerland,Poland,0,0,CONFED_CAMP
+2020-10-29,Serbia,Canada,2,1,CONFED_CAMP
+2023-03-26,Colombia,Iran,1,0,QUALIFIER
+2025-07-23,Ghana,Croatia,3,0,QUALIFIER
+2019-05-14,Ghana,USA,2,1,FRIENDLY
+2021-09-03,Tunisia,Mexico,2,0,FRIENDLY
+2019-12-02,Cameroon,Colombia,0,0,FRIENDLY
+2026-01-24,England,Brazil,0,0,FRIENDLY
+2021-05-19,Tunisia,England,8,3,QUALIFIER
+2018-04-24,Japan,Brazil,1,0,WC_FINAL
+2021-12-23,Iran,France,0,0,FRIENDLY
+2018-02-16,Spain,Mexico,1,1,CONFED_CAMP
+2024-07-22,Senegal,Belgium,1,2,QUALIFIER
+2018-07-28,Senegal,Spain,0,0,FRIENDLY
+2024-07-19,Portugal,Australia,2,7,QUALIFIER
+2023-08-07,Serbia,Netherlands,3,0,FRIENDLY
+2024-08-05,Poland,Ecuador,3,1,FRIENDLY
+2025-02-10,Canada,Poland,2,0,QUALIFIER
+2025-06-13,Japan,Colombia,1,0,CONFED_CAMP
+2022-09-03,Argentina,South Korea,2,1,QUALIFIER
+2021-12-13,Ecuador,Poland,2,0,QUALIFIER
+2025-11-24,Belgium,Denmark,0,1,FRIENDLY
+2021-09-04,Spain,Ghana,7,1,QUALIFIER
+2024-05-27,South Korea,Switzerland,1,1,QUALIFIER
+2020-03-17,Serbia,Canada,2,1,FRIENDLY
+2024-06-18,Serbia,Cameroon,2,1,QUALIFIER
+2024-09-08,Japan,Cameroon,0,2,CONFED_CAMP
+2025-12-05,Australia,Portugal,0,2,FRIENDLY
+2023-06-08,France,Denmark,5,0,FRIENDLY
+2023-07-27,Tunisia,Netherlands,2,0,WC_FINAL
+2026-01-08,Saudi Arabia,Tunisia,0,1,FRIENDLY
+2019-03-29,Tunisia,Germany,0,0,CONFED_CAMP
+2022-02-12,Qatar,Morocco,1,1,CONFED_CAMP
+2024-01-18,Cameroon,USA,1,5,QUALIFIER
+2020-06-26,Croatia,Senegal,1,3,FRIENDLY
+2018-06-15,Colombia,Spain,2,2,QUALIFIER
+2024-01-30,USA,Uruguay,2,0,CONFED_CAMP
+2023-11-03,Croatia,Australia,0,0,CONFED_CAMP
+2025-10-26,Ghana,England,1,1,FRIENDLY
+2025-05-26,Serbia,Morocco,4,0,QUALIFIER
+2022-06-03,Ghana,Australia,1,0,CONFED_CAMP
+2025-11-15,Japan,Belgium,4,2,QUALIFIER
+2023-11-06,Australia,Iran,0,0,QUALIFIER
+2022-04-16,South Korea,Tunisia,1,0,QUALIFIER
+2023-04-08,England,Canada,0,4,QUALIFIER
+2021-01-27,Denmark,England,1,0,QUALIFIER
+2018-09-24,Uruguay,Denmark,1,0,FRIENDLY
+2024-04-04,Canada,Denmark,6,2,QUALIFIER
+2020-08-16,Canada,Poland,1,0,QUALIFIER
+2024-12-21,Japan,England,4,0,QUALIFIER
+2023-09-15,Costa Rica,Japan,0,0,FRIENDLY
+2020-02-24,Germany,Serbia,0,3,FRIENDLY
+2023-08-25,Iran,Serbia,0,0,FRIENDLY
+2025-05-05,Mexico,Portugal,2,1,FRIENDLY
+2024-04-19,Spain,Senegal,1,0,QUALIFIER
+2023-06-02,Iran,Colombia,0,3,FRIENDLY
+2024-05-01,USA,Denmark,2,3,QUALIFIER
+2019-05-12,Spain,Croatia,1,0,FRIENDLY
+2021-01-31,Brazil,USA,1,0,QUALIFIER
+2019-06-28,Australia,France,2,4,QUALIFIER
+2020-12-05,Cameroon,Mexico,0,4,QUALIFIER
+2021-03-26,Argentina,Morocco,1,0,QUALIFIER
+2022-03-31,Mexico,Croatia,0,3,FRIENDLY
+2022-05-09,Denmark,Morocco,0,0,CONFED_CAMP
+2021-12-03,Australia,Uruguay,0,1,QUALIFIER
+2025-11-22,Qatar,Uruguay,0,1,FRIENDLY
+2024-06-21,Uruguay,Saudi Arabia,2,1,FRIENDLY
+2018-02-28,Canada,Spain,0,0,FRIENDLY
+2018-05-24,South Korea,Australia,1,0,QUALIFIER
+2019-12-23,Poland,Qatar,1,0,CONFED_CAMP
+2021-03-26,France,Netherlands,0,0,FRIENDLY
+2019-07-18,Cameroon,England,0,0,QUALIFIER
+2020-08-04,Belgium,Germany,1,3,QUALIFIER
+2018-08-27,Spain,Ghana,0,0,QUALIFIER
+2022-03-08,Costa Rica,Brazil,4,0,QUALIFIER
+2024-12-05,Brazil,Spain,0,0,WC_FINAL
+2025-08-29,South Korea,Belgium,1,0,WC_FINAL
+2024-05-30,USA,Iran,0,0,QUALIFIER
+2023-11-21,Switzerland,Costa Rica,0,1,QUALIFIER
+2024-06-14,Uruguay,Morocco,0,0,FRIENDLY
+2022-06-05,Belgium,Mexico,2,0,FRIENDLY
+2023-05-18,England,Senegal,2,0,QUALIFIER
+2020-11-06,France,Costa Rica,1,0,QUALIFIER
+2025-10-04,Qatar,Tunisia,1,1,CONFED_CAMP
+2024-02-22,Brazil,Tunisia,3,3,QUALIFIER
+2024-06-22,France,Spain,0,1,QUALIFIER
+2020-05-12,South Korea,Colombia,0,1,QUALIFIER
+2020-07-15,Iran,Germany,1,1,QUALIFIER
+2018-03-17,Ecuador,Tunisia,0,1,QUALIFIER
+2021-11-10,Ecuador,Canada,1,0,QUALIFIER
+2022-06-26,England,USA,8,5,QUALIFIER
+2019-07-13,Ghana,Uruguay,0,0,WC_FINAL
+2025-03-21,Portugal,Belgium,0,1,FRIENDLY
+2026-04-08,Netherlands,Australia,2,1,FRIENDLY
+2022-12-04,Australia,Ghana,4,2,QUALIFIER
+2019-04-22,Canada,Tunisia,6,3,QUALIFIER
+2024-04-05,Netherlands,Serbia,2,0,FRIENDLY
+2023-10-04,Uruguay,Ghana,1,0,QUALIFIER
+2026-03-22,Saudi Arabia,Belgium,1,1,QUALIFIER
+2021-05-08,Germany,Uruguay,8,2,QUALIFIER
+2021-08-10,Costa Rica,Croatia,0,0,FRIENDLY
+2025-12-20,Qatar,Cameroon,0,1,QUALIFIER
+2025-05-27,Ecuador,Ghana,0,2,QUALIFIER
+2025-10-24,Uruguay,Brazil,2,0,CONFED_CAMP
+2019-07-12,Spain,Costa Rica,1,1,QUALIFIER
+2018-11-04,Saudi Arabia,France,11,0,FRIENDLY
+2025-04-08,Switzerland,Saudi Arabia,0,0,QUALIFIER
+2024-03-11,Spain,Australia,1,2,CONFED_CAMP
+2019-01-16,Spain,Iran,7,1,FRIENDLY
+2018-05-18,Uruguay,Saudi Arabia,0,1,CONFED_CAMP
+2023-12-28,Iran,France,1,0,QUALIFIER
+2022-08-21,Morocco,Saudi Arabia,0,1,CONFED_CAMP
+2020-10-27,South Korea,Morocco,9,0,QUALIFIER
+2022-03-26,Morocco,Canada,1,0,WC_FINAL
+2020-07-03,France,Belgium,3,0,QUALIFIER
+2023-08-15,Qatar,Tunisia,3,0,WC_FINAL
+2023-10-03,South Korea,Cameroon,0,1,QUALIFIER
+2019-10-03,Japan,USA,0,4,CONFED_CAMP
+2023-01-09,Serbia,Croatia,1,1,QUALIFIER
+2019-10-11,Colombia,Argentina,0,0,FRIENDLY
+2020-02-09,Costa Rica,Ecuador,1,0,QUALIFIER
+2023-08-07,Morocco,Qatar,3,4,FRIENDLY
+2022-05-11,Senegal,Tunisia,0,0,FRIENDLY
+2024-11-12,Senegal,Portugal,2,0,FRIENDLY
+2021-05-22,Morocco,Belgium,0,3,CONFED_CAMP
+2019-01-30,Argentina,Morocco,6,0,QUALIFIER
+2018-07-16,Germany,Argentina,0,2,FRIENDLY
+2025-09-27,Belgium,Serbia,1,0,FRIENDLY
+2021-06-02,Iran,Japan,0,0,FRIENDLY
+2023-10-07,Cameroon,Australia,1,0,QUALIFIER
+2023-05-13,USA,Japan,2,0,QUALIFIER
+2018-11-06,Iran,Croatia,2,0,FRIENDLY
+2020-12-01,Brazil,Denmark,0,0,FRIENDLY
+2021-12-10,Denmark,Senegal,0,1,QUALIFIER
+2019-03-06,Croatia,Portugal,2,2,QUALIFIER
+2020-06-24,Qatar,Canada,3,0,QUALIFIER
+2020-04-23,Germany,Netherlands,0,4,QUALIFIER
+2021-08-31,South Korea,Morocco,0,5,QUALIFIER
+2019-11-14,England,Uruguay,1,0,FRIENDLY
+2021-06-28,Croatia,Japan,0,0,QUALIFIER
+2026-05-03,Qatar,South Korea,2,1,QUALIFIER
+2021-02-11,Uruguay,Spain,0,2,FRIENDLY
+2024-09-07,Japan,Croatia,0,0,FRIENDLY
+2021-09-18,Tunisia,Iran,0,0,CONFED_CAMP
+2023-06-09,Brazil,Japan,9,0,QUALIFIER
+2023-10-25,Switzerland,Serbia,0,4,FRIENDLY
+2024-08-21,Tunisia,Switzerland,2,2,FRIENDLY
+2024-02-11,USA,Ecuador,0,0,CONFED_CAMP
+2022-02-09,Japan,Qatar,0,4,QUALIFIER
+2025-04-22,Netherlands,Portugal,1,0,CONFED_CAMP
+2021-08-27,Portugal,Netherlands,0,0,FRIENDLY
+2024-01-16,Croatia,Canada,1,1,QUALIFIER
+2018-08-21,Cameroon,Croatia,1,1,FRIENDLY
+2022-08-18,Netherlands,Morocco,1,1,QUALIFIER
+2025-09-08,Portugal,Canada,4,0,CONFED_CAMP
+2022-03-10,Poland,Argentina,1,0,FRIENDLY
+2022-04-15,Croatia,Ghana,0,2,CONFED_CAMP
+2024-05-19,Iran,Uruguay,1,8,FRIENDLY
+2018-09-03,Poland,Senegal,1,1,CONFED_CAMP
+2020-02-13,Japan,Denmark,0,0,CONFED_CAMP
+2021-11-08,Iran,Croatia,0,1,CONFED_CAMP
+2022-03-07,Tunisia,South Korea,0,1,QUALIFIER
+2024-07-04,Tunisia,Serbia,1,0,QUALIFIER
+2024-02-29,Uruguay,Brazil,2,4,QUALIFIER
+2018-05-10,Iran,Serbia,0,3,QUALIFIER
+2023-08-19,Mexico,Senegal,4,0,QUALIFIER
+2022-08-18,Brazil,Portugal,6,0,QUALIFIER
+2019-12-20,Brazil,France,7,4,CONFED_CAMP
+2020-10-20,Tunisia,Ecuador,0,1,FRIENDLY
+2026-02-04,Canada,Iran,1,1,CONFED_CAMP
+2023-02-13,Iran,Morocco,0,0,CONFED_CAMP
+2023-08-12,Serbia,Tunisia,0,1,FRIENDLY
+2019-10-16,Belgium,Uruguay,7,3,QUALIFIER
+2019-09-26,Senegal,Poland,0,8,QUALIFIER
+2025-12-01,Cameroon,Poland,0,1,QUALIFIER
+2023-07-01,Morocco,Ghana,1,0,CONFED_CAMP
+2020-10-31,Denmark,Morocco,0,2,QUALIFIER
+2025-10-13,Tunisia,USA,4,0,CONFED_CAMP
+2022-05-24,Portugal,South Korea,0,1,FRIENDLY
+2020-03-21,Tunisia,Spain,0,0,CONFED_CAMP
+2021-02-11,Qatar,Saudi Arabia,1,0,QUALIFIER
+2021-04-19,Denmark,France,3,0,WC_FINAL
+2018-09-21,Iran,Serbia,3,0,QUALIFIER
+2022-11-19,Croatia,Portugal,0,1,FRIENDLY
+2024-01-11,France,England,1,1,QUALIFIER
+2020-07-01,Qatar,USA,5,0,CONFED_CAMP
+2025-02-01,Serbia,Australia,0,4,QUALIFIER
+2023-10-20,Argentina,Brazil,3,1,FRIENDLY
+2022-05-01,Colombia,Ecuador,0,1,QUALIFIER
+2022-12-14,Germany,Netherlands,0,2,QUALIFIER
+2022-02-03,Serbia,England,1,0,FRIENDLY
+2021-12-28,Mexico,USA,3,3,QUALIFIER
+2019-03-05,Belgium,Tunisia,0,0,QUALIFIER
+2021-12-06,Tunisia,Saudi Arabia,2,0,QUALIFIER
+2021-01-09,Morocco,Japan,2,1,QUALIFIER
+2018-02-14,Denmark,Portugal,0,0,QUALIFIER
+2020-06-19,Australia,Iran,4,3,QUALIFIER
+2021-12-31,Argentina,Switzerland,0,0,CONFED_CAMP
+2025-12-22,Cameroon,Uruguay,4,0,QUALIFIER
+2022-12-08,Australia,Mexico,2,0,QUALIFIER
+2026-05-24,Iran,Switzerland,6,0,QUALIFIER
+2024-08-30,Belgium,Croatia,2,1,QUALIFIER
+2020-08-21,South Korea,Canada,0,2,QUALIFIER
+2023-07-25,Germany,Japan,0,0,QUALIFIER
+2025-10-25,France,Senegal,2,1,FRIENDLY
+2025-11-03,Belgium,Australia,0,5,FRIENDLY
+2026-01-31,Iran,Tunisia,3,1,QUALIFIER
+2018-12-24,Cameroon,Uruguay,0,0,QUALIFIER
+2020-02-26,Iran,Portugal,2,0,FRIENDLY
+2018-08-13,Poland,Uruguay,1,0,QUALIFIER
+2022-10-27,Iran,Argentina,0,1,CONFED_CAMP
+2026-02-15,Netherlands,Ghana,0,2,CONFED_CAMP
+2024-02-23,Mexico,Switzerland,2,2,QUALIFIER
+2024-03-13,Australia,Costa Rica,1,1,QUALIFIER
+2023-01-09,Ghana,Saudi Arabia,2,2,QUALIFIER
+2024-08-02,Brazil,Tunisia,1,1,QUALIFIER
+2024-10-23,Morocco,France,1,0,QUALIFIER
+2019-08-07,Japan,Iran,0,0,QUALIFIER
+2020-01-24,Germany,Tunisia,0,2,FRIENDLY
+2025-08-07,Australia,Uruguay,4,2,CONFED_CAMP
+2023-09-16,Tunisia,Brazil,4,2,CONFED_CAMP
+2022-02-16,Spain,Australia,3,7,FRIENDLY
+2020-04-17,Belgium,Costa Rica,0,1,QUALIFIER
+2021-11-22,Argentina,Colombia,1,1,QUALIFIER
+2024-03-04,Poland,Saudi Arabia,0,1,FRIENDLY
+2022-08-03,Belgium,Iran,2,0,QUALIFIER
+2025-09-03,Ecuador,Mexico,1,1,QUALIFIER
+2019-03-25,Denmark,France,9,3,CONFED_CAMP
+2022-10-03,Netherlands,Germany,1,1,QUALIFIER
+2024-11-08,Australia,Saudi Arabia,1,1,WC_FINAL
+2023-08-15,Colombia,Portugal,0,1,QUALIFIER
+2025-07-30,Argentina,Colombia,0,0,QUALIFIER
+2018-01-28,Canada,Senegal,0,1,QUALIFIER
+2025-05-09,Uruguay,Portugal,2,0,FRIENDLY
+2020-10-04,Spain,Cameroon,1,0,QUALIFIER
+2019-11-23,Germany,Argentina,0,0,FRIENDLY
+2021-04-05,Qatar,Tunisia,1,0,QUALIFIER
+2018-07-28,Serbia,Belgium,3,6,QUALIFIER
+2019-02-15,England,Morocco,1,0,CONFED_CAMP
+2025-10-20,Belgium,Japan,1,0,QUALIFIER
+2018-01-23,South Korea,Belgium,0,1,CONFED_CAMP
+2018-02-10,Qatar,Saudi Arabia,1,0,CONFED_CAMP
+2021-05-02,France,Cameroon,1,0,FRIENDLY
+2019-01-20,Cameroon,Croatia,2,0,QUALIFIER
+2018-12-26,Morocco,Switzerland,2,2,QUALIFIER
+2023-05-18,Saudi Arabia,Spain,0,0,FRIENDLY
+2026-05-01,Brazil,USA,1,6,QUALIFIER
+2018-01-28,United States,Bosnia and Herzegovina,0,0,FRIENDLY
+2018-01-31,Mexico,Bosnia and Herzegovina,1,0,FRIENDLY
+2018-03-23,Bulgaria,Bosnia and Herzegovina,0,1,FRIENDLY
+2018-03-27,Bosnia and Herzegovina,Senegal,0,0,FRIENDLY
+2018-03-27,United States,Paraguay,1,0,FRIENDLY
+2018-05-28,Bosnia and Herzegovina,Montenegro,0,0,FRIENDLY
+2018-06-01,South Korea,Bosnia and Herzegovina,1,3,FRIENDLY
+2018-06-12,Japan,Paraguay,4,2,FRIENDLY
+2018-09-08,Northern Ireland,Bosnia and Herzegovina,1,2,QUALIFIER
+2018-09-11,Bosnia and Herzegovina,Austria,1,0,QUALIFIER
+2018-10-11,Turkey,Bosnia and Herzegovina,0,0,FRIENDLY
+2018-10-15,Bosnia and Herzegovina,Northern Ireland,2,0,QUALIFIER
+2018-11-15,Austria,Bosnia and Herzegovina,0,0,QUALIFIER
+2018-11-18,Spain,Bosnia and Herzegovina,1,0,FRIENDLY
+2018-11-20,South Africa,Paraguay,1,1,FRIENDLY
+2019-03-22,Peru,Paraguay,1,0,FRIENDLY
+2019-03-23,Bosnia and Herzegovina,Armenia,2,1,QUALIFIER
+2019-03-26,Paraguay,Mexico,2,4,FRIENDLY
+2019-03-26,Bosnia and Herzegovina,Greece,2,2,QUALIFIER
+2019-06-05,Paraguay,Honduras,1,1,FRIENDLY
+2019-06-08,Finland,Bosnia and Herzegovina,2,0,QUALIFIER
+2019-06-09,Paraguay,Guatemala,2,0,FRIENDLY
+2019-06-11,Italy,Bosnia and Herzegovina,2,1,QUALIFIER
+2019-06-16,Paraguay,Qatar,2,2,QUALIFIER
+2019-06-19,Argentina,Paraguay,1,1,QUALIFIER
+2019-06-23,Colombia,Paraguay,1,0,QUALIFIER
+2019-06-27,Brazil,Paraguay,0,0,QUALIFIER
+2019-09-05,Bosnia and Herzegovina,Liechtenstein,5,0,QUALIFIER
+2019-09-05,Japan,Paraguay,2,0,QUALIFIER
+2019-09-08,Armenia,Bosnia and Herzegovina,4,2,QUALIFIER
+2019-09-10,Jordan,Paraguay,2,4,FRIENDLY
+2019-10-10,Serbia,Paraguay,1,0,FRIENDLY
+2019-10-12,Bosnia and Herzegovina,Finland,4,1,QUALIFIER
+2019-10-13,Slovakia,Paraguay,1,1,FRIENDLY
+2019-10-15,Greece,Bosnia and Herzegovina,2,1,QUALIFIER
+2019-11-14,Bulgaria,Paraguay,0,1,FRIENDLY
+2019-11-15,Bosnia and Herzegovina,Italy,0,3,QUALIFIER
+2019-11-18,Liechtenstein,Bosnia and Herzegovina,0,3,QUALIFIER
+2019-11-19,Saudi Arabia,Paraguay,0,0,FRIENDLY
+2020-09-04,Italy,Bosnia and Herzegovina,1,1,QUALIFIER
+2020-09-07,Bosnia and Herzegovina,Poland,1,2,QUALIFIER
+2020-10-08,Paraguay,Peru,2,2,QUALIFIER
+2020-10-08,Bosnia and Herzegovina,Northern Ireland,1,1,QUALIFIER
+2020-10-11,Bosnia and Herzegovina,Netherlands,0,0,QUALIFIER
+2020-10-13,Venezuela,Paraguay,0,1,QUALIFIER
+2020-10-14,Poland,Bosnia and Herzegovina,3,0,QUALIFIER
+2020-11-12,Bosnia and Herzegovina,Iran,0,2,FRIENDLY
+2020-11-12,Argentina,Paraguay,1,1,QUALIFIER
+2020-11-15,Netherlands,Bosnia and Herzegovina,3,1,QUALIFIER
+2020-11-17,Paraguay,Bolivia,2,2,QUALIFIER
+2020-11-18,Bosnia and Herzegovina,Italy,0,2,QUALIFIER
+2021-03-24,Finland,Bosnia and Herzegovina,2,2,QUALIFIER
+2021-03-27,Bosnia and Herzegovina,Costa Rica,0,0,FRIENDLY
+2021-03-31,Bosnia and Herzegovina,France,0,1,QUALIFIER
+2021-06-02,Bosnia and Herzegovina,Montenegro,0,0,FRIENDLY
+2021-06-03,Uruguay,Paraguay,0,0,QUALIFIER
+2021-06-06,Denmark,Bosnia and Herzegovina,2,0,FRIENDLY
+2021-06-08,Paraguay,Brazil,0,2,QUALIFIER
+2021-06-14,Paraguay,Bolivia,3,1,QUALIFIER
+2021-06-21,Argentina,Paraguay,1,0,QUALIFIER
+2021-06-24,Chile,Paraguay,0,2,QUALIFIER
+2021-06-28,Uruguay,Paraguay,1,0,QUALIFIER
+2021-07-02,Peru,Paraguay,3,3,QUALIFIER
+2021-09-01,France,Bosnia and Herzegovina,1,1,QUALIFIER
+2021-09-02,Ecuador,Paraguay,2,0,QUALIFIER
+2021-09-04,Bosnia and Herzegovina,Kuwait,1,0,FRIENDLY
+2021-09-05,Paraguay,Colombia,1,1,QUALIFIER
+2021-09-07,Bosnia and Herzegovina,Kazakhstan,2,2,QUALIFIER
+2021-09-09,Paraguay,Venezuela,2,1,QUALIFIER
+2021-10-07,Paraguay,Argentina,0,0,QUALIFIER
+2021-10-09,Kazakhstan,Bosnia and Herzegovina,0,2,QUALIFIER
+2021-10-10,Chile,Paraguay,2,0,QUALIFIER
+2021-10-12,Ukraine,Bosnia and Herzegovina,1,1,QUALIFIER
+2021-10-14,Bolivia,Paraguay,4,0,QUALIFIER
+2021-11-11,Paraguay,Chile,0,1,QUALIFIER
+2021-11-13,Bosnia and Herzegovina,Finland,1,3,QUALIFIER
+2021-11-16,Bosnia and Herzegovina,Ukraine,0,2,QUALIFIER
+2021-11-16,Colombia,Paraguay,0,0,QUALIFIER
+2021-12-18,United States,Bosnia and Herzegovina,1,0,FRIENDLY
+2022-01-27,Paraguay,Uruguay,0,1,QUALIFIER
+2022-02-01,Brazil,Paraguay,4,0,QUALIFIER
+2022-03-24,Paraguay,Ecuador,3,1,QUALIFIER
+2022-03-25,Bosnia and Herzegovina,Georgia,0,1,FRIENDLY
+2022-03-29,Peru,Paraguay,2,0,QUALIFIER
+2022-03-29,Bosnia and Herzegovina,Luxembourg,1,0,FRIENDLY
+2022-06-02,Japan,Paraguay,4,1,FRIENDLY
+2022-06-04,Finland,Bosnia and Herzegovina,1,1,QUALIFIER
+2022-06-07,Bosnia and Herzegovina,Romania,1,0,QUALIFIER
+2022-06-10,South Korea,Paraguay,2,2,FRIENDLY
+2022-06-11,Montenegro,Bosnia and Herzegovina,1,1,QUALIFIER
+2022-06-14,Bosnia and Herzegovina,Finland,3,2,QUALIFIER
+2022-08-31,Mexico,Paraguay,0,1,FRIENDLY
+2022-09-23,Paraguay,United Arab Emirates,1,0,FRIENDLY
+2022-09-23,Bosnia and Herzegovina,Montenegro,1,0,QUALIFIER
+2022-09-26,Romania,Bosnia and Herzegovina,4,1,QUALIFIER
+2022-09-27,Paraguay,Morocco,0,0,FRIENDLY
+2022-11-16,Peru,Paraguay,1,0,FRIENDLY
+2022-11-19,Colombia,Paraguay,2,0,FRIENDLY
+2023-03-23,Bosnia and Herzegovina,Iceland,3,0,QUALIFIER
+2023-03-26,Slovakia,Bosnia and Herzegovina,2,0,QUALIFIER
+2023-03-27,Chile,Paraguay,3,2,FRIENDLY
+2023-06-17,Portugal,Bosnia and Herzegovina,3,0,QUALIFIER
+2023-06-18,Paraguay,Nicaragua,2,0,FRIENDLY
+2023-06-20,Bosnia and Herzegovina,Luxembourg,0,2,QUALIFIER
+2023-09-07,Paraguay,Peru,0,0,QUALIFIER
+2023-09-08,Bosnia and Herzegovina,Liechtenstein,2,1,QUALIFIER
+2023-09-11,Iceland,Bosnia and Herzegovina,1,0,QUALIFIER
+2023-09-12,Venezuela,Paraguay,1,0,QUALIFIER
+2023-10-12,Argentina,Paraguay,1,0,QUALIFIER
+2023-10-13,Liechtenstein,Bosnia and Herzegovina,0,2,QUALIFIER
+2023-10-16,Bosnia and Herzegovina,Portugal,0,5,QUALIFIER
+2023-10-17,Paraguay,Bolivia,1,0,QUALIFIER
+2023-11-16,Chile,Paraguay,0,0,QUALIFIER
+2023-11-16,Luxembourg,Bosnia and Herzegovina,4,1,QUALIFIER
+2023-11-19,Bosnia and Herzegovina,Slovakia,1,2,QUALIFIER
+2023-11-21,Paraguay,Colombia,0,1,QUALIFIER
+2024-03-21,Bosnia and Herzegovina,Ukraine,1,2,QUALIFIER
+2024-06-03,England,Bosnia and Herzegovina,3,0,FRIENDLY
+2024-06-07,Peru,Paraguay,0,0,FRIENDLY
+2024-06-09,Italy,Bosnia and Herzegovina,1,0,FRIENDLY
+2024-06-11,Chile,Paraguay,3,0,FRIENDLY
+2024-06-16,Panama,Paraguay,0,1,FRIENDLY
+2024-06-24,Colombia,Paraguay,2,1,QUALIFIER
+2024-06-28,Paraguay,Brazil,1,4,QUALIFIER
+2024-07-02,Costa Rica,Paraguay,2,1,QUALIFIER
+2024-09-06,Uruguay,Paraguay,0,0,QUALIFIER
+2024-09-07,Netherlands,Bosnia and Herzegovina,5,2,QUALIFIER
+2024-09-10,Hungary,Bosnia and Herzegovina,0,0,QUALIFIER
+2024-09-10,Paraguay,Brazil,1,0,QUALIFIER
+2024-10-10,Ecuador,Paraguay,0,0,QUALIFIER
+2024-10-11,Bosnia and Herzegovina,Germany,1,2,QUALIFIER
+2024-10-14,Bosnia and Herzegovina,Hungary,0,2,QUALIFIER
+2024-10-15,Paraguay,Venezuela,2,1,QUALIFIER
+2024-11-14,Paraguay,Argentina,2,1,QUALIFIER
+2024-11-16,Germany,Bosnia and Herzegovina,7,0,QUALIFIER
+2024-11-19,Bosnia and Herzegovina,Netherlands,1,1,QUALIFIER
+2024-11-19,Bolivia,Paraguay,2,2,QUALIFIER
+2025-03-20,Paraguay,Chile,1,0,QUALIFIER
+2025-03-21,Romania,Bosnia and Herzegovina,0,1,QUALIFIER
+2025-03-24,Bosnia and Herzegovina,Cyprus,2,1,QUALIFIER
+2025-03-25,Colombia,Paraguay,2,2,QUALIFIER
+2025-06-05,Paraguay,Uruguay,2,0,QUALIFIER
+2025-06-07,Bosnia and Herzegovina,San Marino,1,0,QUALIFIER
+2025-06-10,Slovenia,Bosnia and Herzegovina,2,1,FRIENDLY
+2025-06-10,Brazil,Paraguay,1,0,QUALIFIER
+2025-09-04,Paraguay,Ecuador,0,0,QUALIFIER
+2025-09-06,San Marino,Bosnia and Herzegovina,0,6,QUALIFIER
+2025-09-09,Peru,Paraguay,0,1,QUALIFIER
+2025-09-09,Bosnia and Herzegovina,Austria,1,2,QUALIFIER
+2025-10-09,Cyprus,Bosnia and Herzegovina,2,2,QUALIFIER
+2025-10-10,Japan,Paraguay,2,2,QUALIFIER
+2025-10-12,Malta,Bosnia and Herzegovina,1,4,FRIENDLY
+2025-10-14,South Korea,Paraguay,2,0,FRIENDLY
+2025-11-15,United States,Paraguay,2,1,FRIENDLY
+2025-11-15,Bosnia and Herzegovina,Romania,3,1,QUALIFIER
+2025-11-18,Mexico,Paraguay,1,2,FRIENDLY
+2025-11-18,Austria,Bosnia and Herzegovina,1,1,QUALIFIER
+2026-03-26,Wales,Bosnia and Herzegovina,1,1,QUALIFIER
+2026-03-27,Greece,Paraguay,0,1,FRIENDLY
+2026-03-31,Morocco,Paraguay,2,1,FRIENDLY
+2026-03-31,Bosnia and Herzegovina,Italy,1,1,QUALIFIER
+2026-05-29,Bosnia and Herzegovina,North Macedonia,0,0,FRIENDLY
+2026-06-05,Paraguay,Nicaragua,4,0,FRIENDLY
+2026-06-06,Panama,Bosnia and Herzegovina,1,1,FRIENDLY
+2018-03-23,Scotland,Costa Rica,0,1,FRIENDLY
+2018-03-27,Hungary,Scotland,0,1,FRIENDLY
+2018-05-29,Argentina,Haiti,4,0,FRIENDLY
+2018-05-29,Peru,Scotland,2,0,FRIENDLY
+2018-06-02,Mexico,Scotland,1,0,FRIENDLY
+2018-09-07,Scotland,Belgium,0,4,FRIENDLY
+2018-09-10,Scotland,Albania,2,0,QUALIFIER
+2018-09-10,Haiti,Sint Maarten,13,0,QUALIFIER
+2018-10-11,Israel,Scotland,2,1,QUALIFIER
+2018-10-14,Scotland,Portugal,1,3,FRIENDLY
+2018-10-16,Saint Lucia,Haiti,1,2,QUALIFIER
+2018-11-17,Albania,Scotland,0,4,QUALIFIER
+2018-11-17,Nicaragua,Haiti,0,2,QUALIFIER
+2018-11-20,Scotland,Israel,3,2,QUALIFIER
+2018-11-20,El Salvador,Haiti,1,0,FRIENDLY
+2019-03-21,Kazakhstan,Scotland,3,0,QUALIFIER
+2019-03-24,San Marino,Scotland,0,2,QUALIFIER
+2019-03-24,Haiti,Cuba,2,1,QUALIFIER
+2019-06-02,El Salvador,Haiti,1,0,FRIENDLY
+2019-06-06,Chile,Haiti,2,1,FRIENDLY
+2019-06-08,Scotland,Cyprus,2,1,QUALIFIER
+2019-06-11,Belgium,Scotland,3,0,QUALIFIER
+2019-06-16,Haiti,Bermuda,2,1,QUALIFIER
+2019-06-20,Nicaragua,Haiti,0,2,QUALIFIER
+2019-06-24,Haiti,Costa Rica,2,1,QUALIFIER
+2019-06-29,Haiti,Canada,3,2,QUALIFIER
+2019-07-02,Haiti,Mexico,0,1,QUALIFIER
+2019-09-06,Scotland,Russia,1,2,QUALIFIER
+2019-09-07,Curaçao,Haiti,1,0,QUALIFIER
+2019-09-09,Scotland,Belgium,0,4,QUALIFIER
+2019-09-10,Haiti,Curaçao,1,1,QUALIFIER
+2019-10-10,Russia,Scotland,4,0,QUALIFIER
+2019-10-10,Haiti,Costa Rica,1,1,QUALIFIER
+2019-10-13,Scotland,San Marino,6,0,QUALIFIER
+2019-10-15,Bolivia,Haiti,3,1,FRIENDLY
+2019-11-16,Cyprus,Scotland,1,2,QUALIFIER
+2019-11-17,Costa Rica,Haiti,1,1,QUALIFIER
+2019-11-19,Scotland,Kazakhstan,3,1,QUALIFIER
+2020-09-04,Scotland,Israel,1,1,QUALIFIER
+2020-09-07,Czech Republic,Scotland,1,2,QUALIFIER
+2020-10-08,Scotland,Israel,0,0,QUALIFIER
+2020-10-11,Scotland,Slovakia,1,0,QUALIFIER
+2020-10-14,Scotland,Czech Republic,1,0,QUALIFIER
+2020-11-12,Serbia,Scotland,1,1,QUALIFIER
+2020-11-15,Slovakia,Scotland,1,0,QUALIFIER
+2020-11-18,Israel,Scotland,1,0,QUALIFIER
+2021-03-25,Haiti,Belize,2,0,QUALIFIER
+2021-03-25,Scotland,Austria,2,2,QUALIFIER
+2021-03-28,Israel,Scotland,1,1,QUALIFIER
+2021-03-31,Scotland,Faroe Islands,4,0,QUALIFIER
+2021-06-02,Netherlands,Scotland,2,2,FRIENDLY
+2021-06-05,Turks and Caicos Islands,Haiti,0,10,QUALIFIER
+2021-06-06,Luxembourg,Scotland,0,1,FRIENDLY
+2021-06-08,Haiti,Nicaragua,1,0,QUALIFIER
+2021-06-12,Haiti,Canada,0,1,QUALIFIER
+2021-06-14,Scotland,Czech Republic,0,2,QUALIFIER
+2021-06-15,Canada,Haiti,3,0,QUALIFIER
+2021-06-18,England,Scotland,0,0,QUALIFIER
+2021-06-22,Scotland,Croatia,1,3,QUALIFIER
+2021-07-02,Haiti,Saint Vincent and the Grenadines,6,1,QUALIFIER
+2021-07-06,Haiti,Bermuda,4,1,QUALIFIER
+2021-07-11,United States,Haiti,1,0,QUALIFIER
+2021-07-15,Haiti,Canada,1,4,QUALIFIER
+2021-07-18,Martinique,Haiti,1,2,QUALIFIER
+2021-09-01,Bahrain,Haiti,6,1,FRIENDLY
+2021-09-01,Denmark,Scotland,2,0,QUALIFIER
+2021-09-04,Haiti,Jordan,2,0,FRIENDLY
+2021-09-04,Scotland,Moldova,1,0,QUALIFIER
+2021-09-07,Austria,Scotland,0,1,QUALIFIER
+2021-10-09,Scotland,Israel,3,2,QUALIFIER
+2021-10-12,Faroe Islands,Scotland,0,1,QUALIFIER
+2021-11-12,Moldova,Scotland,0,2,QUALIFIER
+2021-11-15,Scotland,Denmark,2,0,QUALIFIER
+2022-03-24,Scotland,Poland,1,1,FRIENDLY
+2022-03-27,Guatemala,Haiti,2,1,FRIENDLY
+2022-03-29,Austria,Scotland,2,2,FRIENDLY
+2022-06-01,Scotland,Ukraine,1,3,QUALIFIER
+2022-06-04,Bermuda,Haiti,0,0,QUALIFIER
+2022-06-07,Haiti,Montserrat,3,2,QUALIFIER
+2022-06-08,Scotland,Armenia,2,0,QUALIFIER
+2022-06-11,Guyana,Haiti,2,6,QUALIFIER
+2022-06-11,Republic of Ireland,Scotland,3,0,QUALIFIER
+2022-06-14,Haiti,Guyana,6,0,QUALIFIER
+2022-06-14,Armenia,Scotland,1,4,QUALIFIER
+2022-09-21,Scotland,Ukraine,3,0,QUALIFIER
+2022-09-24,Scotland,Republic of Ireland,2,1,QUALIFIER
+2022-09-27,Ukraine,Scotland,0,0,QUALIFIER
+2022-11-16,Turkey,Scotland,2,1,FRIENDLY
+2023-03-25,Scotland,Cyprus,3,0,QUALIFIER
+2023-03-25,Montserrat,Haiti,0,4,QUALIFIER
+2023-03-28,Scotland,Spain,2,0,QUALIFIER
+2023-03-28,Haiti,Bermuda,3,1,QUALIFIER
+2023-06-17,Norway,Scotland,1,2,QUALIFIER
+2023-06-20,Haiti,Trinidad and Tobago,0,0,FRIENDLY
+2023-06-20,Scotland,Georgia,2,0,QUALIFIER
+2023-06-25,Haiti,Qatar,2,1,QUALIFIER
+2023-06-29,Haiti,Mexico,1,3,QUALIFIER
+2023-07-02,Honduras,Haiti,2,1,QUALIFIER
+2023-09-08,Haiti,Cuba,0,0,QUALIFIER
+2023-09-08,Cyprus,Scotland,0,3,QUALIFIER
+2023-09-12,Jamaica,Haiti,2,2,QUALIFIER
+2023-09-12,Scotland,England,1,3,FRIENDLY
+2023-10-12,Suriname,Haiti,1,1,QUALIFIER
+2023-10-12,Spain,Scotland,2,0,QUALIFIER
+2023-10-15,Haiti,Jamaica,2,3,QUALIFIER
+2023-10-17,France,Scotland,4,1,FRIENDLY
+2023-11-16,Georgia,Scotland,2,2,QUALIFIER
+2023-11-19,Scotland,Norway,3,3,QUALIFIER
+2024-03-22,Netherlands,Scotland,4,0,FRIENDLY
+2024-03-26,Scotland,Northern Ireland,0,1,FRIENDLY
+2024-06-03,Gibraltar,Scotland,0,2,FRIENDLY
+2024-06-06,Haiti,Saint Lucia,2,1,QUALIFIER
+2024-06-07,Scotland,Finland,2,2,FRIENDLY
+2024-06-09,Barbados,Haiti,1,3,QUALIFIER
+2024-06-14,Germany,Scotland,5,1,QUALIFIER
+2024-06-19,Scotland,Switzerland,1,1,QUALIFIER
+2024-06-23,Scotland,Hungary,0,1,QUALIFIER
+2024-09-05,Scotland,Poland,2,3,QUALIFIER
+2024-09-06,Puerto Rico,Haiti,1,4,QUALIFIER
+2024-09-08,Portugal,Scotland,2,1,QUALIFIER
+2024-09-09,Haiti,Sint Maarten,6,0,QUALIFIER
+2024-10-11,Aruba,Haiti,1,3,QUALIFIER
+2024-10-12,Croatia,Scotland,2,1,QUALIFIER
+2024-10-14,Aruba,Haiti,3,5,QUALIFIER
+2024-10-15,Scotland,Portugal,0,0,QUALIFIER
+2024-11-15,Scotland,Croatia,1,0,QUALIFIER
+2024-11-15,Sint Maarten,Haiti,0,8,QUALIFIER
+2024-11-18,Poland,Scotland,1,2,QUALIFIER
+2024-11-18,Puerto Rico,Haiti,0,3,QUALIFIER
+2025-03-20,Greece,Scotland,0,1,QUALIFIER
+2025-03-22,Azerbaijan,Haiti,0,3,FRIENDLY
+2025-03-23,Scotland,Greece,0,3,QUALIFIER
+2025-06-06,Scotland,Iceland,1,3,FRIENDLY
+2025-06-07,Aruba,Haiti,0,5,QUALIFIER
+2025-06-09,Liechtenstein,Scotland,0,4,FRIENDLY
+2025-06-10,Haiti,Curaçao,1,5,QUALIFIER
+2025-06-15,Haiti,Saudi Arabia,0,1,QUALIFIER
+2025-06-19,Trinidad and Tobago,Haiti,1,1,QUALIFIER
+2025-06-22,United States,Haiti,2,1,QUALIFIER
+2025-09-05,Denmark,Scotland,0,0,QUALIFIER
+2025-09-05,Haiti,Honduras,0,0,QUALIFIER
+2025-09-08,Belarus,Scotland,0,2,QUALIFIER
+2025-09-09,Costa Rica,Haiti,3,3,QUALIFIER
+2025-10-09,Scotland,Greece,3,1,QUALIFIER
+2025-10-09,Nicaragua,Haiti,0,3,QUALIFIER
+2025-10-12,Scotland,Belarus,2,1,QUALIFIER
+2025-10-13,Honduras,Haiti,3,0,QUALIFIER
+2025-11-13,Haiti,Costa Rica,1,0,QUALIFIER
+2025-11-15,Greece,Scotland,3,2,QUALIFIER
+2025-11-18,Scotland,Denmark,4,2,QUALIFIER
+2025-11-18,Haiti,Nicaragua,2,0,QUALIFIER
+2026-03-28,Haiti,Tunisia,0,1,FRIENDLY
+2026-03-28,Scotland,Japan,0,1,FRIENDLY
+2026-03-31,Haiti,Iceland,1,1,FRIENDLY
+2026-03-31,Ivory Coast,Scotland,1,0,FRIENDLY
+2026-05-30,Scotland,Curaçao,4,1,FRIENDLY
+2026-06-02,Haiti,New Zealand,4,0,FRIENDLY
+2026-06-05,Haiti,Peru,1,2,FRIENDLY
+2026-06-06,Bolivia,Scotland,0,4,FRIENDLY
