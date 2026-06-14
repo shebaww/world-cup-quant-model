@@ -119,6 +119,8 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 
 Starting bankroll: **2,000 ETB**
 
+> **Note on sample size:** With ~15 bets placed so far, current P&L is pure noise. The model's 1.1% edge only becomes statistically detectable after 200–500 bets. Individual high-odds results (like Australia at 5.0) can swing the bankroll by hundreds of ETB in either direction — that's variance, not signal.
+
 ### Matchday 1 — June 12, 2026
 
 | Match | Bet | Odds | Stake | Result | P&L |
@@ -126,12 +128,44 @@ Starting bankroll: **2,000 ETB**
 | Canada vs Bosnia and Herzegovina | Canada | 1.87 | 196 ETB | **LOST** (0–1) | −196 ETB |
 | USA vs Paraguay | Paraguay | 3.85 | 104 ETB | **LOST** (0–0 draw) | −104 ETB |
 
-**Day 1 P&L: −300 ETB**
-**Bankroll: 1,700 ETB**
+**Day P&L: −300 ETB** | **Bankroll: 1,700 ETB**
 
-The model was highly confident on Canada (85% win probability as host nation) and saw Paraguay as undervalued at 3.85 odds. Both calls were wrong. Canada lost 0–1 to Bosnia, and Paraguay drew with USA.
+### Matchday 2 — June 13, 2026
 
-This is expected variance — statistically, even an 85% favourite loses 1 in 6 times. Two wrong calls on Day 1 says nothing about the model's long-term edge.
+| Match | Bet | Odds | Stake | Result | P&L |
+|---|---|---|---|---|---|
+| Qatar vs Switzerland | Qatar | 14.0 | 25 ETB | **LOST** (1–1 draw) | −25 ETB |
+| Brazil vs Morocco | Draw | 3.7 | 85 ETB | **WON** (1–1) | +230 ETB |
+| Haiti vs Scotland | Haiti | 6.0 | 48 ETB | **LOST** (0–1) | −48 ETB |
+
+**Day P&L: +157 ETB** | **Bankroll: 1,857 ETB**
+
+### Matchday 3 — June 14, 2026
+
+| Match | Bet | Odds | Stake | Result | P&L |
+|---|---|---|---|---|---|
+| Australia vs Türkiye | Australia | 5.0 | 123 ETB | **WON** (2–0) | +491 ETB |
+| Ivory Coast vs Ecuador | Draw | 2.85 | 23 ETB | pending | — |
+| Ivory Coast vs Ecuador | Ecuador | 2.45 | 8 ETB | pending | — |
+| Netherlands vs Japan | Japan | 3.65 | 49 ETB | pending | — |
+| Sweden vs Tunisia | Tunisia | 4.30 | 50 ETB | pending | — |
+| Germany vs Curaçao | Draw | 16.0 | 18 ETB | pending | — |
+| Germany vs Curaçao | Curaçao | 31.0 | 8 ETB | pending | — |
+
+**Day P&L (partial): +491 ETB** | **Bankroll: 2,348 ETB**
+
+### Running Total
+
+| Day | P&L | Bankroll | Note |
+|---|---|---|---|
+| Start | — | 2,000 ETB | — |
+| June 12 | −300 ETB | 1,700 ETB | Canada & Paraguay wrong |
+| June 13 | +157 ETB | 1,857 ETB | Brazil/Morocco draw hit |
+| June 14 | +491 ETB* | 2,348 ETB* | Australia 5.0 win; 6 bets pending |
+
+**Overall: +348 ETB (+17.4%) across ~15 settled bets**
+
+⚠️ This profit is driven almost entirely by one bet (Australia at 5.0 odds). Remove that single result and the model is −143 ETB. At 15 bets, this is noise — not evidence of edge.
 
 ---
 
