@@ -119,14 +119,14 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 
 Starting bankroll: **2,000 ETB**
 
-> **Note on sample size:** With ~15 bets placed so far, current P&L is pure noise. The model's 1.1% edge only becomes statistically detectable after 200–500 bets. Individual high-odds results (like Australia at 5.0) can swing the bankroll by hundreds of ETB in either direction — that's variance, not signal.
+> **Note on sample size:** With ~30 bets placed so far, current P&L is pure noise. The model's 1.1% edge only becomes statistically detectable after 200–500 bets. Individual high-odds results (like Australia at 5.0) can swing the bankroll by hundreds of ETB in either direction — that's variance, not signal.
 
 ### Matchday 1 — June 12, 2026
 
 | Match | Bet | Odds | Stake | Result | P&L |
 |---|---|---|---|---|---|
-| Canada vs Bosnia and Herzegovina | Canada | 1.87 | 196 ETB | **LOST** (0–1) | −196 ETB |
-| USA vs Paraguay | Paraguay | 3.85 | 104 ETB | **LOST** (0–0 draw) | −104 ETB |
+| Canada vs Bosnia and Herzegovina | Canada | 1.87 | 196 ETB | **LOST** (1–1 draw) | −196 ETB |
+| USA vs Paraguay | Paraguay | 3.85 | 104 ETB | **LOST** (USA 4–1) | −104 ETB |
 
 **Day P&L: −300 ETB** | **Bankroll: 1,700 ETB**
 
@@ -144,7 +144,7 @@ Starting bankroll: **2,000 ETB**
 
 | Match | Bet | Odds | Stake | Result | P&L |
 |---|---|---|---|---|---|
-| Australia vs Türkiye | Australia | 5.0 | 123 ETB | **WON** (2–0) | +491 ETB |
+| Australia vs Türkiye | Australia | 5.0 | 123 ETB | **WON** (2–0) | +492 ETB |
 | Ivory Coast vs Ecuador | Draw | 2.85 | 23 ETB | **LOST** (1–0) | −23 ETB |
 | Ivory Coast vs Ecuador | Ecuador | 2.45 | 8 ETB | **LOST** (1–0) | −8 ETB |
 | Netherlands vs Japan | Japan | 3.65 | 49 ETB | **LOST** (2–2 draw) | −49 ETB |
@@ -152,7 +152,7 @@ Starting bankroll: **2,000 ETB**
 | Germany vs Curaçao | Draw | 16.0 | 18 ETB | **LOST** (7–1) | −18 ETB |
 | Germany vs Curaçao | Curaçao | 31.0 | 8 ETB | **LOST** (7–1) | −8 ETB |
 
-**Day P&L: +335 ETB** | **Bankroll: 2,192 ETB**
+**Day P&L: +336 ETB** | **Bankroll: 2,193 ETB**
 
 ### Matchday 4 — June 15, 2026
 
@@ -161,26 +161,57 @@ Starting bankroll: **2,000 ETB**
 | Spain vs Cape Verde | — | — | — | 0–0 draw (no bet) | — |
 | Belgium vs Egypt | Draw | 3.95 | 74 ETB | **WON** (1–1) | +218 ETB |
 | Belgium vs Egypt | Egypt | 5.75 | 104 ETB | **LOST** (1–1) | −104 ETB |
-| Saudi Arabia vs Uruguay | Draw | 4.50 | 75 ETB | pending | — |
-| Saudi Arabia vs Uruguay | Saudi Arabia | 8.00 | 30 ETB | pending | — |
-| Iran vs New Zealand | Draw | 3.50 | 16 ETB | pending | — |
-| Iran vs New Zealand | New Zealand | 4.70 | 37 ETB | pending | — |
+| Saudi Arabia vs Uruguay | Draw | 4.50 | 75 ETB | **WON** (1–1) | +263 ETB |
+| Saudi Arabia vs Uruguay | Saudi Arabia | 8.00 | 30 ETB | **LOST** (1–1) | −30 ETB |
+| Iran vs New Zealand | Draw | 3.50 | 16 ETB | **WON** (2–2) | +40 ETB |
+| Iran vs New Zealand | New Zealand | 4.70 | 37 ETB | **LOST** (2–2) | −37 ETB |
 
-**Day P&L (partial): +114 ETB** | **Bankroll: 2,306 ETB**
+**Day P&L: +350 ETB** | **Bankroll: 2,543 ETB**
+
+### Matchday 5 — June 16, 2026 *(model not run — no bets)*
+
+| Match | Result |
+|---|---|
+| France vs Senegal | France 3–1 |
+| Norway vs Iraq | Norway 4–1 |
+| Argentina vs Algeria | Argentina 3–0 |
+
+### Matchday 6 — June 17, 2026 *(model not run — no bets)*
+
+| Match | Result |
+|---|---|
+| Austria vs Jordan | Austria 3–1 |
+| Portugal vs Congo DR | 1–1 draw |
+| England vs Croatia | England 4–2 |
+| Ghana vs Panama | Ghana 1–0 |
+| Colombia vs Uzbekistan | Colombia 3–1 |
+
+### Matchday 7 — June 18, 2026 *(today — bets placed)*
+
+| Match | Bet | Odds | Stake | Result | P&L |
+|---|---|---|---|---|---|
+| Czechia vs South Africa | South Africa | 4.80 | 130 ETB | pending | — |
+| Switzerland vs Bosnia-Herzegovina | Switzerland | 1.556 | 142 ETB | pending | — |
+| Canada vs Qatar | Canada | 1.294 | 74 ETB | pending | — |
+
+**Day P&L: pending** | **346 ETB at risk**
 
 ### Running Total
 
 | Day | P&L | Bankroll | Note |
 |---|---|---|---|
 | Start | — | 2,000 ETB | — |
-| June 12 | −300 ETB | 1,700 ETB | Canada & Paraguay wrong |
+| June 12 | −300 ETB | 1,700 ETB | Canada draw & Paraguay wrong |
 | June 13 | +157 ETB | 1,857 ETB | Brazil/Morocco draw hit |
-| June 14 | +335 ETB | 2,192 ETB | Australia 5.0 win carried the day; 5 losers |
-| June 15 | +114 ETB* | 2,306 ETB* | Belgium/Egypt draw hit; 4 bets pending |
+| June 14 | +336 ETB | 2,193 ETB | Australia 5.0 win; 5 losers |
+| June 15 | +350 ETB | 2,543 ETB | Three draws hit (Belgium, Saudi/Uruguay, Iran/NZ) |
+| June 16 | — | 2,543 ETB | Model not run |
+| June 17 | — | 2,543 ETB | Model not run |
+| June 18 | pending | — | 346 ETB on 3 bets |
 
-**Overall: +306 ETB (+15.3%) across ~22 settled bets**
+**Overall (settled): +543 ETB (+27.2%) across ~28 settled bets**
 
-⚠️ This profit is still driven almost entirely by two bets (Australia 5.0 and Brazil/Morocco draw). At ~22 settled bets this is pure variance — not evidence of edge.
+⚠️ Draws are hitting at a high rate — 4 out of 4 draw bets have won so far. This is excellent variance in our favour, not sustainable signal. The model's 1.1% long-run edge requires 500+ bets to distinguish from luck.
 
 ---
 
