@@ -18,7 +18,7 @@ import pandas as pd
 
 from data_loader import load_fixtures
 from dixon_coles import DixonColesModel
-from kelly import build_bet_sheet, TOTAL_BANKROLL_ETB
+from kelly import build_bet_sheet, half_kelly, TOTAL_BANKROLL_ETB, MAX_MATCHDAY_FRACTION, SLIPPAGE, EDGE_FLOOR
 from bet_executor import place_bet, AUTH_FILE
 
 # ── Constants ────────────────────────────────────────────────────────────────
@@ -164,6 +164,78 @@ def display_actionable(sheet: pd.DataFrame, label: str) -> pd.DataFrame:
               f"(model: {r['Model Probability']*100:.1f}%)")
     return act
 
+def verify_melbet_odds(actionable: pd.DataFrame) -> pd.DataFrame:
+    """
+    Walk through each qualifying bet, let user correct ESPN odds to melbet's
+    actual odds, then recompute Kelly stakes. Bets that lose edge at melbet
+    odds are dropped with a warning.
+    """
+    print("\n  ESPN odds may differ from melbet. Check each one and enter the")
+    print("  real melbet odds — or press Enter to keep the ESPN figure.\n")
+
+    rows = []
+    for _, r in actionable.iterrows():
+        espn_odds = r["Market Odds"]
+        prob      = r["Model Probability"]
+        label     = f"  {r['Match']}  |  {r['Recommended Choice']}"
+
+        raw = input(f"{label}\n    ESPN: {espn_odds}  →  Melbet odds (Enter to keep): ").strip()
+
+        if raw == "":
+            melbet_odds = espn_odds
+        else:
+            try:
+                melbet_odds = float(raw)
+            except ValueError:
+                print("    Invalid — keeping ESPN odds.")
+                melbet_odds = espn_odds
+
+        fk = half_kelly(prob, melbet_odds)
+
+        if fk == 0.0:
+            adj = melbet_odds - SLIPPAGE
+            edge = (prob * adj) - 1
+            if edge < EDGE_FLOOR:
+                print(f"    ✗ DROPPED — edge vanishes at melbet odds "
+                      f"(edge {edge*100:.2f}% < {EDGE_FLOOR*100:.1f}% floor)\n")
+                continue
+
+        rows.append({
+            "Match":               r["Match"],
+            "Recommended Choice":  r["Recommended Choice"],
+            "Model Probability":   prob,
+            "Market Odds":         melbet_odds,
+            "_espn_odds":          espn_odds,
+            "_raw_f":              fk,
+        })
+        print()
+
+    if not rows:
+        return pd.DataFrame()
+
+    df = pd.DataFrame(rows)
+
+    # Reapply 15% daily cap
+    total_f = df["_raw_f"].sum()
+    if total_f > MAX_MATCHDAY_FRACTION:
+        df["_raw_f"] *= MAX_MATCHDAY_FRACTION / total_f
+
+    br = TOTAL_BANKROLL_ETB
+    df["Allocation (Br)"] = (df["_raw_f"] * br).round(2)
+    df["Half-Kelly %"]    = (df["_raw_f"] * 100).round(4)
+
+    # Show any stake changes
+    section("Recalculated stakes using melbet odds")
+    for _, r in df.iterrows():
+        espn = r["_espn_odds"]
+        mb   = r["Market Odds"]
+        flag = f"  (ESPN was {espn})" if mb != espn else ""
+        print(f"  {r['Match']}  |  {r['Recommended Choice']}")
+        print(f"    Odds: {mb}  →  {r['Allocation (Br)']:.0f} ETB{flag}\n")
+
+    return df.drop(columns=["_raw_f", "_espn_odds"])
+
+
 async def place_all_interactive(actionable: pd.DataFrame) -> int:
     if actionable.empty:
         return 0
@@ -291,7 +363,16 @@ async def main():
     total = combined["Allocation (Br)"].sum()
     pct   = 100 * total / TOTAL_BANKROLL_ETB
     section(f"Summary: {len(combined)} bet(s)  |  {total:.0f} ETB at risk  ({pct:.1f}% of bankroll)")
-    print()
+
+    # ── Verify odds against melbet before placing ──────────────────────────────
+    combined = verify_melbet_odds(combined)
+    if combined.empty:
+        print("\n  No bets remain after melbet odds verification.\n")
+        return
+
+    total = combined["Allocation (Br)"].sum()
+    pct   = 100 * total / TOTAL_BANKROLL_ETB
+    print(f"  Final: {len(combined)} bet(s)  |  {total:.0f} ETB at risk  ({pct:.1f}% of bankroll)\n")
 
     go = input("  Proceed to place bets on melbet? [y/n]: ").strip().lower()
     if go != "y":
