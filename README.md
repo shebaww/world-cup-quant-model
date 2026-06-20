@@ -186,15 +186,35 @@ Starting bankroll: **2,000 ETB**
 | Ghana vs Panama | Ghana 1–0 |
 | Colombia vs Uzbekistan | Colombia 3–1 |
 
-### Matchday 7 — June 18, 2026 *(today — bets placed)*
+### Matchday 7 — June 18, 2026
 
 | Match | Bet | Odds | Stake | Result | P&L |
 |---|---|---|---|---|---|
-| Czechia vs South Africa | South Africa | 4.80 | 130 ETB | pending | — |
-| Switzerland vs Bosnia-Herzegovina | Switzerland | 1.556 | 142 ETB | pending | — |
-| Canada vs Qatar | Canada | 1.294 | 74 ETB | pending | — |
+| Czechia vs South Africa | South Africa | 4.80 | 130 ETB | **LOST** (1–1 draw) | −130 ETB |
+| Switzerland vs Bosnia-Herzegovina | Switzerland | 1.556 | 142 ETB | **WON** (4–1) | +79 ETB |
+| Canada vs Qatar | Canada | 1.294 | 74 ETB | **WON** (6–0) | +22 ETB |
 
-**Day P&L: pending** | **346 ETB at risk**
+**Day P&L: −29 ETB** | **Bankroll: 2,513 ETB**
+
+### Matchday 8 — June 19, 2026 *(model not run — no bets)*
+
+| Match | Result |
+|---|---|
+| USA vs Australia | USA 2–0 |
+| Morocco vs Scotland | Morocco 1–0 |
+| Brazil vs Haiti | Brazil 3–0 |
+| Türkiye vs Paraguay | Paraguay 1–0 |
+
+### Matchday 9 — June 20, 2026 *(today — bets placed)*
+
+| Match | Bet | Odds | Stake | Result | P&L |
+|---|---|---|---|---|---|
+| Netherlands vs Sweden | Netherlands | 1.714 | 183 ETB | pending | — |
+| Germany vs Ivory Coast | Draw | 4.60 | 93 ETB | pending | — |
+| Germany vs Ivory Coast | Ivory Coast | 6.50 | 57 ETB | pending | — |
+| Ecuador vs Curaçao | Draw | 8.50 | 49 ETB | pending | — |
+
+**Day P&L: pending** | **382 ETB at risk**
 
 ### Running Total
 
@@ -207,11 +227,13 @@ Starting bankroll: **2,000 ETB**
 | June 15 | +350 ETB | 2,543 ETB | Three draws hit (Belgium, Saudi/Uruguay, Iran/NZ) |
 | June 16 | — | 2,543 ETB | Model not run |
 | June 17 | — | 2,543 ETB | Model not run |
-| June 18 | pending | — | 346 ETB on 3 bets |
+| June 18 | −29 ETB | 2,513 ETB | South Africa drew; Switzerland & Canada won |
+| June 19 | — | 2,513 ETB | Model not run |
+| June 20 | pending | — | 382 ETB on 4 bets |
 
-**Overall (settled): +543 ETB (+27.2%) across ~28 settled bets**
+**Overall (settled): +513 ETB (+25.7%) across ~31 settled bets**
 
-⚠️ Draws are hitting at a high rate — 4 out of 4 draw bets have won so far. This is excellent variance in our favour, not sustainable signal. The model's 1.1% long-run edge requires 500+ bets to distinguish from luck.
+⚠️ Draws are hitting at a high rate — 4 out of 4 draw bets won across days 4–5. South Africa's surprise draw on day 7 was a costly reminder that large underdog bets carry real variance. The model's 1.1% long-run edge requires 500+ bets to distinguish from luck.
 
 ---
 
