@@ -239,7 +239,7 @@ class DixonColesModel:
         if neutral:
             gamma = 1.0
         else:
-            gamma = self.gamma_ if home == self.host_team else 1.0
+            gamma = self.gamma_ if (self.host_team is None or home == self.host_team) else 1.0
         a_home = self.alpha_.get(home) or self._fallback(home)[0]
         b_away = self.beta_.get(away)  or self._fallback(away)[1]
         a_away = self.alpha_.get(away) or self._fallback(away)[0]

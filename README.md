@@ -264,10 +264,34 @@ The core rule: **it's not about who wins, it's about whether the odds pay you en
 
 ---
 
+## Club Football Model
+
+The same Dixon-Coles engine extended to Premier League, La Liga, Bundesliga, Serie A, and Ligue 1 — where 500+ bets per season make edge statistically measurable.
+
+Key difference from the WC model: home advantage (γ) applies to **all** home teams, not just the tournament host.
+
+```bash
+# Download 11 seasons of top-5 league data (~19,000 matches, run once):
+python club_main.py --fetch
+
+# Generate today's bet sheet for any league:
+python club_main.py --league epl
+python club_main.py --league laliga
+python club_main.py --league bundesliga
+python club_main.py --league seriea
+python club_main.py --league ligue1
+
+# Provide your own odds CSV:
+python club_main.py --league epl --odds my_odds.csv
+```
+
+---
+
 ## Project Structure
 
 ```
-├── main.py              # Entry point — fit model, simulate, generate bet sheet
+├── main.py              # WC entry point — fit model, simulate, generate bet sheet
+├── club_main.py         # Club football entry point (EPL, La Liga, Bundesliga, etc.)
 ├── dixon_coles.py       # Dixon-Coles Poisson model + temperature calibration
 ├── simulator.py         # Monte Carlo tournament simulator (100k runs)
 ├── elo.py               # Elo model (market proxy for backtesting)
@@ -275,7 +299,8 @@ The core rule: **it's not about who wins, it's about whether the odds pay you en
 ├── backtest.py          # Walk-forward backtest (DC vs Elo)
 ├── calibrate.py         # Sweep time-decay parameter PHI
 ├── data_loader.py       # CSV validation and loading
-├── data_fetcher.py      # Download real match data from GitHub
+├── data_fetcher.py      # Download real international match data from GitHub
+├── club_data_fetcher.py # Download club football data from football-data.co.uk
 ├── odds_scraper.py      # Scrape historical odds from ESPN
 ├── generate_fixtures.py # Generate synthetic test fixtures
 ├── tests.py             # Unit tests
