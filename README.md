@@ -117,9 +117,13 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 
 ## Live Results — WC 2026
 
-Starting bankroll: **2,000 ETB**
+> 🟢 **LIVE** — Real money bets placed on [melbet-et.com](https://melbet-et.com) using automated execution via `morning.py` + `bet_executor.py`.
 
-> **Note on sample size:** With ~30 bets placed so far, current P&L is pure noise. The model's 1.1% edge only becomes statistically detectable after 200–500 bets. Individual high-odds results (like Australia at 5.0) can swing the bankroll by hundreds of ETB in either direction — that's variance, not signal.
+**Starting bankroll: 2,000 ETB** | **Current bankroll: 2,513 ETB** | **Overall: +513 ETB (+25.7%)**
+
+> **June 12–19 results are real tracked bets.** From June 20 onwards, bets are placed live on melbet-et.com via the automated workflow. Bankroll reflects actual account balance.
+
+> **Note on sample size:** ~31 settled bets is still noise. The model's 1.1% edge only becomes statistically detectable after 200–500 bets. The EPL 2026–27 season (starting August) is where real validation happens — 380 matches per season.
 
 ### Matchday 1 — June 12, 2026
 
