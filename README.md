@@ -205,16 +205,16 @@ Starting bankroll: **2,000 ETB**
 | Brazil vs Haiti | Brazil 3–0 |
 | Türkiye vs Paraguay | Paraguay 1–0 |
 
-### Matchday 9 — June 20, 2026 *(today — bets placed)*
+### Matchday 9 — June 20, 2026 *(today — bets placed, model retrained on group stage results)*
 
 | Match | Bet | Odds | Stake | Result | P&L |
 |---|---|---|---|---|---|
-| Netherlands vs Sweden | Netherlands | 1.714 | 183 ETB | pending | — |
-| Germany vs Ivory Coast | Draw | 4.60 | 93 ETB | pending | — |
-| Germany vs Ivory Coast | Ivory Coast | 6.50 | 57 ETB | pending | — |
-| Ecuador vs Curaçao | Draw | 8.50 | 49 ETB | pending | — |
+| Netherlands vs Sweden | Netherlands | 1.714 | 175 ETB | pending | — |
+| Germany vs Ivory Coast | Draw | 4.60 | 119 ETB | pending | — |
+| Germany vs Ivory Coast | Ivory Coast | 6.50 | 59 ETB | pending | — |
+| Ecuador vs Curaçao | Draw | 8.50 | 24 ETB | pending | — |
 
-**Day P&L: pending** | **382 ETB at risk**
+**Day P&L: pending** | **377 ETB at risk**
 
 ### Running Total
 
@@ -229,7 +229,7 @@ Starting bankroll: **2,000 ETB**
 | June 17 | — | 2,543 ETB | Model not run |
 | June 18 | −29 ETB | 2,513 ETB | South Africa drew; Switzerland & Canada won |
 | June 19 | — | 2,513 ETB | Model not run |
-| June 20 | pending | — | 382 ETB on 4 bets |
+| June 20 | pending | — | 377 ETB on 4 bets (model retrained on group stage) |
 
 **Overall (settled): +513 ETB (+25.7%) across ~31 settled bets**
 
