@@ -1,27 +1,32 @@
 #!/usr/bin/env python3
 """
-Morning betting workflow — interactive odds fetch, model run, and bet placement.
+Morning betting workflow — fetch odds, run model, verify against melbet, print bet sheet.
 
 Usage:
     python morning.py          # interactive menu
-    python morning.py wc       # skip menu, run World Cup directly
-    python morning.py epl      # skip menu, run EPL directly
+    python morning.py wc       # World Cup
+    python morning.py epl      # Premier League
+    python morning.py laliga   # La Liga
+    python morning.py bundesliga
+    python morning.py seriea
+    python morning.py ligue1
+    python morning.py all      # all club leagues
 """
-import asyncio
 import json
 import sys
 import urllib.request
 from datetime import date
-from pathlib import Path
 
 import pandas as pd
 
 from data_loader import load_fixtures
 from dixon_coles import DixonColesModel
-from kelly import build_bet_sheet, half_kelly, TOTAL_BANKROLL_ETB, MAX_MATCHDAY_FRACTION, SLIPPAGE, EDGE_FLOOR
-from bet_executor import place_bet, AUTH_FILE
+from kelly import (
+    build_bet_sheet, half_kelly,
+    TOTAL_BANKROLL_ETB, MAX_MATCHDAY_FRACTION, SLIPPAGE, EDGE_FLOOR,
+)
 
-# ── Constants ────────────────────────────────────────────────────────────────
+# ── Constants ─────────────────────────────────────────────────────────────────
 
 CLUB_LEAGUES = {
     "2": ("epl",         "Premier League"),
@@ -131,16 +136,16 @@ def _bet_sheet(odds_df: pd.DataFrame, model: DixonColesModel) -> pd.DataFrame:
 
 def run_wc(odds_df: pd.DataFrame) -> pd.DataFrame:
     print("  Loading WC fixtures & fitting model...")
-    df       = load_fixtures("real_fixtures.csv")
-    ref      = pd.Timestamp.today().normalize()
-    model    = DixonColesModel(host_team="Canada").fit(df, ref)
-    cal_df   = df[df["date"] >= ref - pd.Timedelta(days=365)]
+    df     = load_fixtures("real_fixtures.csv")
+    ref    = pd.Timestamp.today().normalize()
+    model  = DixonColesModel(host_team="Canada").fit(df, ref)
+    cal_df = df[df["date"] >= ref - pd.Timedelta(days=365)]
     model.fit_calibration(cal_df)
     print(f"  γ={model.gamma_:.4f}  ρ={model.rho_:.4f}  T={model.temperature_:.4f}")
     return _bet_sheet(odds_df, model)
 
 def run_club(league_key: str, odds_df: pd.DataFrame) -> pd.DataFrame:
-    print(f"  Loading club fixtures & fitting model...")
+    print("  Loading club fixtures & fitting model...")
     df     = load_fixtures("club_fixtures.csv")
     ref    = pd.Timestamp.today().normalize()
     model  = DixonColesModel(host_team=None).fit(df, ref)
@@ -149,7 +154,7 @@ def run_club(league_key: str, odds_df: pd.DataFrame) -> pd.DataFrame:
     print(f"  γ={model.gamma_:.4f}  ρ={model.rho_:.4f}  T={model.temperature_:.4f}")
     return _bet_sheet(odds_df, model)
 
-# ── Display & placement ───────────────────────────────────────────────────────
+# ── Display ───────────────────────────────────────────────────────────────────
 
 def display_actionable(sheet: pd.DataFrame, label: str) -> pd.DataFrame:
     act = sheet[sheet["Allocation (Br)"] > 0].copy().reset_index(drop=True)
@@ -164,22 +169,23 @@ def display_actionable(sheet: pd.DataFrame, label: str) -> pd.DataFrame:
               f"(model: {r['Model Probability']*100:.1f}%)")
     return act
 
+# ── Melbet odds verification ──────────────────────────────────────────────────
+
 def verify_melbet_odds(actionable: pd.DataFrame) -> pd.DataFrame:
     """
-    Walk through each qualifying bet, let user correct ESPN odds to melbet's
-    actual odds, then recompute Kelly stakes. Bets that lose edge at melbet
-    odds are dropped with a warning.
+    For each qualifying bet, ask for melbet's live odds and recompute Kelly.
+    Drops bets whose edge disappears at melbet prices.
     """
-    print("\n  ESPN odds may differ from melbet. Check each one and enter the")
-    print("  real melbet odds — or press Enter to keep the ESPN figure.\n")
+    print("\n  ESPN odds are a starting point — melbet will differ.")
+    print("  Enter melbet's actual odds for each bet, or press Enter to keep ESPN's.\n")
 
     rows = []
     for _, r in actionable.iterrows():
         espn_odds = r["Market Odds"]
         prob      = r["Model Probability"]
-        label     = f"  {r['Match']}  |  {r['Recommended Choice']}"
 
-        raw = input(f"{label}\n    ESPN: {espn_odds}  →  Melbet odds (Enter to keep): ").strip()
+        raw = input(f"  {r['Match']}  |  {r['Recommended Choice']}\n"
+                    f"    ESPN: {espn_odds}  →  Melbet odds (Enter to keep): ").strip()
 
         if raw == "":
             melbet_odds = espn_odds
@@ -187,26 +193,24 @@ def verify_melbet_odds(actionable: pd.DataFrame) -> pd.DataFrame:
             try:
                 melbet_odds = float(raw)
             except ValueError:
-                print("    Invalid — keeping ESPN odds.")
+                print("    Invalid number — keeping ESPN odds.")
                 melbet_odds = espn_odds
 
         fk = half_kelly(prob, melbet_odds)
 
         if fk == 0.0:
-            adj = melbet_odds - SLIPPAGE
-            edge = (prob * adj) - 1
-            if edge < EDGE_FLOOR:
-                print(f"    ✗ DROPPED — edge vanishes at melbet odds "
-                      f"(edge {edge*100:.2f}% < {EDGE_FLOOR*100:.1f}% floor)\n")
-                continue
+            edge = (prob * (melbet_odds - SLIPPAGE)) - 1
+            print(f"    ✗ DROPPED — no edge at melbet odds "
+                  f"({edge*100:.2f}% < {EDGE_FLOOR*100:.1f}% floor)\n")
+            continue
 
         rows.append({
-            "Match":               r["Match"],
-            "Recommended Choice":  r["Recommended Choice"],
-            "Model Probability":   prob,
-            "Market Odds":         melbet_odds,
-            "_espn_odds":          espn_odds,
-            "_raw_f":              fk,
+            "Match":              r["Match"],
+            "Recommended Choice": r["Recommended Choice"],
+            "Model Probability":  prob,
+            "Market Odds":        melbet_odds,
+            "_espn_odds":         espn_odds,
+            "_raw_f":             fk,
         })
         print()
 
@@ -220,79 +224,23 @@ def verify_melbet_odds(actionable: pd.DataFrame) -> pd.DataFrame:
     if total_f > MAX_MATCHDAY_FRACTION:
         df["_raw_f"] *= MAX_MATCHDAY_FRACTION / total_f
 
-    br = TOTAL_BANKROLL_ETB
-    df["Allocation (Br)"] = (df["_raw_f"] * br).round(2)
+    df["Allocation (Br)"] = (df["_raw_f"] * TOTAL_BANKROLL_ETB).round(2)
     df["Half-Kelly %"]    = (df["_raw_f"] * 100).round(4)
-
-    # Show any stake changes
-    section("Recalculated stakes using melbet odds")
-    for _, r in df.iterrows():
-        espn = r["_espn_odds"]
-        mb   = r["Market Odds"]
-        flag = f"  (ESPN was {espn})" if mb != espn else ""
-        print(f"  {r['Match']}  |  {r['Recommended Choice']}")
-        print(f"    Odds: {mb}  →  {r['Allocation (Br)']:.0f} ETB{flag}\n")
 
     return df.drop(columns=["_raw_f", "_espn_odds"])
 
-
-async def place_all_interactive(actionable: pd.DataFrame) -> int:
-    if actionable.empty:
-        return 0
-    if not Path(AUTH_FILE).exists():
-        print(f"\n  ⚠  '{AUTH_FILE}' not found.")
-        print("     Run  python bet_executor.py auth  first, then come back.")
-        return 0
-
-    placed = 0
-    print()
-    for i, row in actionable.iterrows():
-        stake  = row["Allocation (Br)"]
-        choice = row["Recommended Choice"]
-        odds   = row["Market Odds"]
-        match  = row["Match"]
-
-        prompt = (f"  Place [{i+1}] {match}  |  {choice} @ {odds}"
-                  f"  |  {stake:.0f} ETB   [y / n / q to quit]: ")
-        ans = input(prompt).strip().lower()
-
-        if ans == "q":
-            print("  Stopping placement.")
-            break
-        if ans != "y":
-            print("  Skipped.")
-            continue
-
-        print(f"\n  Go to melbet-et.com, find this match, and:")
-        print(f"  1. Right-click the '{choice}' odds button → Inspect")
-        print(f"  2. Right-click the highlighted element → Copy → Copy selector")
-        url      = input("  Paste the match URL       : ").strip()
-        selector = input("  Paste the CSS selector    : ").strip()
-
-        print("  Launching browser to place bet...")
-        try:
-            await place_bet(url, selector, float(stake))
-            print(f"  ✓ Bet placed: {choice} @ {odds} for {stake:.0f} ETB")
-            placed += 1
-        except Exception as e:
-            print(f"  ✗ Failed: {e}")
-        print()
-
-    return placed
-
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-async def main():
+def main():
     banner()
 
-    # CLI shortcut: python morning.py wc / epl / laliga / etc.
     if len(sys.argv) > 1:
-        alias = sys.argv[1].lower()
+        alias  = sys.argv[1].lower()
         choice = CLI_ALIASES.get(alias)
         if not choice:
-            print(f"Unknown alias '{alias}'. Options: {list(CLI_ALIASES)}")
+            print(f"  Unknown alias '{alias}'. Options: {list(CLI_ALIASES)}")
             sys.exit(1)
-        print(f"  Running: {alias.upper()}")
+        print(f"  Running: {alias.upper()}\n")
     else:
         choice = menu()
 
@@ -312,46 +260,43 @@ async def main():
         else:
             print(f"  {len(odds_df)} fixture(s) found.")
             sheet = run_wc(odds_df)
-            act   = display_actionable(sheet, "World Cup")
-            all_actionable.append(act)
+            all_actionable.append(display_actionable(sheet, "World Cup"))
 
     # ── Single club league ──
     elif choice in CLUB_LEAGUES:
         league_key, display = CLUB_LEAGUES[choice]
         section(display)
-        print(f"  Fetching live odds from ESPN...")
+        print("  Fetching live odds from ESPN...")
         odds_df = fetch_club_odds(league_key)
         if odds_df.empty:
             print("  No fixtures scheduled today with odds.")
         else:
             print(f"  {len(odds_df)} fixture(s) found.")
             sheet = run_club(league_key, odds_df)
-            act   = display_actionable(sheet, display)
-            all_actionable.append(act)
+            all_actionable.append(display_actionable(sheet, display))
 
     # ── All club leagues ──
     elif choice == "7":
         for _, (league_key, display) in CLUB_LEAGUES.items():
             section(display)
-            print(f"  Fetching live odds from ESPN...")
+            print("  Fetching live odds from ESPN...")
             try:
                 odds_df = fetch_club_odds(league_key)
             except Exception as e:
-                print(f"  Failed to fetch odds: {e}")
+                print(f"  Failed: {e}")
                 continue
             if odds_df.empty:
                 print("  No fixtures today.")
                 continue
             print(f"  {len(odds_df)} fixture(s) found.")
             sheet = run_club(league_key, odds_df)
-            act   = display_actionable(sheet, display)
-            all_actionable.append(act)
+            all_actionable.append(display_actionable(sheet, display))
 
     else:
         print("  Invalid choice.")
         return
 
-    # ── Summary & placement ──
+    # ── Combine & verify ──────────────────────────────────────────────────────
     combined = pd.concat(
         [a for a in all_actionable if not a.empty], ignore_index=True
     ) if all_actionable else pd.DataFrame()
@@ -362,37 +307,29 @@ async def main():
 
     total = combined["Allocation (Br)"].sum()
     pct   = 100 * total / TOTAL_BANKROLL_ETB
-    section(f"Summary: {len(combined)} bet(s)  |  {total:.0f} ETB at risk  ({pct:.1f}% of bankroll)")
+    section(f"Model output: {len(combined)} bet(s)  |  {total:.0f} ETB  ({pct:.1f}% of bankroll)")
 
-    # ── Verify odds against melbet before placing ──────────────────────────────
     combined = verify_melbet_odds(combined)
+
     if combined.empty:
-        print("\n  No bets remain after melbet odds verification.\n")
+        print("\n  No bets remain after odds check. Nothing to place today.\n")
         return
 
     total = combined["Allocation (Br)"].sum()
     pct   = 100 * total / TOTAL_BANKROLL_ETB
-    print(f"  Final: {len(combined)} bet(s)  |  {total:.0f} ETB at risk  ({pct:.1f}% of bankroll)\n")
-
-    go = input("  Proceed to place bets on melbet? [y/n]: ").strip().lower()
-    if go != "y":
-        print("\n  Exiting without placing bets.")
-        print(f"  Run again when ready, or place manually using the sheet above.\n")
-        return
-
-    placed = await place_all_interactive(combined)
-
-    section(f"Done: {placed}/{len(combined)} bets placed")
-    if placed > 0:
-        net = input("\n  After results: enter net P&L to update bankroll (or press Enter to skip): ").strip()
-        if net:
-            try:
-                from kelly import update_bankroll
-                update_bankroll(float(net))
-            except ValueError:
-                print("  Invalid number — update bankroll manually.")
+    section(f"Final bet sheet — place these manually on melbet")
     print()
+    for _, r in combined.iterrows():
+        print(f"  {r['Match']}")
+        print(f"    Bet    : {r['Recommended Choice']}")
+        print(f"    Odds   : {r['Market Odds']}")
+        print(f"    Stake  : {r['Allocation (Br)']:.0f} ETB")
+        print(f"    Model  : {r['Model Probability']*100:.1f}% probability")
+        print()
+    print(f"  Total stake : {total:.0f} ETB  ({pct:.1f}% of bankroll)")
+    print(f"\n  Tonight, update bankroll:")
+    print(f"  python -c \"from kelly import update_bankroll; update_bankroll(X)\"\n")
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
