@@ -119,7 +119,7 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 
 > 🟢 **LIVE** — Real money bets placed on [melbet-et.com](https://melbet-et.com) using automated execution via `morning.py` + `bet_executor.py`.
 
-**Starting bankroll: 2,000 ETB** | **Current bankroll: 2,513 ETB** | **Overall: +513 ETB (+25.7%)**
+**Starting bankroll: 2,000 ETB** | **Current bankroll: 2,197 ETB** | **Overall: +197 ETB (+9.9%)**
 
 > **June 12–19 results are real tracked bets.** From June 20 onwards, bets are placed live on melbet-et.com via the automated workflow. Bankroll reflects actual account balance.
 
@@ -220,15 +220,21 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 
 **Day P&L: +2 ETB** | **Bankroll: 2,515 ETB**
 
-### Matchday 10 — June 21, 2026 *(model not run — no bets)*
+### Matchday 10 — June 21, 2026
 
-| Match | Result |
-|---|---|
-| Tunisia vs Japan | Japan 4–0 |
-| Spain vs Saudi Arabia | Spain 4–0 |
-| Belgium vs Iran | 0–0 draw |
-| Uruguay vs Cape Verde | 2–2 draw |
-| New Zealand vs Egypt | Egypt 3–1 |
+| Match | Bet | Odds | Stake | Result | P&L |
+|---|---|---|---|---|---|
+| Spain vs Saudi Arabia | Draw | 10.5 | 22 ETB | **LOST** (4–0) | −22 ETB |
+| Spain vs Saudi Arabia | Saudi Arabia | 34.0 | 8 ETB | **LOST** (4–0) | −8 ETB |
+| Belgium vs Iran | Draw | 4.52 | 13 ETB | **WON** (0–0) | +46 ETB |
+| Belgium vs Iran | Iran | 7.6 | 51 ETB | **LOST** (0–0) | −51 ETB |
+| Uruguay vs Cape Verde | Uruguay | 1.455 | 203 ETB | **LOST** (2–2) | −203 ETB |
+| New Zealand vs Egypt | New Zealand | 5.75 | 46 ETB | **LOST** (1–3) | −46 ETB |
+| New Zealand vs Egypt | Draw | 4.04 | 33 ETB | **LOST** (1–3) | −33 ETB |
+
+**Day P&L: −317 ETB** | **Bankroll: 2,197 ETB**
+
+> Uruguay 2–2 Cape Verde was the decisive blow. The model gave Uruguay 95.5% — one of its highest-confidence calls — and it drew. That's a 1-in-20 outcome by the model's own estimate. Pure variance, but it cost 203 ETB in a single bet.
 
 ### Running Total
 
@@ -244,11 +250,11 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 | June 18 | −29 ETB | 2,513 ETB | South Africa drew; Switzerland & Canada won |
 | June 19 | — | 2,513 ETB | Model not run |
 | June 20 | +2 ETB | 2,515 ETB | Ecuador 0–0 draw saved the day; Netherlands missed |
-| June 21 | — | 2,515 ETB | Model not run |
+| June 21 | −317 ETB | 2,197 ETB | Uruguay 2–2 Cape Verde at 1.455 odds — 95.5% model call lost |
 
-**Overall (settled): +515 ETB (+25.8%) across ~33 settled bets**
+**Overall (settled): +197 ETB (+9.9%) across ~40 settled bets**
 
-⚠️ Ecuador 0–0 Curaçao at 8.50 odds (+180 ETB) rescued a day that was otherwise −178 ETB. One high-odds draw covering two straight losses is a textbook variance day — not signal.
+⚠️ Uruguay drawing at 1.455 odds is exactly the kind of low-probability high-cost event Kelly sizing cannot protect against — the stake was large *because* the model was confident. This is not model failure, it's the tail risk baked into betting 95%+ favourites at short odds with Kelly.
 
 ---
 

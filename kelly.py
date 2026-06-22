@@ -1,7 +1,7 @@
 """Fractional Kelly position sizing layer in ETB."""
 import pandas as pd
 
-TOTAL_BANKROLL_ETB: float = 2_514.51
+TOTAL_BANKROLL_ETB: float = 2_197.27
 MAX_MATCHDAY_FRACTION = 0.15
 
 
