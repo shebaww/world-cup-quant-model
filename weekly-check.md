@@ -169,6 +169,13 @@ If this happens: pause betting, do a full retrain with a longer data window, and
 
 ## Quick reference — what to record each week
 
-| Date | T value | Brier score | Avg Kelly % | P&L this week | Notes |
-|---|---|---|---|---|---|
-| 2026-06-21 | 0.657 | TBD | ~6% | pending | Baseline week — model retrained on WC group stage |
+| Date | T value | Brier score | Edge over Elo | Avg Kelly % | P&L this week | Status |
+|---|---|---|---|---|---|---|
+| 2026-06-22 | 0.610 | **0.5252** | **+2.98%** | ~6% | +2 ETB (net flat) | ✅ Healthy — Brier well below 0.555 baseline |
+
+### Week 1 notes (June 22)
+- **T = 0.610** — healthy, within normal range (0.55–0.75). Model is sharpening probabilities correctly.
+- **Brier = 0.5252** — significantly better than the 0.549 historical figure and well below the 0.555 Elo baseline. Edge over Elo has widened to **+2.98%** from +1.1% — likely because WC group stage data (high-quality, high-importance matches) improved team ratings for the teams actually in the tournament.
+- **Data freshness** — WC data current to June 21 ✅. Club data current to May 24 (off-season, acceptable) ✅.
+- **P&L** — flat this week (+2 ETB net). Germany/IC bets lost, Ecuador draw saved the day. No decay signal.
+- **Action** — nothing to change. Continue as normal. Retrain with WC results weekly.

@@ -209,16 +209,26 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 | Brazil vs Haiti | Brazil 3–0 |
 | Türkiye vs Paraguay | Paraguay 1–0 |
 
-### Matchday 9 — June 20, 2026 *(today — bets placed, model retrained on group stage results)*
+### Matchday 9 — June 20, 2026
 
 | Match | Bet | Odds | Stake | Result | P&L |
 |---|---|---|---|---|---|
-| Netherlands vs Sweden | Netherlands | 1.714 | 175 ETB | pending | — |
-| Germany vs Ivory Coast | Draw | 4.60 | 119 ETB | pending | — |
-| Germany vs Ivory Coast | Ivory Coast | 6.50 | 59 ETB | pending | — |
-| Ecuador vs Curaçao | Draw | 8.50 | 24 ETB | pending | — |
+| Netherlands vs Sweden | Netherlands | 1.714 | — | **MISSED** (5–1) | — |
+| Germany vs Ivory Coast | Draw | 4.60 | 119 ETB | **LOST** (2–1) | −119 ETB |
+| Germany vs Ivory Coast | Ivory Coast | 6.50 | 59 ETB | **LOST** (2–1) | −59 ETB |
+| Ecuador vs Curaçao | Draw | 8.50 | 24 ETB | **WON** (0–0) | +180 ETB |
 
-**Day P&L: pending** | **377 ETB at risk**
+**Day P&L: +2 ETB** | **Bankroll: 2,515 ETB**
+
+### Matchday 10 — June 21, 2026 *(model not run — no bets)*
+
+| Match | Result |
+|---|---|
+| Tunisia vs Japan | Japan 4–0 |
+| Spain vs Saudi Arabia | Spain 4–0 |
+| Belgium vs Iran | 0–0 draw |
+| Uruguay vs Cape Verde | 2–2 draw |
+| New Zealand vs Egypt | Egypt 3–1 |
 
 ### Running Total
 
@@ -233,11 +243,12 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 | June 17 | — | 2,543 ETB | Model not run |
 | June 18 | −29 ETB | 2,513 ETB | South Africa drew; Switzerland & Canada won |
 | June 19 | — | 2,513 ETB | Model not run |
-| June 20 | pending | — | 377 ETB on 4 bets (model retrained on group stage) |
+| June 20 | +2 ETB | 2,515 ETB | Ecuador 0–0 draw saved the day; Netherlands missed |
+| June 21 | — | 2,515 ETB | Model not run |
 
-**Overall (settled): +513 ETB (+25.7%) across ~31 settled bets**
+**Overall (settled): +515 ETB (+25.8%) across ~33 settled bets**
 
-⚠️ Draws are hitting at a high rate — 4 out of 4 draw bets won across days 4–5. South Africa's surprise draw on day 7 was a costly reminder that large underdog bets carry real variance. The model's 1.1% long-run edge requires 500+ bets to distinguish from luck.
+⚠️ Ecuador 0–0 Curaçao at 8.50 odds (+180 ETB) rescued a day that was otherwise −178 ETB. One high-odds draw covering two straight losses is a textbook variance day — not signal.
 
 ---
 
