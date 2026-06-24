@@ -23,7 +23,8 @@ from data_loader import load_fixtures
 from dixon_coles import DixonColesModel
 from kelly import (
     build_bet_sheet, half_kelly,
-    TOTAL_BANKROLL_ETB, MAX_MATCHDAY_FRACTION, SLIPPAGE, EDGE_FLOOR,
+    TOTAL_BANKROLL_ETB, MAX_MATCHDAY_FRACTION, MAX_SINGLE_BET_FRACTION,
+    SLIPPAGE, EDGE_FLOOR,
 )
 
 # ── Constants ─────────────────────────────────────────────────────────────────
@@ -224,6 +225,9 @@ def verify_melbet_odds(actionable: pd.DataFrame) -> pd.DataFrame:
     if total_f > MAX_MATCHDAY_FRACTION:
         df["_raw_f"] *= MAX_MATCHDAY_FRACTION / total_f
 
+    # Per-bet fraction cap
+    df["_raw_f"] = df["_raw_f"].clip(upper=MAX_SINGLE_BET_FRACTION)
+
     df["Allocation (Br)"] = (df["_raw_f"] * TOTAL_BANKROLL_ETB).round(2)
     df["Half-Kelly %"]    = (df["_raw_f"] * 100).round(4)
 
@@ -329,6 +333,7 @@ def main():
     print(f"  Total stake : {total:.0f} ETB  ({pct:.1f}% of bankroll)")
     print(f"\n  Tonight, update bankroll:")
     print(f"  python -c \"from kelly import update_bankroll; update_bankroll(X)\"\n")
+    print(f"  Think about Overiding bets if:  Key player confirmed absent or Rotating Squad(Dead rubber)\n")
 
 
 if __name__ == "__main__":
