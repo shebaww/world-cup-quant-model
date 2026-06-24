@@ -119,7 +119,7 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 
 > 🟢 **LIVE** — Real money bets placed on [melbet-et.com](https://melbet-et.com) using automated execution via `morning.py` + `bet_executor.py`.
 
-**Starting bankroll: 2,000 ETB** | **Current bankroll: 2,197 ETB** | **Overall: +197 ETB (+9.9%)**
+**Starting bankroll: 2,000 ETB** | **Current bankroll: 2,134 ETB** | **Overall: +134 ETB (+6.7%)**
 
 > **June 12–19 results are real tracked bets.** From June 20 onwards, bets are placed live on melbet-et.com via the automated workflow. Bankroll reflects actual account balance.
 
@@ -236,6 +236,20 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 
 > Uruguay 2–2 Cape Verde was the decisive blow. The model gave Uruguay 95.5% — one of its highest-confidence calls — and it drew. That's a 1-in-20 outcome by the model's own estimate. Pure variance, but it cost 203 ETB in a single bet.
 
+### Matchday 11 — June 22, 2026
+
+| Match | Bet | Odds | Stake | Result | P&L |
+|---|---|---|---|---|---|
+| Argentina vs Austria | Argentina | 1.46 | 182 ETB | **WON** (2–0) | +83.72 ETB |
+| France vs Iraq | Draw | 9.7 | 42 ETB | **LOST** (France 3–0) | −42 ETB |
+| France vs Iraq | Iraq | 28.0 | 26 ETB | **LOST** (France 3–0) | −26 ETB |
+| Norway vs Senegal | Senegal | 3.35 | 17 ETB | **LOST** (Norway 3–2) | −17 ETB |
+| Jordan vs Algeria | Jordan | 6.6 | 62 ETB | **LOST** (Algeria 2–1) | −62 ETB |
+
+**Day P&L: −63.28 ETB** | **Bankroll: 2,133.99 ETB**
+
+> Argentina won comfortably but the 4 losing long shots (draw/Iraq/Senegal/Jordan) outweighed it. France 3–0 Iraq and Norway 3–2 Senegal were the model's misses — both went to the stronger team.
+
 ### Running Total
 
 | Day | P&L | Bankroll | Note |
@@ -251,10 +265,11 @@ Walk-forward evaluation across **11,849 matches** from 2014–2026. Elo is used 
 | June 19 | — | 2,513 ETB | Model not run |
 | June 20 | +2 ETB | 2,515 ETB | Ecuador 0–0 draw saved the day; Netherlands missed |
 | June 21 | −317 ETB | 2,197 ETB | Uruguay 2–2 Cape Verde at 1.455 odds — 95.5% model call lost |
+| June 22 | −63 ETB | 2,134 ETB | Argentina won; France/Iraq, Norway/Senegal, Jordan/Algeria all went to the stronger team |
 
-**Overall (settled): +197 ETB (+9.9%) across ~40 settled bets**
+**Overall (settled): +134 ETB (+6.7%) across ~45 settled bets**
 
-⚠️ Uruguay drawing at 1.455 odds is exactly the kind of low-probability high-cost event Kelly sizing cannot protect against — the stake was large *because* the model was confident. This is not model failure, it's the tail risk baked into betting 95%+ favourites at short odds with Kelly.
+⚠️ Uruguay drawing at 1.455 odds is exactly the kind of low-probability high-cost event Kelly sizing cannot protect against — the stake was large *because* the model was confident. This is not model failure, it's the tail risk baked into betting 95%+ favourites at short odds with Kelly. **100 ETB single-bet cap now in place** to limit future exposure.
 
 ---
 
