@@ -1,0 +1,97 @@
+
+Resume this session with:
+claude --resume 8f847789-986f-4199-a59c-8bdc1e42d267
+
+Daily Workflow
+
+World Cup (now → mid-July)
+
+Morning — get today's bet sheet:
+# 1. Fetch live odds
+python -c "
+import json, urllib.request, pandas as pd
+req = urllib.request.Request(
+    'https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard',
+    headers={'User-Agent': 'Mozilla/5.0'})
+with urllib.request.urlopen(req, timeout=10) as r:
+    data = json.loads(r.read())
+rows = []
+for event in data.get('events', []):
+    for comp in event.get('competitions', []):
+        comps = comp.get('competitors', [])
+        if len(comps) < 2: continue
+        home = comps[0].get('team',{}).get('displayName','')
+        away = comps[1].get('team',{}).get('displayName','')
+        od = (comp.get('odds') or [{}])[0] or {}
+        ml = od.get('moneyline') or {}
+        def dec(node, key='close'):
+            v = ((node.get(key) or {}).get('odds') or (node.get('open') or {}).get('odds'))
+            try:
+                v = int(str(v).replace('+',''))
+                return round(v/100+1,3) if v>0 else round(100/abs(v)+1,3)
+            except: return None
+        dn = od.get('drawOdds') or {}
+        h = dec(ml.get('home') or {})
+        d_v = dn.get('close',{}).get('odds') or dn.get('open',{}).get('odds') or dn.get('moneyLine')
+        try:
+            d_v = int(str(d_v).replace('+',''))
+            d = round(d_v/100+1,3) if d_v > 0 else round(100/abs(d_v)+1,3)
+        except: d = None
+        a = dec(ml.get('away') or {})
+        if h and d and a:
+            rows.append({'home_team':home,'away_team':away,'home_odds':h,'draw_odds':d,'away_odds':a})
+pd.DataFrame(rows).to_csv('todays_wc_odds.csv', index=False)
+print(f'{len(rows)} fixtures saved')
+"
+
+# 2. Run model → bet sheet
+python main.py --fixtures real_fixtures.csv --ref-date $(date +%Y-%m-%d) --host Canada --no-sim --odds todays_wc_odds.csv
+
+Evening — after results, update bankroll:
+# Replace 150 with actual net P&L (positive = won, negative = lost)
+python -c "from kelly import update_bankroll; update_bankroll(150)"
+
+---
+Club Football (EPL starts August, others ongoing)
+
+One-time setup (run once):
+python club_main.py --fetch
+
+Morning — get today's bet sheet:
+# EPL
+python club_main.py --league epl
+
+# Other leagues (run whichever has games today)
+python club_main.py --league laliga
+python club_main.py --league bundesliga
+python club_main.py --league seriea
+python club_main.py --league ligue1
+
+Evening — update bankroll after results:
+python -c "from kelly import update_bankroll; update_bankroll(-200)"
+
+---
+Weekly — retrain on new results
+
+Every Sunday, add that week's results to the training data and retrain:
+
+# For WC: append results to real_fixtures.csv then rerun normally (model auto-retrains on fit)
+# For club: re-fetch updated data
+python club_main.py --fetch   # pulls latest completed matches automatically
+
+---
+Schedule
+
+┌───────────────────────────────────┬───────────────────────────────────────────────────┐
+│               When                │                      Command                      │
+├───────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Every morning with WC games       │ WC odds fetch + main.py                           │
+├───────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Every morning with EPL/Liga games │ club_main.py --league epl (or relevant league)    │
+├───────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Every evening after results       │ update_bankroll(X)                                │
+├───────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Every Sunday                      │ club_main.py --fetch to retrain on week's results │
+├───────────────────────────────────┼───────────────────────────────────────────────────┤
+│ After WC group stage result       │ Already done — real_fixtures.csv is up to date    │
+└───────────────────────────────────┴───────────────────────────────────────────────────┘

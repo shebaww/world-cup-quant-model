@@ -172,6 +172,7 @@ If this happens: pause betting, do a full retrain with a longer data window, and
 | Date | T value | Brier score | Edge over Elo | Avg Kelly % | P&L this week | Status |
 |---|---|---|---|---|---|---|
 | 2026-06-22 | 0.610 | **0.5252** | **+2.98%** | ~6% | +2 ETB (net flat) | ✅ Healthy — Brier well below 0.555 baseline |
+| 2026-06-23 | — | **0.5347** | **+3.8%** | — | −317 ETB (Uruguay loss) | ✅ Healthy — DC Brier ticked up but edge over Elo widened |
 
 ### Week 1 notes (June 22)
 - **T = 0.610** — healthy, within normal range (0.55–0.75). Model is sharpening probabilities correctly.
@@ -179,3 +180,10 @@ If this happens: pause betting, do a full retrain with a longer data window, and
 - **Data freshness** — WC data current to June 21 ✅. Club data current to May 24 (off-season, acceptable) ✅.
 - **P&L** — flat this week (+2 ETB net). Germany/IC bets lost, Ecuador draw saved the day. No decay signal.
 - **Action** — nothing to change. Continue as normal. Retrain with WC results weekly.
+
+### Week 2 notes (June 23)
+- **Brier = 0.5347** — ticked up from 0.5252, likely because June 18–21 WC results included surprising outcomes (Uruguay 2–2 Cape Verde, Belgium–Iran draw). Still well under the 0.550 threshold.
+- **Elo Brier = 0.5555** — stable, essentially unchanged from last week's ~0.555 baseline.
+- **Edge over Elo = +3.8%** — improved from +2.98% despite DC Brier rising. Elo and DC are both slightly worse on recent noise, but DC degrades less. Model remains sharper than a market proxy.
+- **P&L** — −317 ETB this week, driven entirely by Uruguay loss (203 ETB stake at 1.455 odds). Fix applied: 100 ETB single-bet hard cap now in kelly.py.
+- **Action** — nothing structural to change. Single-bet cap deployed. Continue retraining on WC knockouts as they complete.
